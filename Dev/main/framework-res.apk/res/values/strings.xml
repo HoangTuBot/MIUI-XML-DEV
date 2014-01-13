@@ -263,7 +263,6 @@ using %s"</string>
   <string name="default_audio_route_name_headphones">Headphones</string>
   <string name="default_permission_group">Default</string>
   <string name="default_text_encoding">Latin-1</string>
-  <string name="default_wallpaper_component">@null</string>
   <string name="delete">Delete</string>
   <string name="deleteText">delete</string>
   <string name="deny">Deny</string>

@@ -23,28 +23,8 @@
         <item>9</item>
     </string-array>
     <array name="opt_score_entryValues">
-        <item>@drawable/digit0</item>
-        <item>@drawable/digit1</item>
-        <item>@drawable/digit2</item>
-        <item>@drawable/digit3</item>
-        <item>@drawable/digit4</item>
-        <item>@drawable/digit5</item>
-        <item>@drawable/digit6</item>
-        <item>@drawable/digit7</item>
-        <item>@drawable/digit8</item>
-        <item>@drawable/digit9</item>
     </array>
     <array name="opt_score_entryValues_small">
-        <item>@drawable/digit_small_0</item>
-        <item>@drawable/digit_small_1</item>
-        <item>@drawable/digit_small_2</item>
-        <item>@drawable/digit_small_3</item>
-        <item>@drawable/digit_small_4</item>
-        <item>@drawable/digit_small_5</item>
-        <item>@drawable/digit_small_6</item>
-        <item>@drawable/digit_small_7</item>
-        <item>@drawable/digit_small_8</item>
-        <item>@drawable/digit_small_9</item>
     </array>
     <string-array name="power_mode_entries">
         <item>High performance</item>
@@ -253,15 +233,8 @@
         <item>Temporarily avoiding poor connection</item>
     </string-array>
     <string-array name="wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
     </string-array>
     <string-array name="wifi_security_no_eap">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
         <item>WAPI PSK</item>
         <item>WAPI CERT</item>
     </string-array>
@@ -580,14 +553,8 @@
         <item>1</item>
     </string-array>
     <string-array name="input_method_selector_titles">
-        <item>@string/input_method_selector_show_automatically_title</item>
-        <item>@string/input_method_selector_always_show_title</item>
-        <item>@string/input_method_selector_always_hide_title</item>
     </string-array>
     <string-array name="input_method_selector_values">
-        <item>@string/input_method_selector_show_automatically_value</item>
-        <item>@string/input_method_selector_always_show_value</item>
-        <item>@string/input_method_selector_always_hide_value</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Strong</item>
@@ -690,10 +657,6 @@
         <item>WAPI CERT</item>
     </string-array>
     <string-array name="mi2_wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
         <item>WAPI PSK</item>
         <item>WAPI CERT</item>
     </string-array>
@@ -744,10 +707,6 @@
         <item>-1</item>
     </string-array>
     <string-array name="font_size_title">
-        <item>@string/font_size_small</item>
-        <item>@string/font_size_normal</item>
-        <item>@string/font_size_medium</item>
-        <item>@string/font_size_large</item>
     </string-array>
     <integer-array name="font_size_preference_preview_size">
         <item>14</item>
@@ -756,15 +715,8 @@
         <item>27</item>
     </integer-array>
     <string-array name="dolby_mode_entries">
-        <item>@string/dolby_mode_off</item>
-        <item>@string/dolby_mode_music</item>
-        <item>@string/dolby_mode_movie</item>
     </string-array>
     <string-array name="dolby_equalizer_preset_names">
-        <item>@string/dolby_ieq_flat</item>
-        <item>@string/dolby_ieq_open</item>
-        <item>@string/dolby_ieq_rich</item>
-        <item>@string/dolby_ieq_focused</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Device connected, creating session…</item>
@@ -852,12 +804,8 @@ phone will open automatically when connected to a computer."</item>
         <item>2</item>
     </string-array>
     <string-array name="dndm_vip_list_group_array">
-        <item>@string/dndm_vip_list_custom</item>
-        <item>@string/dndm_vip_list_contact</item>
     </string-array>
     <string-array name="dndm_auto_time_trun_on_off">
-        <item>@string/dndm_auto_time_turn_on</item>
-        <item>@string/dndm_auto_time_turn_off</item>
     </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 minutes</item>
