@@ -550,7 +550,9 @@ Step out of view for a moment"</string>
   <string name="wechat_details">WeChat details:</string>
   <string name="white_balance">White balance</string>
   <string name="width">Width</string>
-  <string name="wifi_connect_fail">Connection timed out</string>
+  <string name="wifi_connect_current_connetion">You have connected to the WLAN</string>
+  <string name="wifi_connect_fail">Connection fail</string>
+  <string name="wifi_connect_not_found">"Can't find the WLAN"</string>
   <string name="wifi_connect_success">Connected</string>
   <string name="wifi_connecting">Connecting…</string>
   <string name="wifi_details">WLAN details:</string>
