@@ -327,7 +327,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="display_warn_remove_ungrouped">Removing \"%s\" from sync will also remove any ungrouped contacts from sync.</string>
   <string name="dlg_add_blacklist">Block this number?</string>
   <string name="dlg_remove_blacklist">Unblock this number?</string>
-  <string name="download_failed">Import failed</string>
+  <string name="download_failed">Download failed</string>
   <string name="download_preview_failed">Failed to load preview</string>
   <string name="duplicate_group_name">A group with that name already exists</string>
   <string name="editContactDescription">Edit contact</string>
@@ -399,6 +399,7 @@ Reason: \"%s\""</string>
   <string name="group_delete_success_toast">Group deleted</string>
   <string name="group_edit_field_hint_text">Group name</string>
   <string name="group_member_remove_toast">Removed from group</string>
+  <string name="group_name">My groups</string>
   <string name="group_name_hint">"Group's name"</string>
   <string name="group_read_only">Not editable on this device.</string>
   <string name="group_rename_dialog_title">Rename group</string>
@@ -489,7 +490,6 @@ Reason: \"%s\""</string>
   <string name="local_profile_title">My local profile</string>
   <string name="local_search_label">All contacts</string>
   <string name="locale_change_in_progress">Contact list is being updated to reflect the change of language.</string>
-  <string name="login_before_recharging">You need to sign in before you can top up.</string>
   <string name="login_ok">Sign in</string>
   <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
   <string name="make_primary">Remember this choice</string>
@@ -810,6 +810,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Resource Browser</string>
   <string name="resource_apply">Apply</string>
+  <string name="resource_apply_trial">Try now</string>
   <string name="resource_buy">Buy</string>
   <string name="resource_can_not_selected">"%1$s can't be selected"</string>
   <string name="resource_category">Category</string>
@@ -834,7 +835,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_comment_invalid">Touch the stars to rate the theme</string>
   <string name="resource_comment_loading_list">Loading…</string>
   <string name="resource_comment_name_default">User %1$s</string>
-  <string name="resource_comment_no_average_score">-.-</string>
+  <string name="resource_comment_no_average_score">N/A</string>
   <string name="resource_comment_no_comment">No comments</string>
   <string name="resource_comment_publish">Submit</string>
   <string name="resource_comment_rate">Rating:</string>
@@ -864,6 +865,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_detail_update_log_title">Updates</string>
   <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">Download</string>
+  <string name="resource_download_trial">Free trial</string>
   <string name="resource_downloaded_title">Downloaded resources</string>
   <string name="resource_downloading">Downloading</string>
   <string name="resource_exchange">Redeem</string>
@@ -891,6 +893,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_get_auth_missing">Themes from thirdparty sources are not supported</string>
   <string name="resource_get_auth_retrieving">Retrieving authorization…</string>
   <string name="resource_hint">Alert</string>
+  <string name="resource_import_failed">Import failed</string>
   <string name="resource_import_successful">Download complete</string>
   <string name="resource_importing">Importing…</string>
   <string name="resource_list_title">Latest selected</string>
@@ -900,6 +903,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_my">Local</string>
   <string name="resource_no_result">"Couldn't find anything"</string>
   <string name="resource_notification_default">Notifications</string>
+  <string name="resource_on_trial">Trying: %1$s</string>
   <string name="resource_online">Online %1$s</string>
   <string name="resource_pack_confirm">"Even though you've already purchased %1$d components in this theme, it's still cheaper if you buy the full bundle."</string>
   <string name="resource_pack_discount_info">%1$s saved</string>
@@ -916,6 +920,7 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_ranking_free">Free</string>
   <string name="resource_ranking_purchase">Paid</string>
   <string name="resource_ringtone_default">Ringtones</string>
+  <string name="resource_ringtone_playing_error">playing error</string>
   <string name="resource_ringtone_volume_mute">Your ringer is currently silenced</string>
   <string name="resource_save_to_note">Save to Notes</string>
   <string name="resource_see_more">See more</string>
@@ -931,6 +936,11 @@ Touch the Merge icon at the bottom to begin."</string>
   <string name="resource_tip_select_ringtone">None selected</string>
   <string name="resource_title">Resource detail</string>
   <string name="resource_title_select_ringtone">Select tone</string>
+  <string name="resource_trial_end_message">Trial of %1$s expired. If you like, please purchase it.</string>
+  <string name="resource_trial_end_purchase">Purchase</string>
+  <string name="resource_trial_end_restore">Finish trial</string>
+  <string name="resource_trial_end_title">Trial expired</string>
+  <string name="resource_trial_time">（trial for %1$d minutes）</string>
   <string name="resource_unable_to_access">"Unfortunately,
 the content you're looking for is not currently available in your region."</string>
   <string name="resource_unknow_error">An unknown error occurred</string>

@@ -23,7 +23,6 @@
   <string name="all_tracks">All Songs</string>
   <string name="android_album_settings">Display embedded artwork</string>
   <string name="android_album_summary">Display embedded image files</string>
-  <string name="app_class">com.miui.player.Application</string>
   <string name="artist_albums">All Albums</string>
   <string name="artist_details_format">%1$s, %2$s</string>
   <string name="artist_edit">Artist</string>

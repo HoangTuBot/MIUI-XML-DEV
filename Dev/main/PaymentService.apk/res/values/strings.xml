@@ -357,6 +357,7 @@ Wait five minutes and try again."</string>
   <string name="msg_telecom_sending">Contacting network provider…</string>
   <string name="order_price">%1$s MiCredits</string>
   <string name="password_error">Password incorrect.</string>
+  <string name="password_forget">forgot?</string>
   <string name="password_hint">Enter account password</string>
   <string name="pay_record_empty">No payment records.</string>
   <string name="pay_record_typeall">All</string>

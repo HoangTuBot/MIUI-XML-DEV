@@ -36,7 +36,7 @@
   <string name="description_version">Version</string>
   <string name="description_version_szie">Version: %1$s Size: %2$s</string>
   <string name="desktop_wallpaper">Home screen</string>
-  <string name="download_failed">Import failed</string>
+  <string name="download_failed">Download failed</string>
   <string name="download_preview_failed">Failed to load preview</string>
   <string name="download_success">Download complete</string>
   <string name="fail_to_add_account">Failed to add account</string>
@@ -52,6 +52,7 @@
   <string name="online_no_network">"Couldn't connect to network"</string>
   <string name="online_search_hint">Search for online resources</string>
   <string name="payment_info">MiCredits</string>
+  <string name="purchased_list">Purchased List</string>
   <string name="resource_account_abnormal_state">Account error. Try again later.</string>
   <string name="resource_account_current">Account: %1$s</string>
   <string name="resource_account_fail_to_add">Failed to add account</string>
@@ -62,6 +63,7 @@
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Resource Browser</string>
   <string name="resource_apply">Apply</string>
+  <string name="resource_apply_trial">Try now</string>
   <string name="resource_buy">Buy</string>
   <string name="resource_can_not_selected">"%1$s can't be selected"</string>
   <string name="resource_category">Category</string>
@@ -86,7 +88,7 @@
   <string name="resource_comment_invalid">Touch the stars to rate the theme</string>
   <string name="resource_comment_loading_list">Loading…</string>
   <string name="resource_comment_name_default">User %1$s</string>
-  <string name="resource_comment_no_average_score">-.-</string>
+  <string name="resource_comment_no_average_score">N/A</string>
   <string name="resource_comment_no_comment">No comments</string>
   <string name="resource_comment_publish">Submit</string>
   <string name="resource_comment_rate">Rating:</string>
@@ -116,6 +118,7 @@
   <string name="resource_detail_update_log_title">Updates</string>
   <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">Download</string>
+  <string name="resource_download_trial">Free trial</string>
   <string name="resource_downloaded_title">Downloaded resources</string>
   <string name="resource_downloading">Downloading</string>
   <string name="resource_exchange">Redeem</string>
@@ -143,6 +146,7 @@
   <string name="resource_get_auth_missing">Themes from thirdparty sources are not supported</string>
   <string name="resource_get_auth_retrieving">Retrieving authorization…</string>
   <string name="resource_hint">Alert</string>
+  <string name="resource_import_failed">Import failed</string>
   <string name="resource_import_successful">Download complete</string>
   <string name="resource_importing">Importing…</string>
   <string name="resource_list_title">Latest selected</string>
@@ -152,6 +156,7 @@
   <string name="resource_my">Local</string>
   <string name="resource_no_result">"Couldn't find anything"</string>
   <string name="resource_notification_default">Notifications</string>
+  <string name="resource_on_trial">Trying: %1$s</string>
   <string name="resource_online">Online %1$s</string>
   <string name="resource_pack_confirm">"Even though you've already purchased %1$d components in this theme, it's still cheaper if you buy the full bundle."</string>
   <string name="resource_pack_discount_info">%1$s saved</string>
@@ -169,6 +174,7 @@
   <string name="resource_ranking_free">Free</string>
   <string name="resource_ranking_purchase">Paid</string>
   <string name="resource_ringtone_default">Ringtones</string>
+  <string name="resource_ringtone_playing_error">playing error</string>
   <string name="resource_ringtone_volume_mute">Your ringer is currently silenced</string>
   <string name="resource_save_to_note">Save to Notes</string>
   <string name="resource_see_more">See more</string>
@@ -184,6 +190,11 @@
   <string name="resource_tip_select_ringtone">None selected</string>
   <string name="resource_title">Resource detail</string>
   <string name="resource_title_select_ringtone">Select tone</string>
+  <string name="resource_trial_end_message">Trial of %1$s expired. If you like, please purchase it.</string>
+  <string name="resource_trial_end_purchase">Purchase</string>
+  <string name="resource_trial_end_restore">Finish trial</string>
+  <string name="resource_trial_end_title">Trial expired</string>
+  <string name="resource_trial_time">（trial for %1$d minutes）</string>
   <string name="resource_unable_to_access">"Unfortunately,
 the content you're looking for is not currently available in your region."</string>
   <string name="resource_unknow_error">An unknown error occurred</string>

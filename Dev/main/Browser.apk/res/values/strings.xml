@@ -289,6 +289,7 @@
   <string name="move_to_up_folder">Go up one level</string>
   <string name="multi_select_title">%1$s selected</string>
   <string name="name">Label</string>
+  <string name="network_alert_message">WLAN not avaliable，use mobile networks?</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Do you want to connect?</string>
   <string name="network_show_wifi_setting_tip_dialog_notshow">Remember my choice</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">WLAN available notification</string>
@@ -297,6 +298,7 @@
   <string name="new_folder">New folder</string>
   <string name="new_incognito_tab">New incognito tab</string>
   <string name="new_tab">New window</string>
+  <string name="no">No</string>
   <string name="no_subfolders">No subfolders.</string>
   <string name="not_enough_disk_space_alert">Not enough disk space</string>
   <string name="not_remind_again">Remember my choice</string>
@@ -632,4 +634,5 @@
   <string name="webstorage_origin_summary_mb_stored">MB stored on your phone</string>
   <string name="webstorage_outofspace_notification_text">Touch to free up space.</string>
   <string name="webstorage_outofspace_notification_title">Browser storage full</string>
+  <string name="yes">Yes</string>
 </resources>
