@@ -17,7 +17,7 @@
   <string name="access_control_no_back_footer">Touch [icon] to exit</string>
   <string name="access_control_password_title">Password</string>
   <string name="access_control_recording_intro_header">Draw an unlock pattern:</string>
-  <string name="access_control_reset_by_account">Sign in to your Xiaomi Account to reset password</string>
+  <string name="access_control_reset_by_account">Sign in to your Mi Account to reset password</string>
   <string name="accessibility_enable">Accessibility</string>
   <string name="accessibility_long_press_timeout_title">Touch &amp; hold delay</string>
   <string name="accessibility_menu_item_settings">Settings</string>
@@ -780,11 +780,11 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="device_status_summary">Battery Status, battery level, etc.</string>
   <string name="dialog_title_font_size">Font size</string>
   <string name="dirac_control">MI Sound</string>
-  <string name="dirac_mode_earbuds">Xiaomi earbuds</string>
+  <string name="dirac_mode_earbuds">Mi earbuds</string>
   <string name="dirac_mode_general">General</string>
-  <string name="dirac_mode_in_ear">Xiaomi in-ear headphones</string>
+  <string name="dirac_mode_in_ear">Mi in-ear headphones</string>
   <string name="dirac_mode_off">Dirac Off</string>
-  <string name="dirac_mode_piston_100">Xiaomi piston headphones</string>
+  <string name="dirac_mode_piston_100">Mi piston headphones</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_adb_debug_summary">Disable USB debugging</string>
   <string name="disable_anti_spam_summary">Message filter disabled</string>
@@ -924,7 +924,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="erase_internal_storage_description">Erase music, photos, videos, and other user data</string>
   <string name="erase_optional">Content</string>
   <string name="erase_personal_data">Personal data</string>
-  <string name="erase_personal_data_description">Erase your Xiaomi Account info, app data, and system settings</string>
+  <string name="erase_personal_data_description">Erase your Mi Account info, app data, and system settings</string>
   <string name="erase_sure">Personal data</string>
   <string name="error_apn_empty">"The APN can't be empty."</string>
   <string name="error_mcc_not3">MCC field must be 3 digits.</string>
@@ -1327,25 +1327,25 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="mem_unlock">Unlock</string>
   <string name="member_firewall_log" formatted="false">Blocked: Number%d, details%d</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Apps (app data &amp; media content)</string>
+  <string name="memory_apps_usage">Apps</string>
   <string name="memory_available">Available</string>
   <string name="memory_calculating_size">Calculating…</string>
   <string name="memory_dcim_usage">Pictures, videos</string>
   <string name="memory_downloads_usage">Downloads</string>
   <string name="memory_media_misc_usage">Misc.</string>
   <string name="memory_media_usage">Media</string>
-  <string name="memory_music_usage">Audio (music, ringtones, podcasts, etc.)</string>
+  <string name="memory_music_usage">Audio</string>
   <string name="memory_size">Total space</string>
   <string name="memory_title">Available %1$s\u0009\u0009Total %2$s</string>
   <string name="menu_cancel">Discard</string>
   <string name="menu_delete">Delete APN</string>
   <string name="menu_edit">Edit</string>
-  <string name="menu_item_about_content">Security: %s</string>
+  <string name="menu_item_about_content">Version：%s</string>
   <string name="menu_item_about_summary">Version：%s</string>
   <string name="menu_item_about_title">About</string>
   <string name="menu_item_settings_title">Settings</string>
   <string name="menu_item_shortcut">Create shortcuts</string>
-  <string name="menu_item_shortcut_summary">Put often-used features on desktop</string>
+  <string name="menu_item_shortcut_summary">Place frequently-used features on your Home screen</string>
   <string name="menu_item_shortcut_title">Add shortcut</string>
   <string name="menu_item_shortcut_uninstall">Uninstall shortcuts</string>
   <string name="menu_key">Menu</string>
@@ -1737,7 +1737,7 @@ Be careful, granting root permission to third-party apps may destabilize your de
   <string name="power_center_on_time_title">Scheduled</string>
   <string name="power_center_state_off">Off</string>
   <string name="power_center_state_on">On</string>
-  <string name="power_center_title">Battery</string>
+  <string name="power_center_title">Power</string>
   <string name="power_chooser_check_box_summary">Choose a battery settings configuration to extend battery life</string>
   <string name="power_chooser_check_box_title">Apply configuration</string>
   <string name="power_chooser_mine_summary">Custom configuration for battery</string>
@@ -1914,7 +1914,7 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="privacy_settings_title">Backup &amp; reset</string>
   <string name="private_sms_need_to_unlock">Password required:</string>
   <string name="private_sms_recording_intro_header">Draw an unlock pattern:</string>
-  <string name="private_sms_reset_by_account">Sign in to your Xiaomi Account to reset password</string>
+  <string name="private_sms_reset_by_account">To reset password, sign in to your Mi Account</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_list_empty_hints">No cached processes</string>
   <string name="process_manage_title">Clear %1$d processes, free %2$s of memory</string>
@@ -2074,7 +2074,7 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="roaming_turn_it_on_button">Turn it on</string>
   <string name="roaming_warning">When you allow data roaming, you may incur significant roaming charges!</string>
   <string name="rssi_label">RSSI:</string>
-  <string name="rubbish_cleaning">System cleanup</string>
+  <string name="rubbish_cleaning">Cleaner</string>
   <string name="running_processes_item_description_p_p">%1$d processes and %2$d services</string>
   <string name="running_processes_item_description_p_s">%1$d processes and %2$d service</string>
   <string name="running_processes_item_description_s_p">%1$d process and %2$d services</string>
@@ -2425,8 +2425,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="title_virus_update_yes">Auto-update for virus definitions on</string>
   <string name="title_virus_yes">No viruses detected</string>
   <string name="toast_qucik_scan_list_empty">Everything looks good, no need to clean!</string>
-  <string name="toast_shortcut_install">Shortcut installed</string>
-  <string name="toast_shortcut_uninstall">Shortcut uninstalled</string>
+  <string name="toast_shortcut_install">Shortcut placed on Home screen</string>
+  <string name="toast_shortcut_uninstall">Shortcut removed</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
   <string name="track_frame_time">Profile GPU rendering</string>
@@ -2602,7 +2602,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="user_system_apps_heading">System apps</string>
   <string name="valuation">Clean recommended</string>
   <string name="versionCode">2</string>
-  <string name="versionName">1.0.131218</string>
+  <string name="versionName">1.0.140114</string>
   <string name="version_text">version %1$s</string>
   <string name="vibrate_category_title">Vibrate</string>
   <string name="vibrate_in_normal_title">Vibrate when ringing</string>
@@ -2673,7 +2673,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scan_safe">Clear</string>
   <string name="virus_scan_settings">Settings</string>
   <string name="virus_scan_settings_title">Virus definition settings</string>
-  <string name="virus_scan_start">Scan for viruses</string>
+  <string name="virus_scan_start">Virus scan</string>
   <string name="virus_scan_stop">Pause</string>
   <string name="virus_scan_support">Powered by Tencent</string>
   <string name="virus_scan_uninstalled_package">%s (install pkg)</string>
@@ -2942,7 +2942,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_share">Share WLAN</string>
   <string name="wifi_share_action_turn_off">Stop sharing networks</string>
   <string name="wifi_share_action_turn_on">Share WLAN</string>
-  <string name="wifi_share_action_turn_on_summary">Sign in to your Xiaomi Account to share</string>
+  <string name="wifi_share_action_turn_on_summary">Sign in to your Mi Account to share</string>
   <string name="wifi_share_add">Share my public networks</string>
   <string name="wifi_share_add_summary">"When you share your public networks,
  you can use other users' networks too"</string>
@@ -2952,7 +2952,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_share_count">You have shared %d networks</string>
   <string name="wifi_share_current_network">Current network</string>
   <string name="wifi_share_know">OK</string>
-  <string name="wifi_share_list_empty">No shared networks found.</string>
+  <string name="wifi_share_list_empty">No shared networks found</string>
   <string name="wifi_share_login">Share WLAN network</string>
   <string name="wifi_share_login_summary">If this is a public network, you can share it with other MIUI users.</string>
   <string name="wifi_share_notification_summary">MIUI has connected you to a public WLAN network.</string>
@@ -3036,9 +3036,9 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Make sure the router supports and has enabled WPS</string>
   <string name="wps_connect_title">Connect WPS</string>
-  <string name="xiaomi_account">Xiaomi Account</string>
-  <string name="xiaomi_cloud_service">MiCloud</string>
-  <string name="xiaomi_money_service">MiCredit center</string>
+  <string name="xiaomi_account">Mi Account</string>
+  <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_money_service">Mi Credit center</string>
   <string name="yes">Yes</string>
   <string name="zone_auto">Automatic time zone</string>
   <string name="zone_auto_summaryOff">Use network-provided time zone</string>

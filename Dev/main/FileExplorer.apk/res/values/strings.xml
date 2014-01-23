@@ -29,6 +29,7 @@
   <string name="category_document">Docs</string>
   <string name="category_favorite">Starred</string>
   <string name="category_log">Logs</string>
+  <string name="category_mirouter">MiRouter</string>
   <string name="category_music">Music</string>
   <string name="category_other">Other</string>
   <string name="category_picture">Images</string>
