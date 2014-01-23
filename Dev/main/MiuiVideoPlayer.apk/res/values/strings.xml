@@ -10,6 +10,8 @@
   <string name="adjust_position_prev_media_notice">上一个</string>
   <string name="airkan_control_device_des">您可以通过底部的按钮控制视频的播放</string>
   <string name="airkan_device_xiaomi_phone">小米手机</string>
+  <string name="airkan_tips">"点这里，将正在播放的视频
+投影到盒子/电视上"</string>
   <string name="airkan_video_playing">播放</string>
   <string name="airkan_video_playing_in">视频正在</string>
   <string name="app_name">视频播放器</string>

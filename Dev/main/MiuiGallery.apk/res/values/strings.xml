@@ -82,7 +82,7 @@
   <string name="clear_thumbnail_cache_summary">Clear thumbnails cached in Browser</string>
   <string name="click_top_right">Tap the icon on the top-right</string>
   <string name="close">Close</string>
-  <string name="cloud_album_more_settings">Sync with MiCloud</string>
+  <string name="cloud_album_more_settings">Sync with Mi Cloud</string>
   <string name="cloud_album_set_create">New</string>
   <string name="cloud_album_set_scan_qr_code">QR code</string>
   <string name="cloud_albums">Cloud images</string>

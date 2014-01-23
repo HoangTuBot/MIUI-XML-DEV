@@ -149,6 +149,9 @@ Use only the supplied charger."</string>
   <string name="notification_otg_unknow_out">OTG device disconnected</string>
   <string name="notifications_off_text">Tap here to turn notifications back on.</string>
   <string name="notifications_off_title">Notifications off</string>
+  <string name="oldman_airplane_mode_text">Airplane</string>
+  <string name="oldman_incall_text">incall</string>
+  <string name="oldman_status_bar_time_format">HH:mm</string>
   <string name="recent_apps_key">Recent apps button</string>
   <string name="recent_apps_key_show">Show recent apps button</string>
   <string name="return_to_incall_screen">Return to call</string>
@@ -197,7 +200,7 @@ yyyy.M.d"</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Set up input methods</string>
   <string name="status_bar_network_flow">"Today: %1$s    Remaining: %2$s    Package: %3$s"</string>
   <string name="status_bar_network_flow_exceed">"Today: %1$s    Exceeded: %2$s    Package: %3$s"</string>
-  <string name="status_bar_network_flow_today">Today:%1$s</string>
+  <string name="status_bar_network_flow_today">Today: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">No recent apps</string>
   <string name="status_bar_notification_inspect_item_title">App info</string>

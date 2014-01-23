@@ -9,8 +9,7 @@ Allow this now and in the future?"</string>
   <string name="app_name">Package installer</string>
   <string name="app_not_found_dlg_text">The application was not found in the list of installed applications.</string>
   <string name="app_not_found_dlg_title">Application not found</string>
-  <string name="auto_startup_dialog_msg">"Miui will allow the App starting up automatically without asking. Which maybe lead to consumption of power or data traffic.
-Allow Autostart？"</string>
+  <string name="auto_startup_dialog_msg">MIUI will allow this app to start without your permission.</string>
   <string name="caller_app">Caller: %1$s</string>
   <string name="cancel">Cancel</string>
   <string name="dlg_app_replacement_statement">"The application you are installing will replace another application.
@@ -24,7 +23,7 @@ Sure to install?"</string>
 
 All previous user data will be saved."</string>
   <string name="done">Done</string>
-  <string name="high_risk_perms">High-risk Permissions</string>
+  <string name="high_risk_perms">High-risk permissions</string>
   <string name="install">Install</string>
   <string name="install_confirm_question">Do you want to install this application?</string>
   <string name="install_done">Application installed</string>
@@ -35,13 +34,13 @@ All previous user data will be saved."</string>
   <string name="install_failed_invalid_apk">The package appears to be corrupt.</string>
   <string name="install_failed_msg">%1$s could not be installed on this phone.</string>
   <string name="install_failed_older_sdk">The package only works on newer versions of Android.</string>
-  <string name="install_failed_system_incompatible">This app is not compatible with MIUI system.</string>
+  <string name="install_failed_system_incompatible">"This app isn't compatible with MIUI"</string>
   <string name="install_failed_verify_failed">The package did not pass verification and cannot be installed.</string>
   <string name="install_failed_verify_timeout">A timeout occurred while trying to verify this package. Please try to install it again later.</string>
   <string name="installing">Installing…</string>
   <string name="launch">Open</string>
   <string name="lift_ban">Lift ban</string>
-  <string name="low_risk_perms">Low-risk Permissions</string>
+  <string name="low_risk_perms">Low-risk permissions</string>
   <string name="manage_applications">Manage applications</string>
   <string name="manage_device_administrators">Manage device administrators</string>
   <string name="ok">OK</string>
@@ -51,21 +50,20 @@ All previous user data will be saved."</string>
   <string name="perm_action_accept">Allow</string>
   <string name="perm_action_prompt">Ask</string>
   <string name="perm_action_reject">Deny</string>
-  <string name="perm_notice">Alert of Security</string>
+  <string name="perm_notice">Alert</string>
   <string name="perm_privacy_app_finish">Finish</string>
-  <string name="perm_privacy_app_installed">Installation succeeded!</string>
+  <string name="perm_privacy_app_installed">Installation complete</string>
   <string name="perm_privacy_app_launch">Launch</string>
   <string name="perm_privacy_app_trust">I trust this App</string>
   <string name="perm_privacy_app_trust_summary">MIUI will monitor this App</string>
   <string name="perm_sysopt_boost_auto_start">Autostart permission</string>
-  <string name="perm_sysopt_boost_auto_start_summary">The app will start up automatically!</string>
+  <string name="perm_sysopt_boost_auto_start_summary">This app will start up automatically</string>
   <string name="privacy_relative">Private relative permissions</string>
   <string name="safe_guard_support">Technical support provided by %1$s</string>
   <string name="safe_relative">Safe relative permissions</string>
   <string name="security_settings_desc">Allow this application to:</string>
   <string name="settings">Settings</string>
-  <string name="trust_switch_dialog_msg">"Miui will not ask you for confirmation of any security and privacy related operations from this App. Please make sure that you have got it.
-Trust this App？"</string>
+  <string name="trust_switch_dialog_msg">MIUI will not ask you to confirm any security or privacy related operations carried out by this app.</string>
   <string name="uninstall_activity_text">%1$s is part of the following application:</string>
   <string name="uninstall_application_text">This application will be uninstalled.</string>
   <string name="uninstall_application_title">Uninstall Application</string>
@@ -74,7 +72,7 @@ Trust this App？"</string>
   <string name="uninstall_failed">Uninstall not successful</string>
   <string name="uninstall_failed_device_policy_manager">Cannot uninstall: this package is an active device administrator.</string>
   <string name="uninstall_failed_msg">%1$s could not be uninstalled</string>
-  <string name="uninstall_failed_retained_app_msg">Application customized by the operator could not be uninstalled</string>
+  <string name="uninstall_failed_retained_app_msg">"This app has been modified and can't be uninstalled in its current form."</string>
   <string name="uninstall_update_text">The application will be replaced with the factory version.</string>
   <string name="uninstall_update_title">Uninstall Update</string>
   <string name="uninstalling">Uninstalling…</string>

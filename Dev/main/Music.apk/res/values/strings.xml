@@ -192,9 +192,9 @@
   <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Music</string>
   <string name="menu_higher_quality_music">Higher quality music (monthly access)</string>
-  <string name="mi_effect">MiSound</string>
-  <string name="mi_effect_summary">Always use MiSound enhancer when using speakers</string>
-  <string name="mi_effect_title">Use MiSound enhancer</string>
+  <string name="mi_effect">Mi Sound</string>
+  <string name="mi_effect_summary">"Always use Mi Sound when using phone's speakers"</string>
+  <string name="mi_effect_title">Mi Sound enhancer</string>
   <string name="min_interval">1</string>
   <string name="mobile_connect_settings">Mobile network</string>
   <string name="modify_id3_for_list">"Listed songs' info will be changed."</string>
@@ -313,7 +313,7 @@
   <string name="streamloadingtext">Connecting to %s</string>
   <string name="synchronize_guide_toast">To enable sync, go to Settings &gt; Sync playlists</string>
   <string name="synchronize_playlist_setting">Sync playlist</string>
-  <string name="synchronize_playlist_summary">Sync your playlist with MiCloud</string>
+  <string name="synchronize_playlist_summary">Sync your playlist with Mi Cloud</string>
   <string name="synchronize_to_baidu_cloud">Back up online songs in your playlists with Baidu Cloud</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_bit_rate_hd">High</string>

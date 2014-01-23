@@ -436,7 +436,7 @@
         <item>Yahoo!</item>
         <item>yahoo.com</item>
         <item>http://search.yahoo.com/favicon.ico</item>
-        <item>http://search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
+        <item>https://search.yahoo.com/search;_ylt=A0oG7l7PeB5P3G0AKASl87UF?p={searchTerms}&amp;amp;ei={inputEncoding}</item>
         <item>UTF-8</item>
         <item>http://ff.search.yahoo.com/gossip?output=fxjson&amp;amp;command={searchTerms}</item>
     </string-array>

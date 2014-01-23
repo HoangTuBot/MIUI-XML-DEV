@@ -37,7 +37,6 @@
   <string name="answer_miui">Answer</string>
   <string name="answer_state_setting_summary">Configure additional incoming call options</string>
   <string name="answer_state_setting_title">Incoming call settings</string>
-  <string name="answer_state_setting_title_miui">Incoming call settings</string>
   <string name="answer_widget_dialog_title_miui">Choose answer gesture</string>
   <string name="answer_widget_sliding_horizontal_miui">Horizontal swipe</string>
   <string name="answer_widget_sliding_vertical_miui">Vertical swipe</string>
