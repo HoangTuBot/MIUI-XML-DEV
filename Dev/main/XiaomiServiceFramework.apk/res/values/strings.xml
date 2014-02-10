@@ -144,10 +144,12 @@
   <string name="micloud_app_data">App backups</string>
   <string name="micloud_click_email">"
 
-To activate your account, follow the link in the activation message."</string>
+To activate your account,
+ follow the link in the activation message."</string>
   <string name="micloud_click_email_to_valid">"
 
-To activate your account, follow the link in the activation message."</string>
+To activate your account,
+ follow the activation link in your inbox."</string>
   <string name="micloud_data_loading">Loading</string>
   <string name="micloud_delete_account">Sign out</string>
   <string name="micloud_dspt">Use Mi Cloud to sync data, locate your phone, and share things with friends.</string>

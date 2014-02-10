@@ -228,6 +228,7 @@
   <string name="timezone_label">Time zone</string>
   <string name="today">Today</string>
   <string name="today_at_time_fmt">Today at %s</string>
+  <string name="today_no_events">No agenda today</string>
   <string name="tomorrow">Tomorrow</string>
   <string name="tomorrow_at_time_fmt">Tomorrow at %s</string>
   <string name="view_event_calendar_label">Calendar:</string>

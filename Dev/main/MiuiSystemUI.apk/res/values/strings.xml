@@ -170,21 +170,23 @@ Use only the supplied charger."</string>
   <string name="screenshot_saving_text">Screenshot is being saved.</string>
   <string name="screenshot_saving_ticker">Saving screenshot…</string>
   <string name="screenshot_saving_title">Saving screenshot…</string>
+  <string name="settings_advanced">Additional settings</string>
   <string name="settings_all_app_display_loading">Loading…</string>
+  <string name="settings_basic_settings">Basic settings</string>
+  <string name="settings_custom_carrier">Edit service provider name</string>
   <string name="settings_custom_notification">Manage notifications</string>
-  <string name="settings_expandable_under_fullscreen">Enable in full-screen mode</string>
-  <string name="settings_expandable_under_fullscreen_summary">Enable pull down for notification shade in full-screen mode</string>
   <string name="settings_expandable_under_keyguard">Enable on lock screen</string>
-  <string name="settings_expandable_under_keyguard_summary">Enable pull down for notification shade at lock screen</string>
-  <string name="settings_expanded_view">Pull down settings</string>
+  <string name="settings_no_carrier">None</string>
   <string name="settings_notification_bar">Notification shade</string>
-  <string name="settings_screenshot_notification_disabled">No screenshot notification</string>
+  <string name="settings_show_carrier">Show service provider</string>
+  <string name="settings_show_carrier_summary">Only display on lock screen</string>
   <string name="settings_show_flow_info">Show flow details</string>
   <string name="settings_show_network_speed">Show connection speed</string>
   <string name="settings_show_notificationBar_notification">Show in notification shade</string>
+  <string name="settings_show_screenshot_notification">Show screenshot notification</string>
   <string name="settings_show_statusBar_notification">Show in status bar</string>
   <string name="settings_status_bar">Status bar</string>
-  <string name="settings_toggle_collapse_after_clicked">Collapse after toggle touch</string>
+  <string name="settings_toggle_collapse_after_clicked">Collapse after touch</string>
   <string name="settings_toggle_layout_style">Toggle layout style</string>
   <string name="settings_toggle_layout_style_applying">Changing style…</string>
   <string name="settings_toggle_layout_style_compact">Bar</string>
@@ -194,6 +196,7 @@ Use only the supplied charger."</string>
   <string name="settings_toggle_position_divider_page">%1$d toggles above this bar are active</string>
   <string name="settings_toggle_position_reset">Reset toggles</string>
   <string name="share">Share</string>
+  <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
   <string name="status_bar_date_format">"E
 yyyy.M.d"</string>
   <string name="status_bar_date_formatter">%2$s</string>
