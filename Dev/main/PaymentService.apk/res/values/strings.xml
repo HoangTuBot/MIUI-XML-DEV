@@ -126,51 +126,26 @@ Wait five minutes and try again."</string>
   <string name="giftcard_record">My gift cards</string>
   <string name="giftcard_value">(%1$s-MiCredit gift card)</string>
   <string name="hfb_app_name">话付宝</string>
-  <string name="hfb_commit">提交订单</string>
   <string name="hfb_complete">购买完成</string>
-  <string name="hfb_complete_hint">(请查收信息，并按提示完成支付)</string>
   <string name="hfb_confirm">确认支付</string>
+  <string name="hfb_confirm_code">验证码：</string>
   <string name="hfb_customer_service_phone">客服电话：</string>
   <string name="hfb_customer_service_phone_number">4006125880</string>
-  <string name="hfb_dialog_exit_content">交易尚未完成，确定放弃交易？</string>
   <string name="hfb_fail_hint">"* 如未收到短信请咨询中国移动通信账户支付客服中心：4006125880(只收市话费，无长途话费)； 125880只支付移动手机，0.3元/分，无长途话费。 
 * 有短信签名功能的手机，请回复前去掉签名的自动附加功能，以免回复系统无法识别拒绝支付。"</string>
   <string name="hfb_fail_label">购买失败</string>
-  <string name="hfb_fail_pad_result">您没有回复短信，请到收件箱中按%1$s短信提示回复后再查询。</string>
-  <string name="hfb_fail_result">"此手机号码暂时无法完成支付，请稍后再试或使用其他支付方式购买，感谢您的支持！
-客服电话：4006125880"</string>
+  <string name="hfb_get_confirm_code">获取验证码</string>
   <string name="hfb_goods_name">商品名称：</string>
-  <string name="hfb_goods_price_value_format">%1$s(不含通信费)</string>
-  <string name="hfb_hint">"1、中国移动通信账户支付是中国移动电子商务的支付方式之一。 
-2、10658008是中国移动通信账户支付专用短信特服号码。 
-3、本服务支持移动全球通、动感地带、神州行等品牌的用户，用户使用中国移动通信账户支付：无免费试用；支付成功，即可扣费；商品价格不含通信费。 
-4、部分省份“赠送”“返还”的话费不可用于购买商品。如：北京、黑龙江等。 
-5、中国移动通信账户支付客服电话：4006125880（只收市话费，无长途话费）；125880（只支持移动手机，0.3元/分，无长途话费） 
-6、按次产品无需退订；包月产品如需退订，请发送0000到10658008"</string>
+  <string name="hfb_goods_name_content">米币</string>
   <string name="hfb_instruct">"请您按照10658008的短信提示确认回复后，点击'购买完成'。谢谢！"</string>
   <string name="hfb_main_title">订单支付</string>
-  <string name="hfb_network_progress">正在请求订单，请保持网络通畅</string>
   <string name="hfb_order_price">订单价格：</string>
   <string name="hfb_other_case">如您未收到10658008的短信提示请点击</string>
-  <string name="hfb_pad_info">请您按照%1$s的短信提示确认回复后，点击购买完成。谢谢！</string>
   <string name="hfb_pay_by_phone">支付手机：</string>
-  <string name="hfb_pay_by_phone_hint">中国移动手机号码</string>
   <string name="hfb_retry_receive">重新接收</string>
   <string name="hfb_return">返 回</string>
-  <string name="hfb_sms1_progress_label">正在以短信提交订单，请稍候...</string>
-  <string name="hfb_sms2_progress_label">正在以短信形式确认支付，请稍候...</string>
-  <string name="hfb_sms_error">短信发送失败！</string>
-  <string name="hfb_sms_pay">特别提示：点击“确认支付”即同意向10658008发送短信以完成支付；费用由本机话费扣除。</string>
   <string name="hfb_succ_label">购买成功</string>
-  <string name="hfb_succ_result">"感谢您使用通信账户支付服务。
-购买【%1$s】费用为【%2$s元】
-客服电话：%3$s"</string>
-  <string name="hfb_tariff">资费说明</string>
-  <string name="hfb_trans_error_label">未查到支付结果，请保持网络通畅</string>
-  <string name="hfb_trans_result_progress_label">正在查询支付结果...</string>
-  <string name="hfb_umpay_info">* 10658008是中国移动通信账户支付专用短信特服号码</string>
-  <string name="hfb_upgrade_download_fail">新版本下载失败，请稍后再试.</string>
-  <string name="hfb_upgrade_download_sucess">新版本下载成功,开始安装.</string>
+  <string name="hfb_succ_result">感谢您使用通信账户支付服务。</string>
   <string name="label_balance">Balance:</string>
   <string name="label_order_name">Product:</string>
   <string name="label_order_price">Price:</string>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_0141">false</string>
   <string name="account_and_synchronization">Account &amp; sync</string>
   <string name="account_setting">Account</string>
   <string name="add">Add</string>

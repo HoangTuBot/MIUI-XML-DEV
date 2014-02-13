@@ -271,8 +271,4 @@
         <item>Custom</item>
     </string-array>
     <array name="carrier_properties" />
-    <string-array name="config_locationProviderPackageNames">
-        <item>com.android.location.fused</item>
-        <item>com.google.android.location</item>
-    </string-array>
 </resources>
