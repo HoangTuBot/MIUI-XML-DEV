@@ -187,7 +187,7 @@ unzip -q $ZIP system/build.prop; mv system .cache/system
 TARGET=$(grep ''ro.product.device'=' .cache/system/build.prop | cut -d"=" -f2)
 if [ -e targets/$TARGET.apks ]; then
 	check_zip
-	if [ $TARGET = $MAIN_DEVICE ]; then
+	if [ $TARGET == $MAIN_DEVICE ]; then
      		extract_xmls_main
         	extract_xmls_device
 	else
