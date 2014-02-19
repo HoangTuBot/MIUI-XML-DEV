@@ -82,6 +82,7 @@ Please your check tracking number."</string>
   <string name="nearby_yellow_page_title">Nearby</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_unavaliable">"Couldn't connect to network"</string>
+  <string name="no_more_result">No more results</string>
   <string name="order_empty_hint">No orders</string>
   <string name="order_id">Order ID:%s</string>
   <string name="order_merchant_title">My orders</string>

@@ -70,7 +70,6 @@
   <string name="delete_failed">Failed to delete</string>
   <string name="delete_file">Delete this file?</string>
   <string name="delete_files">Delete %1$d files?</string>
-  <string name="delete_files_and_folders">Delete %1$d file(s) and %2$d folder(s)?</string>
   <string name="delete_folder">Delete this folder?</string>
   <string name="delete_folders">Delete %1$d?</string>
   <string name="des_running_trans">%1$d files have not been transferred.</string>
@@ -194,7 +193,7 @@ the feature need network connect."</string>
   <string name="operation_decompressing">Extracting…</string>
   <string name="operation_delete">Delete</string>
   <string name="operation_delete_confirm_message">Delete</string>
-  <string name="operation_delete_confirm_message_folder">"All folder contents will also be deleted.
+  <string name="operation_delete_confirm_message_folder">"All folder contents will be deleted.
 "</string>
   <string name="operation_deleting">Deleting…</string>
   <string name="operation_deleting_detail">Deleting (%1$d/%2$d)</string>
@@ -274,8 +273,6 @@ Free space added %1$s"</string>
   <string name="trash_box_link">To empty your recycle bin, visit &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
   <string name="trash_box_message1">Delete unnecessary files to free up space.</string>
   <string name="trash_box_message2">Clean up the recycle bin to free up space.</string>
-  <string name="ui_bar_txt_download_progress">%1$d file(s) left to download</string>
-  <string name="ui_bar_txt_upload_progress">%1$d file(s) left to upload</string>
   <string name="ui_filechange_btn_download">Download files</string>
   <string name="ui_filechange_btn_upload">Upload files</string>
   <string name="ui_main_menu_option_sign_in">Sign in</string>

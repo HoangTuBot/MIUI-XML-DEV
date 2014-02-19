@@ -1183,8 +1183,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="link_speed_label">Link speed:</string>
   <string name="list_sub_view_item_clean">Clean</string>
   <string name="list_sub_view_item_install">Install</string>
-  <string name="list_sub_view_item_lock">Locked</string>
-  <string name="list_sub_view_item_unlock">Unlocked</string>
+  <string name="list_sub_view_item_lock">Always clear</string>
+  <string name="list_sub_view_item_unlock">Always clear</string>
   <string name="list_sub_view_item_view">Detail</string>
   <string name="local_backup_password_summary_change">Touch to change or remove the password for desktop full backups</string>
   <string name="local_backup_password_summary_none">"Desktop full backups aren't currently protected"</string>

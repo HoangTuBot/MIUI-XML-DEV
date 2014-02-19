@@ -64,7 +64,7 @@
   <string name="check_phone_io_error">Network error</string>
   <string name="checking_account">Verifying…</string>
   <string name="checking_input">Checking input…</string>
-  <string name="cloud_messaging">WLAN messaging</string>
+  <string name="cloud_messaging">Cloud messaging</string>
   <string name="cmcc_data_sync_notice">Use your Xiaomi Account to sync messages and contacts across devices.</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your phone, and share things with friends.</string>
   <string name="completed">Finish</string>
@@ -114,13 +114,14 @@
   <string name="input_password_hint">Enter password</string>
   <string name="input_vcode_hint">Enter verfication code</string>
   <string name="input_vcode_prompt">Enter verification code</string>
-  <string name="int_phone_user_notice">Add your country code when you use mobile number to sign in.</string>
+  <string name="int_phone_user_notice">Add your country code when using a mobile number to sign in.</string>
   <string name="internet_comm">Messaging services</string>
-  <string name="internet_message">WLAN messaging</string>
+  <string name="internet_message">Cloud messaging</string>
   <string name="login">Sign in</string>
   <string name="login_failed">Sign-in failed</string>
   <string name="login_instead_reg">Sign in using this mobile number</string>
   <string name="login_notice">Signing in…</string>
+  <string name="logout_failed">Sign-out failed</string>
   <string name="master_alert_notif_dspt" formatted="false">"%s contacts, %s messages, %s photos, %s notes and other data haven't been synced."</string>
   <string name="master_alert_notif_title">Data was last synced %s days ago</string>
   <string name="micloud_account">Xiaomi Account</string>
