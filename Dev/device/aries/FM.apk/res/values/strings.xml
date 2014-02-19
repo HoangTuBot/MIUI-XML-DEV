@@ -81,7 +81,7 @@
   <string name="msg_callactive">FM Tx is not supported during active voice calls.</string>
   <string name="msg_do_not_support_fm">"This device doesn't support FM Radio"</string>
   <string name="msg_headsetpluggedin">Disconnect headphones now.</string>
-  <string name="msg_noantenna_message">To improve sound quality, connect your headphones</string>
+  <string name="msg_noantenna_message">No headphones detected. Some functions may not be available.</string>
   <string name="msg_scanning">Scanning for FM stations…</string>
   <string name="msg_scanning_pty">Scanning for %s…</string>
   <string name="msg_search_title">FM - %1$s</string>
