@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="sina_share_pendding">Sending…</string>
+    <string name="sina_share_success">Sent</string>
+    <string name="sina_share_fail">Failed to send</string>
+    <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
+    <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
     <string name="app_label">Directory</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="call">Call</string>

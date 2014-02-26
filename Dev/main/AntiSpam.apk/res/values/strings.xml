@@ -2,20 +2,20 @@
 <resources>
     <string name="app_name">Blocklist</string>
     <string name="fw_blocked">Blocked:</string>
-    <string name="fw_blocked_count" formatted="false">Blocked:%dcalls and %dmessages</string>
+    <string name="fw_blocked_count" formatted="false">Blocked %d calls and %d messages</string>
     <string name="tab_title">Blocklist</string>
     <string name="tab_block_log">Blocked log</string>
     <string name="tab_blacklist">Blocklist</string>
     <string name="tab_sms">Message log</string>
     <string name="tab_call">Call log</string>
-    <string name="bl_block_info" formatted="false">Blocked: %d, details %d</string>
+    <string name="bl_block_info" formatted="false">Blocked: %d calls | %d messages</string>
     <string name="bl_no_block_call">No blocked calls</string>
     <string name="bl_no_block_sms">No blocked messages</string>
     <string name="bl_no_blacklist">No blocked numbers</string>
     <string name="log_count">(%d)</string>
     <string name="tab_block_log_unKnowNumber">Unknown number</string>
-    <string name="marked_by_user">you marked it as</string>
-    <string name="marked_by_others">%d other users marked it as</string>
+    <string name="marked_by_user">"You marked it as "</string>
+    <string name="marked_by_others">"%d other users marked it as "</string>
     <string name="dlg_clear_all_sms">Delete blocked messages?</string>
     <string name="dlg_clear_all_call">Clear blocked calls?</string>
     <string name="dlg_clear_current_sms">Delete all blocked messages sent from this number?</string>
@@ -42,7 +42,7 @@
     <string name="dlg_retore_ok">Restore</string>
     <string name="toast_keyword_blank">You need to enter a keyword :)</string>
     <string name="toast_keyword_exist">Keyword saved</string>
-    <string name="toast_keyword_invalid">Invalid keyword</string>
+    <string name="toast_keyword_invalid">The keyword you entered is invalid</string>
     <string name="menu_clear_all_sms">Delete blocked messages</string>
     <string name="menu_clear_all_call">Clear blocked calls</string>
     <string name="menu_clear_current_sms">Delete all blocked messages sent from this number</string>
@@ -80,7 +80,7 @@
     <string name="st_filter_keywords_setting_title">Set keyword filter</string>
     <string name="st_filter_keywords_title">Keyword filter</string>
     <string name="st_filter_keywords_setting_summary1">Messages sent from unknown numbers that contain the following words will be blocked.</string>
-    <string name="st_filter_keywords_setting_summary2">You can separate keywords using a comma \",\"</string>
+    <string name="st_filter_keywords_setting_summary2">You can separate keywords using a comma</string>
     <string name="st_advanced_setting_group">Advanced</string>
     <string name="st_block_unknown_call">Block unknown callers</string>
     <string name="st_block_unknown_sms">Block unknown messages</string>

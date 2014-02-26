@@ -50,7 +50,6 @@ Use only the supplied charger."</string>
     <string name="screenshot_saving_text">Screenshot is being saved.</string>
     <string name="screenshot_saved_title">Screenshot captured</string>
     <string name="screenshot_saved_text">Touch to view your screenshot.</string>
-    <string name="screenshot_failed_title">"Couldn't take screenshot"</string>
     <string name="screenshot_failed_text">"Couldn't save screenshot. Storage may be in use."</string>
     <string name="accessibility_back">Back</string>
     <string name="accessibility_home">Home</string>
@@ -120,8 +119,6 @@ If you re-enable data, you may be charged by the operator."</string>
     <string name="description_target_search">Search</string>
     <string name="tab_notifications_lable">Notifications</string>
     <string name="tab_toggles_lable">Toggles</string>
-    <string name="status_bar_time_format_12">h:mma</string>
-    <string name="status_bar_time_format_24">HH:mm</string>
     <string name="status_bar_date_format">"E
 yyyy.M.d"</string>
     <string name="status_bar_recent_memory_info">%1$s / %2$s available</string>
