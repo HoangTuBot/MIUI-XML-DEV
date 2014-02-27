@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_nfc_enabled">NFC ingeschakeld.</string>
+  <string name="app_name">NFC-service</string>
+  <string name="beam_canceled">Beam geannuleerd</string>
+  <string name="beam_complete">Beam voltooid</string>
+  <string name="beam_failed">Beam niet voltooid</string>
+  <string name="beam_handover_not_supported">Het apparaat van de ontvanger ondersteunt de overdracht van grote bestanden via beam niet.</string>
+  <string name="beam_outgoing">Beamen...</string>
+  <string name="beam_progress">Inkomende beam...</string>
+  <string name="beam_touch_to_view">Raak aan om te bekijken</string>
+  <string name="beam_try_again">Houd de apparaten nogmaals tegen elkaar</string>
+  <string name="cancel">Annuleren</string>
+  <string name="complete_with">Voltooien met</string>
+  <string name="confirm_pairing">Weet u zeker dat u het Bluetooth-apparaat %1$s wilt koppelen?</string>
+  <string name="connect_headset_failed">Kan niet verbinden</string>
+  <string name="connected_headset">Verbonden</string>
+  <string name="connecting_headset">Verbinding maken</string>
+  <string name="could_not_use_app">Kan %1$s niet gebruiken.</string>
+  <string name="default_pay_app_removed">Uw voorkeursservice voor tikken en betalen is verwijderd. Een andere app kiezen?</string>
+  <string name="disconnected_headset">Losgekoppeld</string>
+  <string name="disconnecting_headset">Loskoppelen</string>
+  <string name="failed_to_enable_bt">Kan Bluetooth niet inschakelen</string>
+  <string name="inbound_me_profile_text">Raak aan om deze persoon toe te voegen als contact.</string>
+  <string name="inbound_me_profile_title">Contact ontvangen via NFC</string>
+  <string name="nfcUserLabel">NFC</string>
+  <string name="outbound_me_profile_text">Raak aan om deze persoon uw contactgegevens te geven.</string>
+  <string name="outbound_me_profile_title">NFC-interactie voltooid</string>
+  <string name="pair_no">Nee</string>
+  <string name="pair_yes">Ja</string>
+  <string name="pairing_headset">Koppelen</string>
+  <string name="pairing_headset_failed">Kan niet koppelen</string>
+  <string name="pay_with">Betalen met</string>
+  <string name="tap_again_to_complete">Tik nogmaals om te voltooien met %1$s</string>
+  <string name="tap_again_to_pay">Tik nogmaals om te betalen met %1$s</string>
+  <string name="touch">Tikken om uit te zenden</string>
+  <string name="transaction_failure">Deze transactie kan niet worden voltooid met %1$s.</string>
+</resources>
