@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Odpowiedz</item>
+        <item>Odpowiedz wszystkim</item>
+        <item>Przekaż dalej</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Udało się</item>
+        <item>Brak połączenia.</item>
+        <item>Nie można się zalogować.</item>
+        <item>Błąd zabezpieczeń.</item>
+        <item>Błąd synchronizacji.</item>
+        <item>Błąd wewnętrzny</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>System</item>
+        <item>Często używane</item>
+        <item>Wszystkie foldery</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Nowsze wątki</item>
+        <item>Starsze wątki</item>
+        <item>Lista wątków</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Pokazuj nowszą konwersację po usunięciu</item>
+        <item>Pokazuj starszą konwersację po usunięciu</item>
+        <item>Pokazuj listę konwersacji po usunięciu</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Pokaż tylko archiwizuj</item>
+        <item>Pokaż tylko usuń</item>
+        <item>Pokaż archiwizuj i usuń</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Pokaż tylko archiwizuj</item>
+        <item>Pokaż tylko usuń</item>
+        <item>Pokaż archiwizuj i usuń</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Bardzo mały tekst</item>
+        <item>Mały tekst</item>
+        <item>Tekst normalnej wielkości</item>
+        <item>Duży tekst</item>
+        <item>Wielki tekst</item>
+    </string-array>
+</resources>
