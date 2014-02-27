@@ -19,11 +19,11 @@ case `uname -s` in
 esac
 
 LOG=error.log
-MAIN_DEVICE=razor
+MAIN_DEVICE=aosp_flo
 PYTHON=python2
 
-#rm -f $LOG
-#exec 2>> $LOG
+rm -f $LOG
+exec 2>> $LOG
 
 mkdir -p $PWD/.cache
 
