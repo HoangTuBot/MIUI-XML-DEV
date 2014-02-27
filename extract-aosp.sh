@@ -93,7 +93,27 @@ cat $TARGET_FILE | while read all_line; do
                 echo -en "${txtblu}Extracting main XML's${txtrst}: $PERCENT%\r"
     		echo >> $LOG; echo "Extracting $all_line" >> $LOG
     		tools/apktool d -f .cache/ROM/system/framework/$all_line .cache/apk_wip
-    		mkdir -p AOSP/$TARGET_DIR/$all_line/res/values$ISO
+    		mkdir -p AOSP/$TARGET_DIR/$all_line/res/values$ISO_FW
+		mkdir -p AOSP/$TARGET_DIR/$all_line/res/values$ISO
+    		if [ -e .cache/apk_wip/res/values$ISO_FW/strings.xml ]; then
+			grep -v ">@" .cache/apk_wip/res/values$ISO_FW/strings.xml > .cache/apk_wip/res/values$ISO_FW/strings.xml.new
+			if [ -e .cache/apk_wip/res/values$ISO_FW/strings.xml.new ]; then
+         			cp .cache/apk_wip/res/values$ISO_FW/strings.xml.new AOSP/$TARGET_DIR/$all_line/res/values$ISO_FW/strings.xml
+			fi
+    		fi
+    		if [ -e .cache/apk_wip/res/values$ISO_FW/arrays.xml ]; then
+			grep -v ">@" .cache/apk_wip/res/values$ISO_FW/arrays.xml > .cache/apk_wip/res/values$ISO_FW/arrays.xml.new
+			if [ -e .cache/apk_wip/res/values$ISO_FW/arrays.xml.new ]; then
+         			cp .cache/apk_wip/res/values$ISO_FW/arrays.xml.new AOSP/$TARGET_DIR/$all_line/res/values$ISO_FW/arrays.xml
+			fi
+    		fi
+    		if [ -e .cache/apk_wip/res/values$ISO_FW/plurals.xml ]; then
+			grep -v ">@" .cache/apk_wip/res/values$ISO_FW/plurals.xml > .cache/apk_wip/res/values$ISO_FW/plurals.xml.new
+			if [ -e .cache/apk_wip/res/values$ISO_FW/plurals.xml.new ]; then
+         			cp .cache/apk_wip/res/values$ISO_FW/plurals.xml.new AOSP/$TARGET_DIR/$all_line/res/values$ISO_FW/plurals.xml
+			fi
+    		fi
+
     		if [ -e .cache/apk_wip/res/values$ISO/strings.xml ]; then
 			grep -v ">@" .cache/apk_wip/res/values$ISO/strings.xml > .cache/apk_wip/res/values$ISO/strings.xml.new
 			if [ -e .cache/apk_wip/res/values$ISO/strings.xml.new ]; then
@@ -180,6 +200,7 @@ if [ $# -gt 0 ]; then
                		    		exit
           			fi
           			ISO=$4
+				ISO_FW=$4
 			fi
                 else 
                		echo -e "zip not specified or not found, using default: update.zip"; sleep 1
@@ -196,6 +217,7 @@ if [ $# -gt 0 ]; then
                		    		exit
           			fi
           			ISO=$4
+				ISO_FW=$5
 			fi
                 else 
                		echo -e "zip not specified or not found, using default: update.zip"; sleep 1
