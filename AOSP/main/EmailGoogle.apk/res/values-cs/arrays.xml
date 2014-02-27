@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Odpovědět</item>
+        <item>Odpovědět všem</item>
+        <item>Přeposlat</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Podařilo se</item>
+        <item>Žádné připojení.</item>
+        <item>Přihlášení se nezdařilo</item>
+        <item>Chyba zabezpečení.</item>
+        <item>Chyba synchronizace.</item>
+        <item>Interní chyba</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Systém</item>
+        <item>Často používané</item>
+        <item>Všechny složky</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Novější</item>
+        <item>Starší</item>
+        <item>Seznam konverzací</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Po smazání zobrazit novější konverzaci</item>
+        <item>Po smazání zobrazit starší konverzaci</item>
+        <item>Po smazání zobrazit seznam konverzací</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Zobrazit pouze archivaci</item>
+        <item>Zobrazit pouze smazání</item>
+        <item>Zobrazit archivaci i smazání</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Zobrazit pouze archivaci</item>
+        <item>Zobrazit pouze smazání</item>
+        <item>Zobrazit archivaci i smazání</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Drobný text</item>
+        <item>Malý text</item>
+        <item>Text běžné velikosti</item>
+        <item>Velký text</item>
+        <item>Obrovský text</item>
+    </string-array>
+</resources>
