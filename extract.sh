@@ -19,7 +19,7 @@ case `uname -s` in
 esac
 
 LOG=error.log
-MAIN_DEVICE=aries
+MAIN_DEVICE=razor
 PYTHON=python2
 
 #rm -f $LOG
