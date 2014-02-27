@@ -58,6 +58,7 @@ cd .cache/ROM; unzip -q $ZIP system/app/*.apk system/framework/*.apk system/buil
 
 tools/apktool if .cache/ROM/system/framework/framework-res.apk
 tools/apktool if .cache/ROM/system/framework/framework-miui-res.apk
+tools/apktool if .cache/ROM/system/app/miui.apk
 }
 
 extract_xmls () {
