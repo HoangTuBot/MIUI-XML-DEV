@@ -54,7 +54,7 @@ else
 fi
 
 echo -e "${txtblu}Extracting zip${txtrst}: $ZIP"
-cd .cache/ROM; unzip -q $ZIP system/app/*.apk system/framework/*.apk system/build.prop; cd ../..
+cd .cache/ROM; unzip -q $ZIP system/app/*.apk system/framework/*.apk system/priv-app/*.apk system/build.prop; cd ../..
 
 tools/apktool if .cache/ROM/system/framework/framework-res.apk
 tools/apktool if .cache/ROM/system/framework/framework-miui-res.apk
@@ -71,6 +71,30 @@ cat $TARGET_FILE | while read all_line; do
                 echo -en "${txtblu}Extracting main XML's${txtrst}: $PERCENT%\r"
     		echo >> $LOG; echo "Extracting $all_line" >> $LOG
     		tools/apktool d -f .cache/ROM/system/app/$all_line .cache/apk_wip
+    		mkdir -p Dev/$TARGET_DIR/$all_line/res/values$ISO
+    		if [ -e .cache/apk_wip/res/values$ISO/strings.xml ]; then
+			grep -v ">@" .cache/apk_wip/res/values$ISO/strings.xml > .cache/apk_wip/res/values$ISO/strings.xml.new
+			if [ -e .cache/apk_wip/res/values$ISO/strings.xml.new ]; then
+         			cp .cache/apk_wip/res/values$ISO/strings.xml.new Dev/$TARGET_DIR/$all_line/res/values$ISO/strings.xml
+			fi
+    		fi
+    		if [ -e .cache/apk_wip/res/values$ISO/arrays.xml ]; then
+			grep -v ">@" .cache/apk_wip/res/values$ISO/arrays.xml > .cache/apk_wip/res/values$ISO/arrays.xml.new
+			if [ -e .cache/apk_wip/res/values$ISO/arrays.xml.new ]; then
+         			cp .cache/apk_wip/res/values$ISO/arrays.xml.new Dev/$TARGET_DIR/$all_line/res/values$ISO/arrays.xml
+			fi
+    		fi
+    		if [ -e .cache/apk_wip/res/values$ISO/plurals.xml ]; then
+			grep -v ">@" .cache/apk_wip/res/values$ISO/plurals.xml > .cache/apk_wip/res/values$ISO/plurals.xml.new
+			if [ -e .cache/apk_wip/res/values$ISO/plurals.xml.new ]; then
+         			cp .cache/apk_wip/res/values$ISO/plurals.xml.new Dev/$TARGET_DIR/$all_line/res/values$ISO/plurals.xml
+			fi
+    		fi
+		echo -en "\r${txtwipe}"
+    	elif [ -e .cache/ROM/system/priv-app/$all_line ]; then
+                echo -en "${txtblu}Extracting main XML's${txtrst}: $PERCENT%\r"
+    		echo >> $LOG; echo "Extracting $all_line" >> $LOG
+    		tools/apktool d -f .cache/ROM/system/priv-app/$all_line .cache/apk_wip
     		mkdir -p Dev/$TARGET_DIR/$all_line/res/values$ISO
     		if [ -e .cache/apk_wip/res/values$ISO/strings.xml ]; then
 			grep -v ">@" .cache/apk_wip/res/values$ISO/strings.xml > .cache/apk_wip/res/values$ISO/strings.xml.new
