@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Ufam tej aplikacji</string>
+  <string name="configure">Konfiguruj</string>
+  <string name="data_received">Odebrano:</string>
+  <string name="data_transmitted">Wysłano:</string>
+  <string name="data_value_format">Bajty: %1$s / pakiety: %2$s</string>
+  <string name="disconnect">Rozłącz</string>
+  <string name="duration">Czas trwania:</string>
+  <string name="legacy_title">Połączono z VPN</string>
+  <string name="prompt">Aplikacja %s próbuje nawiązać połączenie VPN.</string>
+  <string name="session">Sesja:</string>
+  <string name="warning">Kontynuując, udzielasz aplikacji pozwolenia na przechwytywanie całego ruchu sieciowego. &lt;b&gt;NIE r&amp;#243;b tego, je&amp;#347;li nie ufasz tej aplikacji.&lt;/b&gt; W przeciwnym razie ryzykujesz, &amp;#380;e bezpiecze&amp;#324;stwo Twoich danych zostanie naruszone przez z&amp;#322;o&amp;#347;liwe oprogramowanie.</string>
+</resources>

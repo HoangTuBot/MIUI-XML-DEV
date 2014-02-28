@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Dôverujem tejto aplikácii.</string>
+  <string name="configure">Konfigurovať</string>
+  <string name="data_received">Prijaté:</string>
+  <string name="data_transmitted">Odoslané:</string>
+  <string name="data_value_format">%1$s B/%2$s paketov</string>
+  <string name="disconnect">Odpojiť</string>
+  <string name="duration">Trvanie:</string>
+  <string name="legacy_title">Sieť VPN je pripojená</string>
+  <string name="prompt">Aplikácia %s sa pokúša vytvoriť pripojenie VPN.</string>
+  <string name="session">Relácia</string>
+  <string name="warning">Ak budete pokračovať, dávate aplikácií povolenie na zastavenie celej sieťovej aktivity. &lt;b&gt;Ak aplik&amp;#225;cii ned&amp;#244;verujete, NEPOKRA&amp;#268;UJTE.&lt;/b&gt; Inak riskujete, &amp;#382;e va&amp;#353;e &amp;#250;daje bud&amp;#250; zneu&amp;#382;it&amp;#233; &amp;#353;kodliv&amp;#253;m softv&amp;#233;rom.</string>
+</resources>

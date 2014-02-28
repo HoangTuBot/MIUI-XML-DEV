@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">Zaktualizowane aplikacje: %1$d</item>
+        <item quantity="one">Zaktualizowane aplikacje: %1$d</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">Dostępne aktualizacje: %1$d</item>
+        <item quantity="one">Dostępna jest %1$d aktualizacja</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">Aktualizacje do zatwierdzenia: %1$d</item>
+        <item quantity="one">Należy zatwierdzić %1$d aktualizację</item>
+    </plurals>
+    <plurals name="search_results_estimated_in_bucket">
+        <item quantity="other">Wyniki: %1$d</item>
+        <item quantity="one">Wyniki: %1$d</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">Nowe aktualizacje: %1$d</item>
+        <item quantity="one">%1$d nowa aktualizacja</item>
+    </plurals>
+    <plurals name="content_description_rated">
+        <item quantity="other">Twoja ocena w gwiazdkach: %1$s</item>
+        <item quantity="one">Twoja ocena: %1$s gwiazdka</item>
+    </plurals>
+    <plurals name="plus_one_multiple_global">
+        <item quantity="other">+1 od %1$s osób</item>
+        <item quantity="one">+1 od %1$s osoby</item>
+    </plurals>
+    <plurals name="plus_one_multiple_friends">
+        <item quantity="other">%1$s i %2$s innych dają +1.</item>
+        <item quantity="one">%1$s i %2$s inna osoba dają +1.</item>
+    </plurals>
+    <plurals name="star_rating_review_bold_formatting">
+        <item quantity="other">&amp;lt;b>%1$s&amp;lt;/b> ocenia to na %2$d gwiazdki(ek)</item>
+        <item quantity="one">&amp;lt;b>%1$s&amp;lt;/b> ocenia to na %2$d gwiazdkę</item>
+    </plurals>
+    <plurals name="plus_one_circles_listing_dialog_more">
+        <item quantity="other">i jeszcze %1$s</item>
+        <item quantity="one">i jeszcze %1$d</item>
+    </plurals>
+    <plurals name="my_apps_selected">
+        <item quantity="other">Wybrane: %1$d</item>
+    </plurals>
+    <plurals name="update_all_prompt_title">
+        <item quantity="other">Dostępne aktualizacje</item>
+        <item quantity="one">Dostępna aktualizacja</item>
+    </plurals>
+    <plurals name="update_all_prompt">
+        <item quantity="other">Liczba dostępnych aktualizacji: %1$d. Czy chcesz je zainstalować?</item>
+        <item quantity="one">Liczba dostępnych aktualizacji: %1$d. Czy chcesz ją zainstalować?</item>
+    </plurals>
+</resources>
