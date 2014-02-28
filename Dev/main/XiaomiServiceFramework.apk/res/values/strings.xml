@@ -5,11 +5,11 @@
   <string name="access_token_invalid_warning">Weibo account is invalid: please rebind</string>
   <string name="account">Account</string>
   <string name="account_bind_settings">Bind account</string>
-  <string name="account_dspt">一个帐号玩转所有小米服务！</string>
+  <string name="account_dspt">One account for everything Xiaomi</string>
   <string name="account_dspt_provision">Use one account for all of our products.</string>
   <string name="account_hint_text">Email or phone number</string>
   <string name="account_name">Account: %1$s</string>
-  <string name="account_sec_dspt">小米手机、小米网、MIUI米柚、多看阅读、米聊</string>
+  <string name="account_sec_dspt">Mi Cloud , Mi Phone , MIUI , MiTalk</string>
   <string name="activate_phone_failed_notif_title">Failed to start MiCloud</string>
   <string name="activate_phone_failed_notif_title_msim">Failed to start MiCloud for SIM %s</string>
   <string name="activate_phone_send_sms_fail">Failed to send activation text</string>
@@ -70,19 +70,17 @@
   <string name="check_phone_io_error">Network error</string>
   <string name="checking_account">Verifying…</string>
   <string name="checking_input">Checking input…</string>
-  <string name="cloud_find_pad">Find pad</string>
+  <string name="cloud_find_pad">Find Pad</string>
   <string name="cloud_messaging">Wi-Fi messaging</string>
   <string name="cloud_service">Cloud Service</string>
   <string name="cmcc_data_sync_notice">Use your Xiaomi Account to sync messages and contacts across devices.</string>
-  <string name="cmcc_micloud_dspt">Use MiCloud to sync data, locate your phone,</string>
+  <string name="cmcc_micloud_dspt">Use MiCloud to sync data, locate your device,</string>
   <string name="completed">Finish</string>
   <string name="confirm">Confirm</string>
   <string name="current_account">Current account</string>
-  <string name="data_keep_in_pad">保留在我的Pad上</string>
-  <string name="data_keep_in_phone">Keep on this device</string>
+  <string name="data_keep_in_device">Keep on this device</string>
   <string name="data_sync_notice">Use your Xiaomi Account to sync messages and contacts across devices.</string>
-  <string name="data_wipe_from_pad">从Pad上删除</string>
-  <string name="data_wipe_from_phone">Delete from this device</string>
+  <string name="data_wipe_from_device">Delete from this device</string>
   <string name="dirty_contacts_count">%d contacts</string>
   <string name="dirty_image_count">%d photos</string>
   <string name="dirty_mms_count">%d messages</string>
@@ -116,11 +114,11 @@
   <string name="find_device_error_server">Server error</string>
   <string name="find_device_notice_p1">Go to</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
-  <string name="find_device_notice_p3">to find, lock, or restore your phone remotely.</string>
+  <string name="find_device_notice_p3">to find, lock, or restore your device remotely.</string>
   <string name="find_device_success_title">Find device enabled</string>
   <string name="find_password_on_web_msg">Visit account.xiaomi.com to retrieve your password.</string>
   <string name="foreign_login">&lt;u&gt;Country/Area code&lt;/u&gt;</string>
-  <string name="foreign_login_title">International phone options</string>
+  <string name="foreign_login_title">International device options</string>
   <string name="forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="get_back_pwd">Retrieve account password</string>
   <string name="get_verify_code">Get verification vode</string>
@@ -142,9 +140,9 @@
   <string name="login_title_provision">Sign in to your Mi Account</string>
   <string name="logout_failed">Sign-out failed</string>
   <string name="master_alert_notif_dspt_add">"During this period you've added %s. 
-If your phone is lost or damaged, you may not be able to recover this content."</string>
+If your device is lost or damaged, you may not be able to recover this content."</string>
   <string name="master_alert_notif_dspt_no">"During this period you've added nothing. 
-If your phone is lost or damaged, you may not be able to recover this content."</string>
+If your device is lost or damaged, you may not be able to recover this content."</string>
   <string name="master_alert_notif_title">Last sync was %s days ago</string>
   <string name="micloud_account">Xiaomi Account</string>
   <string name="micloud_account_details">Account details</string>
@@ -171,7 +169,7 @@ If your phone is lost or damaged, you may not be able to recover this content."<
   <string name="micloud_click_email_to_valid">To activate your account, follow the activation link in your inbox.</string>
   <string name="micloud_data_loading">Loading</string>
   <string name="micloud_delete_account">Sign out</string>
-  <string name="micloud_dspt">Use MiCloud to sync data, locate your phone,</string>
+  <string name="micloud_dspt">Use MiCloud to sync data, locate your device,</string>
   <string name="micloud_email">Email address</string>
   <string name="micloud_error_email">The email account you entered is invalid</string>
   <string name="micloud_error_empty_captcha_code">Enter captcha code</string>
@@ -182,7 +180,7 @@ If your phone is lost or damaged, you may not be able to recover this content."<
   <string name="micloud_error_invalid_phone_num">Invalid phone number</string>
   <string name="micloud_full_influence_dspt">"All your photos, video, notes, and apps will be backed up in the cloud. 
 
-This way, if you lose or damage your phone, your data will still be safe. 
+This way, if you lose or damage your device, your data will still be safe. 
 
 When your cloud is full, your old data won't go anywhere. However, any new content you add (e.g. photos, video, notes, and apps) won't be backed up.
 
@@ -215,7 +213,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_use_existing">Sign in</string>
   <string name="micloud_user_base_info">User info</string>
   <string name="micloud_user_email">Email</string>
-  <string name="micloud_user_id">User ID</string>
+  <string name="micloud_user_id">Xiaomi ID</string>
   <string name="micloud_user_name">Name</string>
   <string name="micloud_user_phone">Phone Number</string>
   <string name="micloud_user_space_title">Storage space</string>
@@ -274,14 +272,10 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="skip_setup_account_title">Skip setup</string>
   <string name="start_micloud">Start</string>
   <string name="sub_alert_notif_dspt_add">"%s haven't been synced. 
- If your phone is lost or damaged, you may not be able to recover this content."</string>
+ If your device is lost or damaged, you may not be able to recover this content."</string>
   <string name="sub_alert_notif_dspt_no">"Nothing haven't been synced. 
- If your phone is lost or damaged, you may not be able to recover this content."</string>
+ If your device is lost or damaged, you may not be able to recover this content."</string>
   <string name="sub_alert_notif_title">Sync is off</string>
-  <string name="sync_account_actionbar_title">激活帐号</string>
-  <string name="sync_account_dspt">查找Pad赋予您对Pad更强的控制权</string>
-  <string name="sync_account_sec_dspt">如果丢失Pad，可登录i.xiaomi.com定位，锁定并擦除Pad数据</string>
-  <string name="sync_data_setting_continue">继续</string>
   <string name="sync_dspt">Enable sync</string>
   <string name="sync_off">Off</string>
   <string name="sync_on">On</string>

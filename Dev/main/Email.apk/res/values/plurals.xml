@@ -69,6 +69,11 @@
         <item quantity="other">%1$d messages will be permanently deleted.</item>
         <item quantity="one">%1$d message will be permanently deleted.</item>
     </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">" %1$d items selected"</item>
+        <item quantity="zero">%1$d items selected</item>
+        <item quantity="one">%1$d item selected</item>
+    </plurals>
     <plurals name="move_messages">
         <item quantity="other">Move messages</item>
         <item quantity="one">Move message</item>
@@ -89,8 +94,7 @@
         <item quantity="other">%dGB</item>
         <item quantity="one">%dGB</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_0012">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_0018">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_0013">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_0019">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_001a">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_001b">false</item>
@@ -100,4 +104,5 @@
     <item type="plurals" name="APKTOOL_DUMMY_001f">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_0020">false</item>
     <item type="plurals" name="APKTOOL_DUMMY_0021">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_0022">false</item>
 </resources>

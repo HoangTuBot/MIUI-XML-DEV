@@ -95,6 +95,8 @@
   <string name="local_media">Local videos</string>
   <string name="local_media_empty_hint">No local videos</string>
   <string name="local_video">Local</string>
+  <string name="login_tip_content">Sign in with your Xiaomi Account to sync and update shows that you are currently following.</string>
+  <string name="login_tip_title">Sign in</string>
   <string name="manage">Manage</string>
   <string name="manage_offline_media">Manage offline media cache</string>
   <string name="media_name_comment">%s comment</string>

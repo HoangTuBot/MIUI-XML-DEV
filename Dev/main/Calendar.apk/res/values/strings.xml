@@ -188,6 +188,7 @@
   <string name="preferences_week_start_day_title">Week starts on</string>
   <string name="presence_label">Show me as</string>
   <string name="privacy_label">Privacy</string>
+  <string name="query_empty">" "</string>
   <string name="quick_response_custom_msg">Write your own…</string>
   <string name="quick_response_dialog_title">Choose quick response</string>
   <string name="quick_response_email_failed">Failed to find an email program</string>
