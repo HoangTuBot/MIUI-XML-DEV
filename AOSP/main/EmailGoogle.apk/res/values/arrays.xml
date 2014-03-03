@@ -57,12 +57,12 @@
     <string-array name="prefEntries_removal_action">
         <item>Show archive only</item>
         <item>Show delete only</item>
-        <item>Show archive &amp;amp; delete</item>
+        <item>Show archive &amp; delete</item>
     </string-array>
     <string-array name="prefSummaries_removal_action_summary">
         <item>Show archive only</item>
         <item>Show delete only</item>
-        <item>Show archive &amp;amp; delete</item>
+        <item>Show archive &amp; delete</item>
     </string-array>
     <string-array name="prefValues_removal_action">
         <item>archive</item>

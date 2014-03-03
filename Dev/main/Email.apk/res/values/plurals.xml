@@ -94,15 +94,4 @@
         <item quantity="other">%dGB</item>
         <item quantity="one">%dGB</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_0013">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_0019">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_001a">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_001b">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_001c">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_001d">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_001e">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_001f">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_0020">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_0021">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_0022">false</item>
 </resources>

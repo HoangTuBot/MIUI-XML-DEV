@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_07c0">false</string>
-  <string name="APKTOOL_DUMMY_07c1">false</string>
-  <string name="APKTOOL_DUMMY_07c2">false</string>
   <string name="about_settings">About tablet</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="accelerometer_summary_off">Switch orientation automatically when rotating tablet</string>

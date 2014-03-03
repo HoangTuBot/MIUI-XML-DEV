@@ -66,9 +66,8 @@ cat $TARGET_FILE | while read all_line; do
         I=$(expr $I + 1)
         PERCENT=$(echo "scale=2; $I/$TOTAL*100" | bc)
     	if [ -e .cache/ROM/system/app/$all_line ]; then
-                echo -en "${txtblu}Extracting main XML's${txtrst}: $PERCENT%\r"
-    		echo >> $LOG; echo "Extracting $all_line" >> $LOG
-    		tools/apktool d -f .cache/ROM/system/app/$all_line .cache/apk_wip
+                echo -e "${txtblu}\nExtracting "$all_line" ${txtrst}: $PERCENT/100.00%"
+    		tools/apktool d -f .cache/ROM/system/app/$all_line -o .cache/apk_wip
     		mkdir -p AOSP/$TARGET_DIR/$all_line/res/values$ISO
     		if [ -e .cache/apk_wip/res/values$ISO/strings.xml ]; then
 			grep -v ">@" .cache/apk_wip/res/values$ISO/strings.xml > .cache/apk_wip/res/values$ISO/strings.xml.new
@@ -90,9 +89,8 @@ cat $TARGET_FILE | while read all_line; do
     		fi
 		echo -en "\r${txtwipe}"
     	elif [ -e .cache/ROM/system/priv-app/$all_line ]; then
-                echo -en "${txtblu}Extracting main XML's${txtrst}: $PERCENT%\r"
-    		echo >> $LOG; echo "Extracting $all_line" >> $LOG
-    		tools/apktool d -f .cache/ROM/system/priv-app/$all_line .cache/apk_wip
+                echo -e "${txtblu}\nExtracting "$all_line" ${txtrst}: $PERCENT/100.00%"
+    		tools/apktool d -f .cache/ROM/system/priv-app/$all_line -o .cache/apk_wip
     		mkdir -p AOSP/$TARGET_DIR/$all_line/res/values$ISO
     		if [ -e .cache/apk_wip/res/values$ISO/strings.xml ]; then
 			grep -v ">@" .cache/apk_wip/res/values$ISO/strings.xml > .cache/apk_wip/res/values$ISO/strings.xml.new
@@ -114,9 +112,8 @@ cat $TARGET_FILE | while read all_line; do
     		fi
 		echo -en "\r${txtwipe}"
     	elif [ -e .cache/ROM/system/framework/$all_line ]; then
-                echo -en "${txtblu}Extracting main XML's${txtrst}: $PERCENT%\r"
-    		echo >> $LOG; echo "Extracting $all_line" >> $LOG
-    		tools/apktool d -f .cache/ROM/system/framework/$all_line .cache/apk_wip
+                echo -e "${txtblu}\nExtracting "$all_line" ${txtrst}: $PERCENT/100.00%"
+    		tools/apktool d -f .cache/ROM/system/framework/$all_line -o .cache/apk_wip
     		mkdir -p AOSP/$TARGET_DIR/$all_line/res/values$ISO_FW
 		mkdir -p AOSP/$TARGET_DIR/$all_line/res/values$ISO
     		if [ -e .cache/apk_wip/res/values$ISO_FW/strings.xml ]; then

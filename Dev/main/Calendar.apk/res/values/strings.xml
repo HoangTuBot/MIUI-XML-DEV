@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_00d9">false</string>
   <string name="accessibility_add_attendee">Add attendee</string>
   <string name="accessibility_add_reminder">Add reminder</string>
   <string name="accessibility_all_day">All day event</string>
