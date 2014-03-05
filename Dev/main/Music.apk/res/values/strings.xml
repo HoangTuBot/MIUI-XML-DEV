@@ -15,16 +15,19 @@
   <string name="buffering">Buffering…</string>
   <string name="click_to_shuffle">Touch to shuffle all</string>
   <string name="create_new_playlist">New</string>
-  <string name="dialog_add_playlist_create_playlist">Create Playlist</string>
-  <string name="dialog_add_playlist_find_music">Find Music</string>
-  <string name="dialog_cancel">Cancel</string>
-  <string name="dialog_done">Done</string>
-  <string name="dialog_ok">OK</string>
+  <string name="dcancel">Cancel</string>
+  <string name="dialog_button_create_playlist">Create Playlist</string>
+  <string name="dialog_button_find_music">Discover new music</string>
+  <string name="dialog_button_login">Sign in and sync your music</string>
+  <string name="dialog_button_scan_tracks">Search for music on this device</string>
+  <string name="dialog_hint_music_error">No songs here. You can…</string>
+  <string name="dialog_hint_network_error">Network is unavailable. Connect to network and try again.</string>
   <string name="dialog_title_add_playlist">Add Playlist</string>
   <string name="dialog_title_name_playlist">Playlist Name</string>
   <string name="dialog_title_remove_tracks">Remove Track(s)</string>
   <string name="dialog_title_track_picker">Select Track(s)</string>
   <string name="dislike">Dislike</string>
+  <string name="done">Done</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -33,6 +36,7 @@
   <string name="file_not_found">"File doesn't exist"</string>
   <string name="find_ktv">Discover KTV</string>
   <string name="fragment_more">More</string>
+  <string name="function_error">暂时未实现此功能</string>
   <string name="ktv_playlist">My KTV</string>
   <string name="like">Like</string>
   <string name="lrc_search_failed">"Couldn't find lyrics"</string>
@@ -46,9 +50,11 @@
   <string name="my_music_empty">\"My Music\" is empty. Download or favorite some music in \"Online Music\"</string>
   <string name="network_error">Network is unavailable. Connect to network and try again.</string>
   <string name="not_selected">Choose a song</string>
+  <string name="ok">OK</string>
   <string name="online_music">Online Music</string>
   <string name="playback_failed_no_title_by_bad_file">"Song can't be played. Format isn't supported or the file doesn't exist."</string>
   <string name="recommend_fragment_title">Recommend</string>
+  <string name="retry">Retry</string>
   <string name="search_hint">Artist.Song.Album</string>
   <string name="search_title">Search</string>
   <string name="send_to">Send to</string>
@@ -62,6 +68,9 @@
   <string name="track_list_descript_cover">Cover</string>
   <string name="track_search_title">Track</string>
   <string name="track_view">Track</string>
+  <string name="trigger_to_scan_media_library_finish">Refresh complete</string>
+  <string name="trigger_to_scan_media_library_processing">Still refreshing…</string>
+  <string name="trigger_to_scan_media_library_start">Refreshing…</string>
   <string name="unknown_album_name">Unknown album</string>
   <string name="unknown_artist_name">Unknown artist</string>
 </resources>

@@ -208,7 +208,8 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
   <string name="micloud_storage_space">MiCloud storage space</string>
   <string name="micloud_summary">Sign in with your Xiaomi Account to sync contacts, notes, photos, music, and more across devices.</string>
-  <string name="micloud_title_dspt" formatted="false">Used %s/Total space %s</string>
+  <string name="micloud_title_dspt" formatted="false">Used %s/Total space %s, %s remaining</string>
+  <string name="micloud_title_dspt_remain">%s remaining</string>
   <string name="micloud_title_full_dspt">"You've reached your storage limit!"</string>
   <string name="micloud_use_existing">Sign in</string>
   <string name="micloud_user_base_info">User info</string>
@@ -245,6 +246,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="process_result">Sync details:</string>
   <string name="quick_login_step2_title">Sign-in protection</string>
   <string name="quick_login_title">Password</string>
+  <string name="re_register">重新注册</string>
   <string name="reg_by_email_failure">Sign up failed: %1$s</string>
   <string name="reg_failed">Registration failed</string>
   <string name="reg_success">Sign up complete</string>
@@ -268,6 +270,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Skip sign-in</string>
   <string name="skip_login_u">&lt;u&gt;Skip sign-in&lt;/u&gt;</string>
+  <string name="skip_register">跳过注册</string>
   <string name="skip_setup_account_msg">You can set up your account later in Settings.</string>
   <string name="skip_setup_account_title">Skip setup</string>
   <string name="start_micloud">Start</string>
