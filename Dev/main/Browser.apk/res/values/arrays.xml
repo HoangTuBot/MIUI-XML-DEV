@@ -1024,9 +1024,9 @@
         <item>http://www.bbc.co.uk/</item>
     </string-array>
     <string-array name="pref_ua_choices">
+        <item>Default</item>
         <item>iPad</item>
         <item>Desktop</item>
-        <item>Android Pad</item>
     </string-array>
     <string-array name="pref_ua_values">
         <item>0</item>

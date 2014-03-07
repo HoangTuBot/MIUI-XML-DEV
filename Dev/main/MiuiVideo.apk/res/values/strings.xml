@@ -101,7 +101,9 @@
   <string name="manage_offline_media">Manage offline media cache</string>
   <string name="media_name_comment">%s comment</string>
   <string name="menu_item_about_label">关于</string>
+  <string name="menu_item_disable_3d_mode">关闭3D模式</string>
   <string name="menu_item_disable_audio_enhance">关闭电影音效增强</string>
+  <string name="menu_item_enable_3d_mode">开启3D模式</string>
   <string name="menu_item_enable_audio_enhance">开启电影音效增强</string>
   <string name="menu_item_hide_media_info_label">隐藏影片信息</string>
   <string name="menu_item_media_info_label">显示影片信息</string>

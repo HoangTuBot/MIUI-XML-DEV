@@ -101,7 +101,7 @@
   <string name="error_sim_not_ready">"Couldn't find SIM card"</string>
   <string name="error_unknown">Unknown error</string>
   <string name="error_user_name">Invalid user name</string>
-  <string name="error_verify_code">验证码错误</string>
+  <string name="error_verify_code">The code you entered is incorrect</string>
   <string name="failed_to_send_activate_email">Failed to send activation email</string>
   <string name="find_device">Find device</string>
   <string name="find_device_check_phone_error_title">Failed to enable Find device</string>
@@ -118,10 +118,10 @@
   <string name="find_device_success_title">Find device enabled</string>
   <string name="find_password_on_web_msg">Visit account.xiaomi.com to retrieve your password.</string>
   <string name="foreign_login">&lt;u&gt;Country/Area code&lt;/u&gt;</string>
-  <string name="foreign_login_title">International device options</string>
   <string name="forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="get_back_pwd">Retrieve account password</string>
-  <string name="get_verify_code">Get verification vode</string>
+  <string name="get_verify_code">Get code</string>
+  <string name="getting_verify_code">Getting</string>
   <string name="header_data_and_synchronization">Data &amp; sync</string>
   <string name="i_know">OK</string>
   <string name="input_captcha_hint">Enter captcha</string>
@@ -137,7 +137,8 @@
   <string name="login_failed">Sign-in failed</string>
   <string name="login_instead_reg">Sign in using this phone number</string>
   <string name="login_notice">Signing in…</string>
-  <string name="login_title_provision">Sign in to your Mi Account</string>
+  <string name="login_step2_title">Sign-in protection</string>
+  <string name="login_title">Sign in to your Mi Account</string>
   <string name="logout_failed">Sign-out failed</string>
   <string name="master_alert_notif_dspt_add">"During this period you've added %s. 
 If your device is lost or damaged, you may not be able to recover this content."</string>
@@ -208,10 +209,9 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
   <string name="micloud_storage_space">MiCloud storage space</string>
   <string name="micloud_summary">Sign in with your Xiaomi Account to sync contacts, notes, photos, music, and more across devices.</string>
-  <string name="micloud_title_dspt" formatted="false">Used %s/Total space %s, %s remaining</string>
+  <string name="micloud_title_dspt" formatted="false">Used %s/Total space %s,</string>
   <string name="micloud_title_dspt_remain">%s remaining</string>
   <string name="micloud_title_full_dspt">"You've reached your storage limit!"</string>
-  <string name="micloud_use_existing">Sign in</string>
   <string name="micloud_user_base_info">User info</string>
   <string name="micloud_user_email">Email</string>
   <string name="micloud_user_id">Xiaomi ID</string>
@@ -239,14 +239,13 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="password">Password</string>
   <string name="payment_settings">Payment</string>
   <string name="phone_num_hint_text">Phone number</string>
-  <string name="phone_number_registered">This phone number is already associated with a Mi Account</string>
   <string name="please_input_phone_number">Enter phone number</string>
   <string name="please_input_verify_code">Enter verification code</string>
   <string name="prev">Back</string>
   <string name="process_result">Sync details:</string>
   <string name="quick_login_step2_title">Sign-in protection</string>
   <string name="quick_login_title">Password</string>
-  <string name="re_register">重新注册</string>
+  <string name="re_register">Sign up again</string>
   <string name="reg_by_email_failure">Sign up failed: %1$s</string>
   <string name="reg_failed">Registration failed</string>
   <string name="reg_success">Sign up complete</string>
@@ -255,7 +254,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="reg_type_phone">Create via phone (recommended)</string>
   <string name="reging">Signing up…</string>
   <string name="relogin">Sign in again</string>
-  <string name="remove_account_notice">What would you like to do with the synced messages, contacts, and notes on this device?</string>
+  <string name="remove_account_notice">What would you like to do with the synced contacts, and notes on this device?</string>
   <string name="remove_confirm">Sign out</string>
   <string name="remove_unactivated_account_notice">"Your account hasn't been activated."</string>
   <string name="removing_account">Signing out…</string>
@@ -270,7 +269,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Skip sign-in</string>
   <string name="skip_login_u">&lt;u&gt;Skip sign-in&lt;/u&gt;</string>
-  <string name="skip_register">跳过注册</string>
+  <string name="skip_register">Skip Sign-up</string>
   <string name="skip_setup_account_msg">You can set up your account later in Settings.</string>
   <string name="skip_setup_account_title">Skip setup</string>
   <string name="start_micloud">Start</string>
@@ -303,6 +302,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="vcode">Verification code</string>
   <string name="vcode_notification_title">"Verification isn't finished"</string>
   <string name="vcode_prompt_long">Enter the verification code generated by your MiSecurity token</string>
+  <string name="verify">Verify</string>
   <string name="wipe_data_dialog_msg">%s items will be lost if you continue.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Some items haven't been synced"</string>
