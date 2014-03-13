@@ -160,6 +160,73 @@ $PYTHON tools/sort.py AOSP/$TARGET_DIR
 echo -e "${txtgrn}Extracted $TARGET_NAME XML's${txtrst}"
 }
 
+extract_xmls_all () {
+I=0
+TOTAL=$(wc -l $TARGET_FILE | cut -d' ' -f1)
+cat $TARGET_FILE | while read all_line; do
+        I=$(expr $I + 1)
+        PERCENT=$(echo "scale=2; $I/$TOTAL*100" | bc)
+	APK=$all_line
+    	if [ -e .cache/ROM/system/app/$APK ]; then
+                echo -e "${txtblu}\nExtracting "$APK" ${txtrst}: $PERCENT/100.00%"
+    		tools/apktool d -f .cache/ROM/system/app/$APK -o .cache/apk_wip
+    		mkdir -p AOSP/$TARGET_DIR/$APK/res/values
+		cd .cache/apk_wip
+   		find -iname "strings.xml" >> xml_targets
+   		find -iname "plurals.xml" >> xml_targets
+   		find -iname "arrays.xml" >> xml_targets
+		cd ../..
+		if [ -s .cache/apk_wip/xml_targets ]; then
+			cat .cache/apk_wip/xml_targets | while read all_line; do
+				BASE_NAME=$(basename $all_line)
+				DIR_NAME=$(dirname $all_line | cut -d'.' -f2)
+				mkdir -p AOSP/$TARGET_DIR/"$APK""$DIR_NAME"
+				cp .cache/apk_wip"$DIR_NAME"/$BASE_NAME AOSP/$TARGET_DIR/"$APK""$DIR_NAME"/$BASE_NAME
+			done
+		fi
+		echo -en "\r${txtwipe}"
+    	elif [ -e .cache/ROM/system/priv-app/$APK ]; then
+                echo -e "${txtblu}\nExtracting "$APK" ${txtrst}: $PERCENT/100.00%"
+    		tools/apktool d -f .cache/ROM/system/priv-app/$APK -o .cache/apk_wip
+    		mkdir -p AOSP/$TARGET_DIR/$APK/res/values
+		cd .cache/apk_wip
+   		find -iname "strings.xml" >> xml_targets
+   		find -iname "plurals.xml" >> xml_targets
+   		find -iname "arrays.xml" >> xml_targets
+		cd ../..
+		if [ -s .cache/apk_wip/xml_targets ]; then
+			cat .cache/apk_wip/xml_targets | while read all_line; do
+				BASE_NAME=$(basename $all_line)
+				DIR_NAME=$(dirname $all_line | cut -d'.' -f2)
+				mkdir -p AOSP/$TARGET_DIR/"$APK""$DIR_NAME"
+				cp .cache/apk_wip"$DIR_NAME"/$BASE_NAME AOSP/$TARGET_DIR/"$APK""$DIR_NAME"/$BASE_NAME
+			done
+		fi
+		echo -en "\r${txtwipe}"
+    	elif [ -e .cache/ROM/system/framework/$APK ]; then
+                echo -e "${txtblu}\nExtracting "$APK" ${txtrst}: $PERCENT/100.00%"
+    		tools/apktool d -f .cache/ROM/system/framework/$APK -o .cache/apk_wip
+    		mkdir -p AOSP/$TARGET_DIR/$APK/res/values
+		cd .cache/apk_wip
+   		find -iname "strings.xml" >> xml_targets
+   		find -iname "plurals.xml" >> xml_targets
+   		find -iname "arrays.xml" >> xml_targets
+		cd ../..
+		if [ -s .cache/apk_wip/xml_targets ]; then
+			cat .cache/apk_wip/xml_targets | while read all_line; do
+				BASE_NAME=$(basename $all_line)
+				DIR_NAME=$(dirname $all_line | cut -d'.' -f2)
+				mkdir -p AOSP/$TARGET_DIR/"$APK""$DIR_NAME"
+				cp .cache/apk_wip"$DIR_NAME"/$BASE_NAME AOSP/$TARGET_DIR/"$APK""$DIR_NAME"/$BASE_NAME
+			done
+		fi
+		echo -en "\r${txtwipe}"
+	fi
+done
+$PYTHON tools/sort.py AOSP/$TARGET_DIR
+echo -e "${txtgrn}Extracted $TARGET_NAME XML's${txtrst}"
+}
+
 start_extract_main_xmls () {
 # Detect device
 echo -e "${txtblu}Detecting device${txtrst}"
@@ -171,7 +238,11 @@ if [ $TARGET == $MAIN_DEVICE ]; then
 	TARGET_FILE="targets/aosp.apks"
 	TARGET_DIR="main"
 	TARGET_NAME="main"
-	extract_xmls
+	if [ "$ISO" == "all" ]; then
+		extract_xmls_all
+	else
+		extract_xmls
+	fi
 else
 	echo -e "${txtred}Device not a main device${txtrst}: $TARGET"; exit
 fi  
