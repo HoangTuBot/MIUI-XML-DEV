@@ -42,6 +42,7 @@
   <string name="comment_edit_et_hint">Please input comment</string>
   <string name="comment_edit_start_hint">Click the stars to rate:</string>
   <string name="comment_review_list_empty_hint">No comment</string>
+  <string name="connect_error">Connect error</string>
   <string name="continue_to_play_nextset">Play next episode automatically</string>
   <string name="continue_to_play_nextset_summary">"When the episode that you're watching has finished the next one will begin automatically"</string>
   <string name="count_comment">%d ratings</string>
@@ -67,8 +68,11 @@
   <string name="dlna_list_name">DLNA device</string>
   <string name="dlna_name">Shared device</string>
   <string name="download_add_success">Add download task success</string>
+  <string name="download_error">Download error</string>
+  <string name="download_geturl_fail">Get Url failed, please check the network and retry.</string>
   <string name="download_is_in_tasklist">Has been in caching list</string>
   <string name="download_is_success">Has been cached</string>
+  <string name="download_percent_hint">Downloading %d%%</string>
   <string name="edit">Edit</string>
   <string name="edit_comment">Add comment</string>
   <string name="episode">Episode</string>
@@ -78,11 +82,13 @@
   <string name="feature">Featured</string>
   <string name="feature_list_empty_hint">No feature list</string>
   <string name="feature_media_empty_hint">No featrue videos</string>
+  <string name="file_error">File error</string>
   <string name="filter">Filter</string>
   <string name="gong_count_dlna">%d DLNA</string>
   <string name="gong_count_xiang">%d items</string>
   <string name="good">OK</string>
   <string name="imports">Import</string>
+  <string name="init">Init</string>
   <string name="introduce">Summary</string>
   <string name="live_channel_empty_hint">No channels</string>
   <string name="live_player_forecast_empty_hint">No forecast</string>
@@ -140,6 +146,7 @@
   <string name="ok">OK</string>
   <string name="online_video">Online</string>
   <string name="other_setting">Other</string>
+  <string name="pause">Pause</string>
   <string name="percent_status">%.1f%%</string>
   <string name="play">Play</string>
   <string name="play_his_empty_hint">No history</string>
@@ -166,6 +173,7 @@
   <string name="select_offline_media">Select offline media cache</string>
   <string name="send">Submit</string>
   <string name="setting">Settings</string>
+  <string name="source_error">Source get error</string>
   <string name="temp_play_history_button_label">Show Play history</string>
   <string name="time_colon">Date：</string>
   <string name="to_be_play_label_v5">即将播放</string>
@@ -197,6 +205,7 @@
   <string name="vp_VideoView_error_text_invalid_progressive_playback">抱歉，该视频不适合在此设备上播放</string>
   <string name="vp_VideoView_error_text_unknown">很抱歉，无法播放此视频</string>
   <string name="vp_VideoView_error_title">无法播放视频</string>
+  <string name="waiting_to_download">Waiting</string>
   <string name="write_comment">Add comment</string>
   <string name="xiaomi_account_type_unsupported">"System doesn't support Xiaomi Accounts."</string>
   <string name="xiaomi_user">User</string>

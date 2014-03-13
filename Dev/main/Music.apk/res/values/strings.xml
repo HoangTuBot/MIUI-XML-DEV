@@ -16,6 +16,7 @@
   <string name="bill_list_fragment_title">Popular</string>
   <string name="buffering">Buffering…</string>
   <string name="cancel">Cancel</string>
+  <string name="channel_list_fragment_title">FM</string>
   <string name="click_to_shuffle">Touch to shuffle all</string>
   <string name="create_new_playlist">New</string>
   <string name="dialog_button_create_playlist">Create Playlist</string>

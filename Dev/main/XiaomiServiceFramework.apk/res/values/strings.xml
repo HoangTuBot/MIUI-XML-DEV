@@ -212,6 +212,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_title_dspt" formatted="false">Used %s/Total space %s,</string>
   <string name="micloud_title_dspt_remain">%s remaining</string>
   <string name="micloud_title_full_dspt">"You've reached your storage limit!"</string>
+  <string name="micloud_upgrade_space">Upgrade space</string>
   <string name="micloud_user_base_info">User info</string>
   <string name="micloud_user_email">Email</string>
   <string name="micloud_user_id">Xiaomi ID</string>
