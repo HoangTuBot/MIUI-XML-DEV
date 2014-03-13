@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>השב</item>
+        <item>השב לכולם</item>
+        <item>העבר</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>בוצע בהצלחה</item>
+        <item>אין חיבור.</item>
+        <item>הכניסה נכשלה.</item>
+        <item>שגיאת אבטחה.</item>
+        <item>הסנכרון נכשל.</item>
+        <item>שגיאה פנימית</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>מערכת</item>
+        <item>בשימוש לעתים קרובות</item>
+        <item>כל התיקיות</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>חדש יותר</item>
+        <item>ישן יותר</item>
+        <item>רשימת שיחות</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>הצג שיחה חדשה יותר לאחר ביצוע מחיקה</item>
+        <item>הצג שיחה ישנה יותר לאחר ביצוע מחיקה</item>
+        <item>הצג רשימת שיחות לאחר ביצוע מחיקה</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>הצג רק ארכיון</item>
+        <item>הצג רק הודעות שנמחקו</item>
+        <item>הצג ארכיון והודעות שנמחקו</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>הצג רק ארכיון</item>
+        <item>הצג רק הודעות שנמחקו</item>
+        <item>הצג ארכיון והודעות שנמחקו</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>טקסט קטנטן</item>
+        <item>טקסט קטן</item>
+        <item>טקסט בגודל רגיל</item>
+        <item>טקסט גדול</item>
+        <item>טקסט ענק</item>
+    </string-array>
+</resources>

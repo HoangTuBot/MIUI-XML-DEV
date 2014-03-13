@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>ອະບິດຈານ</item>
+        <item>ແອັກຄຣາ</item>
+        <item>ແອດດິຊ ອະບາບາ</item>
+        <item>ອັລຈຽສ</item>
+        <item>ແບລນທາຍຣີ</item>
+        <item>ບຣາຊາວິລ</item>
+        <item>ໄຄໂຣ</item>
+        <item>ຄາຊາບລັງກາ</item>
+        <item>ໂຄນາຄຣີ</item>
+        <item>ດາກາ</item>
+        <item>ດາ ເອສ ຊາລາມ</item>
+        <item>ຈິບູຕີ</item>
+        <item>ຟຣີທາວ</item>
+        <item>ກາໂບໂຣເນ</item>
+        <item>ຮາຣາເຣ</item>
+        <item>ໂຈຮານເນສເບີກ</item>
+        <item>ແຄມພາລາ</item>
+        <item>ຄາທູມ</item>
+        <item>ຄິກາລິ</item>
+        <item>ຄິນຊາຊາ</item>
+        <item>ລາໂກສ</item>
+        <item>ມາເຊີຣູ</item>
+        <item>ໂມກາດິຊູ</item>
+        <item>ໄນໂຣບີ</item>
+        <item>ເຊົາ ໂຕເມ</item>
+        <item>ທິມບັກຕູ</item>
+        <item>ທຣິໂພລີ</item>
+        <item>ທູນິສ</item>
+        <item>ແອັນຄໍເຣກ</item>
+        <item>ເມນໂດຊາ</item>
+        <item>ອາຣູບາ</item>
+        <item>ອັສຊຸສຊຽນ</item>
+        <item>ບາບາໂດສ</item>
+        <item>ເບລີຊ</item>
+        <item>ໂບໂກຕາ</item>
+        <item>ບົວໂນສ ໄອເຣສ</item>
+        <item>ຄັນຄຸນ</item>
+        <item>ຄາຣາຄາສ</item>
+        <item>ເຄແມນ</item>
+        <item>ຊິກຄາໂກ</item>
+        <item>ໂຄສຕາ ຣິກາ</item>
+        <item>ຄູຣາເຊົາ</item>
+        <item>ດໍຊັນ ຄຣີກ</item>
+        <item>ເດັນເວີ</item>
+        <item>ດີທຣອຍ</item>
+        <item>ດໍມິນິກາ</item>
+        <item>ເອັດມອນຕັນ</item>
+        <item>ເອວ ຊາວາດໍ</item>
+        <item>ຟໍເຕເລຊາ</item>
+        <item>ແກຣນ ເທີກ</item>
+        <item>ເກຣນາດາ</item>
+        <item>ກົວເຕມາລາ</item>
+        <item>ກາຍອານາ</item>
+        <item>ຮາລິແຟັກ</item>
+        <item>ຮາວານນາ</item>
+        <item>ອິນເດຍນາໂປລິສ</item>
+        <item>ນ໋ອກ</item>
+        <item>ມາເຣັນໂກ</item>
+        <item>ປີເຕີສະເປີກ</item>
+        <item>ເທວຊິຕີ</item>
+        <item>ວີບເວ</item>
+        <item>ແວຊິນ</item>
+        <item>ວິນາແມັກ</item>
+        <item>ຄິງສະຕັນ</item>
+        <item>ນູເອສຕຣາ ຊິນຍໍເຣ ເດ ລາ ປາສ</item>
+        <item>ລິມາ</item>
+        <item>ລອສ ແອງເຈີລິສ</item>
+        <item>ຫລຸຍວິວ</item>
+        <item>ມານາກົວ</item>
+        <item>ມາຕິນີກ</item>
+        <item>ເມັນໂດຊາ</item>
+        <item>ເມັດລາແຄັດລາ</item>
+        <item>ເມັກຊິໂກ ຊິຕີ</item>
+        <item>ມອນເທີເຣ</item>
+        <item>ມອນເທວິດີໂອ</item>
+        <item>ມອນທຣີໂອ</item>
+        <item>ນາສຊົວ</item>
+        <item>ນິວຢອກ</item>
+        <item>ບູລາ</item>
+        <item>ເຊັນເຕີ</item>
+        <item>ນິວຊາເລັມ</item>
+        <item>ພານາມາ</item>
+        <item>ຟີນິກ</item>
+        <item>ພອດ ອອບ ສະເປນ</item>
+        <item>ພອດ ເອີ ພຣິນ</item>
+        <item>ເປີໂຕ ຣິໂກ</item>
+        <item>ແຊນໂຕ ໂດມິນໂກ</item>
+        <item>ເຊົາ ເປົາໂລ</item>
+        <item>ເຊນ ຫລຸຍ</item>
+        <item>ເຊນ ຄິດສ</item>
+        <item>ເຊນ ລູເຊຍ</item>
+        <item>ເຊນ ໂທມັສ</item>
+        <item>ທິຮວນນາ</item>
+        <item>ໂຕຣອນໂຕ</item>
+        <item>ແວນຄູເວີ</item>
+        <item>ວິນນິເພັກ</item>
+        <item>ຂົ້ວໂລກໃຕ້</item>
+        <item>ລອງເຢຍບຽນ</item>
+        <item>ອັລມາຕີ</item>
+        <item>ແອມແມນ</item>
+        <item>ອານາເດຍ</item>
+        <item>ແອັກຕົວ</item>
+        <item>ແບັກແດດ</item>
+        <item>ບາເຣນ</item>
+        <item>ບາຄູ</item>
+        <item>ບາງກອກ</item>
+        <item>ເບຣຸທ</item>
+        <item>ເຄົາຄູຕາ</item>
+        <item>ດາມັສຄັສ</item>
+        <item>ດາຄາ</item>
+        <item>ດູໄບ</item>
+        <item>ກາຊາ</item>
+        <item>ເຮັບບຣອນ</item>
+        <item>ໂຮຈິມິ່ນ</item>
+        <item>ຮົງກົງ</item>
+        <item>ອິສຕັນບູ</item>
+        <item>ຈາກາຕາ</item>
+        <item>ເຈີຣູຊາເລມ</item>
+        <item>ຄາບູນ</item>
+        <item>ຄາຣາຊິ</item>
+        <item>ຄັດມັນດູ</item>
+        <item>ກົວລາ ລຳເປີ</item>
+        <item>ຄູເວດ</item>
+        <item>ມາເກົ້າ</item>
+        <item>ມານິລາ</item>
+        <item>ມັສແຄັດ</item>
+        <item>ພະນົມເປນ</item>
+        <item>ປອງຢາງ</item>
+        <item>ກາຕາ</item>
+        <item>ແຣງກູນ</item>
+        <item>ຣິຢາດ</item>
+        <item>ໄຊງອນ</item>
+        <item>ໂຊ</item>
+        <item>ຊຽງໄຮ</item>
+        <item>ສິງກະໂປ</item>
+        <item>ໄທເປ</item>
+        <item>ເທຣານ</item>
+        <item>ເທວ ອາວິບ</item>
+        <item>ໂຕກຽວ</item>
+        <item>ອູລານ ບາຕາ</item>
+        <item>ເບີມິວດາ</item>
+        <item>ຄານາຣີ</item>
+        <item>ເຄບ ເວີດ</item>
+        <item>ເຣກເຄວິກ</item>
+        <item>ສະແຕນເລ</item>
+        <item>ອາເດເລດ</item>
+        <item>ບຣິສເບນ</item>
+        <item>ແຄນເບີຣາ</item>
+        <item>ດາວິນ</item>
+        <item>ເມວເບີນ</item>
+        <item>ນິວເຊົາເວວ</item>
+        <item>ເພີດ</item>
+        <item>ຄວີນແລນ</item>
+        <item>ຊິດນີ</item>
+        <item>ວິກຕໍເຣຍ</item>
+        <item>ນິວຟາວແລນ</item>
+        <item>ຊາສກັດເຊວານ</item>
+        <item>ເກາະອີສເຕີ</item>
+        <item>ອາມສະເຕີດາມ</item>
+        <item>ແອນດໍຣາ</item>
+        <item>ເອເທນ</item>
+        <item>ເບວຟາສທ</item>
+        <item>ເບວເກຣດ</item>
+        <item>ເບີລິນ</item>
+        <item>ບຣາທິສລາວາ</item>
+        <item>ບຣັສເຊວ</item>
+        <item>ບູຄາເຣສ</item>
+        <item>ບູດາເປສ</item>
+        <item>ຈິຊິເນົາ</item>
+        <item>ໂຄເພນຮາເກນ</item>
+        <item>ດັບລິນ</item>
+        <item>ກິບຣັລຕາ</item>
+        <item>ເຮວຊິງກິ</item>
+        <item>ໄອສ ອອບ ແມນ</item>
+        <item>ອິສຕັນບູ</item>
+        <item>ຂຽບ</item>
+        <item>ລິສບອນ</item>
+        <item>ລອນດອນ</item>
+        <item>ລັກເຊມເບີກ</item>
+        <item>ມາດຣິດ</item>
+        <item>ມັລຕາ</item>
+        <item>ມິນສຄ໌</item>
+        <item>ໂມນາໂຄ</item>
+        <item>ມອສໂຄ</item>
+        <item>ໂອສໂລ</item>
+        <item>ປາຣີສ</item>
+        <item>ປຣາກ</item>
+        <item>ຣິກາ</item>
+        <item>ໂຣມ</item>
+        <item>ແຊນ ມາຣິໂນ</item>
+        <item>ຊາຣາເຢໂວ</item>
+        <item>ຊິມເຟີໂຣໂພ</item>
+        <item>ສະໂກເປຍ</item>
+        <item>ໂຊເຟຍ</item>
+        <item>ສະຕັອກໂຮມ</item>
+        <item>ທາລິນ</item>
+        <item>ວາຕິກັນ</item>
+        <item>ວຽນນາ</item>
+        <item>ວິນນຽສ</item>
+        <item>ວໍຊໍ</item>
+        <item>ຊາເກຣັບ</item>
+        <item>ຊູຣິດ</item>
+        <item>ແອນຕານານາຣິໂວ</item>
+        <item>ມັລດີຟ</item>
+        <item>ມົວຣິທຽສ</item>
+        <item>ອັອກແລນ</item>
+        <item>ຟີຈິ</item>
+        <item>ກວມ</item>
+        <item>ໂຮໂນລູລູ</item>
+        <item>ຄິຣິບາທິ</item>
+        <item>ນູເມ</item>
+        <item>ຊາມົວ</item>
+        <item>ທາຮີທິ</item>
+        <item>ແອນຕິກົວ</item>
+        <item>ອັສຕິນ</item>
+        <item>ບອສຕັນ</item>
+        <item>ຄາວກາຣີ</item>
+        <item>ໂຄລຳບັສ</item>
+        <item>ດາລັສ</item>
+        <item>ນັອກສວິວ</item>
+        <item>ເມັມພິສ</item>
+        <item>ໄມອາມີ</item>
+        <item>ມິນເນໂປລິສ</item>
+        <item>ອັອດໂຕວາ</item>
+        <item>ຟິລາເດເຟຍ</item>
+        <item>ພອດແລນ</item>
+        <item>ແຊນ ດິເອໂກ</item>
+        <item>ແຊນ ຟຣານຊິສໂກ</item>
+        <item>ເຊົາເຫລກຊິຕີ</item>
+        <item>ແຊນ ໂຈສ</item>
+        <item>ແຊນ ເຊົາວາດໍ</item>
+        <item>ຊີອາໂທ</item>
+        <item>ເຊນ ຫລຸຍ</item>
+        <item>ວໍຊິງຕັນ ດີຊີ</item>
+        <item>ຮູສຕັນ</item>
+        <item>ແຊນ ແອນໂທນິໂອ</item>
+        <item>ແຈັກສັນວິວ</item>
+        <item>ບັອລຕິມໍ</item>
+        <item>ແນັດສ໌ວິວ</item>
+        <item>ມິວວອກກີ</item>
+        <item>ໂອຄລາໂຮມາ ຊິຕີ</item>
+        <item>ລາສ ເວກາສ</item>
+        <item>ອັລບັກເຄີກີ</item>
+        <item>ທູຊອນ</item>
+        <item>ຊາຄຣາເມນໂຕ</item>
+        <item>ແອັດແລນຕາ</item>
+        <item>ຄລີບແລນ</item>
+        <item>ນິວໂອລີນ</item>
+        <item>ແທມປາ</item>
+        <item>ພິດສະເບີກ</item>
+        <item>ຊິນຊິນນາຕິ</item>
+        <item>ເມົາເທນວິວ</item>
+        <item>ເຣໂນ</item>
+        <item>ແບລັກຣອກຊິຕີ</item>
+        <item>ໂດຮາ</item>
+        <item>ປັກກິ່ງ</item>
+        <item>ມຸມໄບ</item>
+        <item>ເດລີ</item>
+        <item>ໂອຊາກາ</item>
+        <item>ລະຮໍ</item>
+        <item>ຊານາ</item>
+        <item>ບາເຊໂລນາ</item>
+        <item>ມິວນິຊ</item>
+        <item>ມິລານ</item>
+        <item>ແຟຣັງເຟິດ</item>
+        <item>ຮາໂນຍ</item>
+        <item>ແອນຄາຣາ</item>
+        <item>ບັງກາລໍ</item>
+        <item>ບຣາຊິເລຍ</item>
+        <item>ເຄບທາວ</item>
+        <item>ອິສລາມາບັດ</item>
+        <item>ຣິໂອ ເດີ ຈາເນໂຣ</item>
+        <item>ແອນອາເບີ</item>
+        <item>ເບົາເດີ</item>
+        <item>ແຄມບຣິດ</item>
+        <item>ເຄີກແລນ</item>
+        <item>ເມດີສັນ</item>
+        <item>ກວາງໂຈ</item>
+        <item>ໄອເດີຣາແບດ</item>
+        <item>ເຣສຕັນ</item>
+        <item>ເບໂລ ຮໍຣິຊອນເຕ</item>
+        <item>ແຊນເທຍໂກ</item>
+        <item>ມອນໂຣເວຍ</item>
+        <item>ໂຄລົມໂບ</item>
+        <item>ຊິຮົວຮົວ</item>
+        <item>ຊາວາດໍ</item>
+        <item>ຄູເຄົາ</item>
+        <item>ແມນເຊສເຕີ</item>
+        <item>ກຶຍ</item>
+        <item>ເຊນ ປີເຕີເບີກ</item>
+        <item>ຄຣາໂຄ</item>
+        <item>ວຣອດສະວັບ</item>
+        <item>ແຮມເບີກ</item>
+        <item>ອູລູ</item>
+        <item>ໄຮຟາ</item>
+        <item>ແຊນ ຮວນ</item>
+        <item>ເຕກູຊິກັລປາ</item>
+        <item>ພາຣາມາຣິໂບ</item>
+        <item>ຄວິດໂຕ</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>ເຫຼືອໜ້ອຍກວ່າ 1 ນາທີ</item>
+        <item>ຍັງເຫຼືອ %1$s</item>
+        <item>ຍັງເຫຼືອ %2$s</item>
+        <item>ຍັງເຫຼືອ %1$s %2$s</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>ໂມງປຸກຖືກຕັ້ງໄວ້ໜ້ອຍກວ່າ 1 ນາທີຫ່າງຈາກຕອນນີ້.</item>
+        <item>ໂມງປຸກຕັ້ງໄວ້ %1$s ຈາກຕອນນີ້.</item>
+        <item>ໂມງປຸກຖືກຕັ້ງໄວ້ %2$s ຈາກຕອນນີ້.</item>
+        <item>ໂມງປຸກຖືກຕັ້ງໄວ້ %1$s ແລະ %2$s ຈາກຕອນນີ້.</item>
+        <item>ໂມງປຸກຖືກຕັ້ງໄວ້ %3$s ຈາກຕອນນີ້.</item>
+        <item>ໂມງປຸກຖືກຕັ້ງໄວ້ %1$s ແລະ %3$s ຈາກຕອນນີ້.</item>
+        <item>ໂມງປຸກຖືກຕັ້ງໄວ້ %2$s ແລະ %3$s ຈາກຕອນນີ້.</item>
+        <item>ໂມງປຸກຖືກຕັ້ງໄວ້ %1$s, %2$s, ແລະ %3$s ຈາກຕອນນີ້.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>5 ນາທີ</item>
+        <item>10 ນາທີ</item>
+        <item>15 ນາທີ</item>
+        <item>20 ນາທີ</item>
+        <item>25 ນາທີ</item>
+        <item>30 ນາທີ</item>
+        <item>ບໍ່ໃຊ້</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>ປິດສຽງເຕືອນຊົ່ວຄາວ</item>
+        <item>ປິດ</item>
+        <item>ບໍ່ເຮັດຫຍັງ</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>ທ່ານໄວປານຜີພຸ້ນນໍ້.</item>
+        <item>ຂໍໃຫ້ມີຄວາມສຸກກັບໝາກຜົນຈາກເຫື່ອແຮງຂອງທ່ານ.</item>
+        <item>Android ເປັນທີ່ຮູ້ຈັກໃນເລື່ອງຄວາມໄວ, ແຕ່ກໍຍັງບໍ່ໄວຊ່ຳເຈົ້າ!</item>
+        <item>ເຫີ່.</item>
+        <item>ເວລາຂັ້ນເທບ.</item>
+        <item>ຊ່າງເປັນຄວາມໄວອັນມະຫາສານ.</item>
+        <item>ມາເດີນທາງຂ້າມເວລາກັນອີກບາດນຶ່ງເທາະ.</item>
+        <item>ພຽງແຕ່ໂດດໄປທາງຊ້າຍ.</item>
+        <item>ທ່ານມີຖາດສີສຳລັບຄວາມໄວ.</item>
+        <item>ຄວາມໄວໂຟໂຕນິກ.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>ໂມງເຂັມ</item>
+        <item>ດິຈິຕອນ</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>ໝູ່ເກາະມາແຊວ</item>
+        <item>ເກາະມິດເວ</item>
+        <item>ຮາວາຍ</item>
+        <item>ອາລັສກາ</item>
+        <item>ເວລາແປຊິຟິກ</item>
+        <item>ທິຮວນນາ</item>
+        <item>ອາຣິໂຊນາ</item>
+        <item>ຊິຮົວຮົວ</item>
+        <item>ເວລາເມົາເທນ</item>
+        <item>ອາເມລິກາກາງ</item>
+        <item>ເວລາກາງ</item>
+        <item>ເມັກຊິໂກ ຊິຕີ</item>
+        <item>ຊາເກັດເຊວານ</item>
+        <item>ໂບໂກຕາ</item>
+        <item>ເວລາຕາເວັນອອກ</item>
+        <item>ເວເນຊູເອລາ</item>
+        <item>ເວລາແອັດແລນຕິກ (ບາບາໂດສ)</item>
+        <item>ເວລາແອັດແລນຕິກ (ການາດາ)</item>
+        <item>ມາເນົາສ໌</item>
+        <item>ຊານຕິເອໂກ</item>
+        <item>ນິວຟາວແລນ</item>
+        <item>ບຣາຊິເລຍ</item>
+        <item>ບົວໂນສ ໄອເຣສ</item>
+        <item>ກຣີນແລນ</item>
+        <item>ມອນເທວິດີໂອ</item>
+        <item>ແອັດແລນຕິກກາງ</item>
+        <item>ອະໂຊເຣສ</item>
+        <item>ຫມູ່ເກາະເຄບເວີດ</item>
+        <item>ຄາຊາບລັງກາ</item>
+        <item>ລອນດອນ, ດັບບລິນ</item>
+        <item>ອຳສະເຕີດຳ, ເບີລິນ</item>
+        <item>ເບວເກຣດ</item>
+        <item>ບຣັສເຊວ</item>
+        <item>ຊາຣາເຮໂວ</item>
+        <item>ວິນຮູກຄ</item>
+        <item>ເວລາອາຟຣິກາ</item>
+        <item>ແອັມມານ, ຈໍແດນ</item>
+        <item>ເອເທນ, ອິສຕັນບູ</item>
+        <item>ເບຣຸດ, ເລບານອນ</item>
+        <item>ໄຄໂຣ</item>
+        <item>ເຮວຊິງກິ</item>
+        <item>ເຈີຣູຊາເລມ</item>
+        <item>ມິນສກ໌</item>
+        <item>ຮາຣາເຣ</item>
+        <item>ແບັກແດດ</item>
+        <item>ມອສໂຄ</item>
+        <item>ຄູເວດ</item>
+        <item>ໄນໂຣບີ</item>
+        <item>ເຕຣານ</item>
+        <item>ບາຄຸ</item>
+        <item>ທິບິລິຊີ</item>
+        <item>ເຢເຣວານ</item>
+        <item>ດູໄບ</item>
+        <item>ຄາບູ</item>
+        <item>ອິສລາມາບັດ, ກາຣາຈິ</item>
+        <item>ຢູໂຣເຊກ</item>
+        <item>ເຢກັດເທຣິນເບີກ</item>
+        <item>ໂຄຄາຕາ</item>
+        <item>ສີລັງກາ</item>
+        <item>ຄັດມັນດູ</item>
+        <item>ເອັສຕານາ</item>
+        <item>ຢາງກອນ</item>
+        <item>ຄຣາສໂນຢາກ</item>
+        <item>ບາງກອກ</item>
+        <item>ປັກກິ່ງ</item>
+        <item>ຮົງກົງ</item>
+        <item>ອຽກຄຸກສ໌ຄ</item>
+        <item>ກົວລາ ລຳເປີ</item>
+        <item>ເພີດ</item>
+        <item>ໄທເປ</item>
+        <item>ໂຊ</item>
+        <item>ໂຕກຽວ, ໂອຊາກາ</item>
+        <item>ຢາຄຸດສ໌ຄ</item>
+        <item>ອາເດວເລດ</item>
+        <item>ດາວິນ</item>
+        <item>ບຣິສເບນ</item>
+        <item>ໂຮບາດ</item>
+        <item>ຊິດນີ, ແຄນເບີຣາ</item>
+        <item>ວະລາດິໂວສໂຕກ</item>
+        <item>ກວມ</item>
+        <item>ມາກາດານ</item>
+        <item>ອັອກແລນ</item>
+        <item>ຟີຈິ</item>
+        <item>ທອງກາ</item>
+        <item>ຈາກາຕາ</item>
+    </string-array>
+</resources>

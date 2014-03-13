@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">ຂ້ອຍເຊື່ອແອັບພລິເຄຊັນນີ້.</string>
+  <string name="configure">ປັບຄ່າ</string>
+  <string name="data_received">ຮັບ:</string>
+  <string name="data_transmitted">ສົ່ງ:</string>
+  <string name="data_value_format">%1$s ໄບ / %2$s ແພັກເກັດ</string>
+  <string name="disconnect">ຕັດການເຊື່ອມຕໍ່</string>
+  <string name="duration">ໄລຍະເວລາ:</string>
+  <string name="legacy_title">ເຊື່ອມຕໍ່ VPN ແລ້ວ</string>
+  <string name="prompt">%s ພະຍາຍາມສ້າງການເຊື່ອມຕໍ່ VPN.</string>
+  <string name="session">ເຊສຊັນ:</string>
+  <string name="warning">ຖ້າດຳເນີນຕໍ່, ແມ່ນທ່ານກຳລັງຈະໃຫ້ສິດແກ່ແອັບພລິເຄຊັນ ໃນການດັກຂໍ້ມູນຈະລາຈອນໃນເຄືອຂ່າຍທັງໝົດ. &lt;b&gt;&amp;#3746;&amp;#3784;&amp;#3762;&amp;#3725;&amp;#3757;&amp;#3745;&amp;#3758;&amp;#3761;&amp;#3738; &amp;#3737;&amp;#3757;&amp;#3713;&amp;#3720;&amp;#3762;&amp;#3713;&amp;#3751;&amp;#3784;&amp;#3762;&amp;#3735;&amp;#3784;&amp;#3762;&amp;#3737;&amp;#3720;&amp;#3760;&amp;#3776;&amp;#3722;&amp;#3767;&amp;#3784;&amp;#3757;&amp;#3779;&amp;#3720;&amp;#3777;&amp;#3757;&amp;#3761;&amp;#3738;&amp;#3742;&amp;#3749;&amp;#3764;&amp;#3776;&amp;#3716;&amp;#3722;&amp;#3761;&amp;#3737;&amp;#3732;&amp;#3761;&amp;#3784;&amp;#3719;&amp;#3713;&amp;#3784;&amp;#3762;&amp;#3751;.&lt;/b&gt; &amp;#3734;&amp;#3785;&amp;#3762;&amp;#3738;&amp;#3789;&amp;#3784;&amp;#3732;&amp;#3761;&amp;#3784;&amp;#3719;&amp;#3737;&amp;#3761;&amp;#3785;&amp;#3737;, &amp;#3735;&amp;#3784;&amp;#3762;&amp;#3737;&amp;#3720;&amp;#3760;&amp;#3733;&amp;#3771;&amp;#3713;&amp;#3746;&amp;#3769;&amp;#3784;&amp;#3779;&amp;#3737;&amp;#3716;&amp;#3751;&amp;#3762;&amp;#3745;&amp;#3754;&amp;#3784;&amp;#3773;&amp;#3719; &amp;#3735;&amp;#3765;&amp;#3784;&amp;#3714;&amp;#3789;&amp;#3785;&amp;#3745;&amp;#3769;&amp;#3737;&amp;#3714;&amp;#3757;&amp;#3719;&amp;#3735;&amp;#3784;&amp;#3762;&amp;#3737;&amp;#3720;&amp;#3760;&amp;#3734;&amp;#3767;&amp;#3713;&amp;#3716;&amp;#3768;&amp;#3713;&amp;#3716;&amp;#3762;&amp;#3745;&amp;#3778;&amp;#3732;&amp;#3725;&amp;#3722;&amp;#3757;&amp;#3738;&amp;#3777;&amp;#3751;&amp;#3735;&amp;#3765;&amp;#3784;&amp;#3776;&amp;#3739;&amp;#3761;&amp;#3737;&amp;#3757;&amp;#3761;&amp;#3737;&amp;#3733;&amp;#3760;&amp;#3749;&amp;#3762;&amp;#3725;.</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>ձախ փակագիծ</item>
+        <item>աջ փակագիծ</item>
+        <item>ֆակտորիալ</item>
+        <item>բնական լոգարիթմ</item>
+        <item>լոգարիթմ</item>
+        <item>քառակուսի արմատ</item>
+        <item>բաժանում</item>
+        <item>բազմապատկում</item>
+        <item>գումարում</item>
+        <item>հանում</item>
+        <item> կետ </item>
+        <item>աստիճան</item>
+        <item>տանգենս</item>
+        <item>սինուս</item>
+        <item>կոսինուս</item>
+        <item>պի</item>
+        <item>հավասար</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Am încredere în această aplicaţie.</string>
+  <string name="configure">Configuraţi</string>
+  <string name="data_received">Primite:</string>
+  <string name="data_transmitted">Trimise:</string>
+  <string name="data_value_format">%1$s (de) octeţi/%2$s (de) pachete</string>
+  <string name="disconnect">Deconectaţi</string>
+  <string name="duration">Durată:</string>
+  <string name="legacy_title">VPN este conectat</string>
+  <string name="prompt">%s încearcă să creeze o conexiune VPN.</string>
+  <string name="session">Sesiune:</string>
+  <string name="warning">Dacă veţi continua, veţi da acestei aplicaţii permisiunea de a intercepta întregul trafic de reţea. &lt;b&gt;NU accepta&amp;#355;i dec&amp;#226;t dac&amp;#259; ave&amp;#355;i &amp;#238;ncredere &amp;#238;n aceast&amp;#259; aplica&amp;#355;ie.&lt;/b&gt; &amp;#206;n caz contrar, exist&amp;#259; riscul ca datele dvs. s&amp;#259; fie compromise de un software r&amp;#259;u inten&amp;#355;ionat.</string>
+</resources>

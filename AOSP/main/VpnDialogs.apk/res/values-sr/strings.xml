@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Имам поверења у ову апликацију.</string>
+  <string name="configure">Конфигуриши</string>
+  <string name="data_received">Примљенo:</string>
+  <string name="data_transmitted">Послато:</string>
+  <string name="data_value_format">%1$s бајт(ов)а / %2$s пакета</string>
+  <string name="disconnect">Прекини везу</string>
+  <string name="duration">Трајање:</string>
+  <string name="legacy_title">VPN је повезан</string>
+  <string name="prompt">%s покушава да направи VPN везу.</string>
+  <string name="session">Сесија:</string>
+  <string name="warning">Ако наставите, дајете апликацији дозволу да пресреће сав мрежни саобраћај. &lt;b&gt;&amp;#1053;&amp;#1045;&amp;#1052;&amp;#1054;&amp;#1032;&amp;#1058;&amp;#1045; &amp;#1076;&amp;#1072; &amp;#1087;&amp;#1088;&amp;#1080;&amp;#1093;&amp;#1074;&amp;#1072;&amp;#1090;&amp;#1072;&amp;#1090;&amp;#1077; &amp;#1086;&amp;#1074;&amp;#1086; &amp;#1086;&amp;#1089;&amp;#1080;&amp;#1084; &amp;#1091;&amp;#1082;&amp;#1086;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1086; &amp;#1085;&amp;#1077;&amp;#1084;&amp;#1072;&amp;#1090;&amp;#1077; &amp;#1087;&amp;#1086;&amp;#1074;&amp;#1077;&amp;#1088;&amp;#1077;&amp;#1114;&amp;#1072; &amp;#1091; &amp;#1072;&amp;#1087;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1112;&amp;#1091;.&lt;/b&gt; &amp;#1059; &amp;#1089;&amp;#1091;&amp;#1087;&amp;#1088;&amp;#1086;&amp;#1090;&amp;#1085;&amp;#1086;&amp;#1084;, &amp;#1088;&amp;#1080;&amp;#1079;&amp;#1080;&amp;#1082;&amp;#1091;&amp;#1112;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1074;&amp;#1072;&amp;#1084; &amp;#1087;&amp;#1086;&amp;#1076;&amp;#1072;&amp;#1090;&amp;#1082;&amp;#1077; &amp;#1091;&amp;#1075;&amp;#1088;&amp;#1086;&amp;#1079;&amp;#1080; &amp;#1079;&amp;#1083;&amp;#1086;&amp;#1085;&amp;#1072;&amp;#1084;&amp;#1077;&amp;#1088;&amp;#1085;&amp;#1080; &amp;#1089;&amp;#1086;&amp;#1092;&amp;#1090;&amp;#1074;&amp;#1077;&amp;#1088;.</string>
+</resources>

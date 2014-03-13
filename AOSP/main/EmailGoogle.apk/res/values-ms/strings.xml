@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="copy_email">Salin alamat e-mel</string>
+  <string name="copy_number">Salin nombor telefon</string>
+  <string name="done">Kembali</string>
+  <string name="failed">Tidak dapat memuatkan imej</string>
+  <string name="more_string">+%1$s</string>
+  <string name="photo_view_count" formatted="false">%d daripada %d</string>
+  <string name="retry">Cuba semula</string>
+</resources>

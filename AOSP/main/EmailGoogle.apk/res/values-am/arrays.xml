@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>ምላሽ ስጥ</item>
+        <item>ለሁሉም ምላሽ ስጥ</item>
+        <item>አስተላልፍ</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>ተሳክቷል</item>
+        <item>ግንኙነት የለም።</item>
+        <item>በመለያ መግባት አልተቻለም።</item>
+        <item>የደህንነት ስህተት።</item>
+        <item>ማመሳሰል አልተቻለም።</item>
+        <item>ውስጣዊ ስህተት</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>ስርዓት</item>
+        <item>በብዛት ጥቅም ላይ የዋሉ</item>
+        <item>ሁሉም አቃፊዎች</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>ይበልጥ አዲስ</item>
+        <item>የቆዩ</item>
+        <item>የውይይት ዝርዝር</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>ከሰረዙ በኋላ ይበልጥ አዲስ ውይይትን ያሳዩ</item>
+        <item>ከሰረዙ በኋላ ይበልጥ የቆዩ ውይይትን ያሳዩ</item>
+        <item>ከሰረዙ በኋላ የውይይት ዝርዝርን ያሳዩ</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>በማህደር አስቀምጥ ብቻ አሳይ</item>
+        <item>ሰርዝ ብቻ አሳይ</item>
+        <item>በማህደር አስቀምጥ እና ሰርዝ አሳይ</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>በማህደር አስቀምጥ ብቻ አሳይ</item>
+        <item>ሰርዝ ብቻ አሳይ</item>
+        <item>በማህደር አስቀምጥ እና ሰርዝ አሳይ</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>ደቃቃ ጽሑፍ</item>
+        <item>ትንሽ ጽሑፍ</item>
+        <item>መደበኛ-ምጣኔ ገጽታ ያለው ጽሑፍ</item>
+        <item>ትልቅ ፅሁፍ</item>
+        <item>ግዙፍ ጽሑፍ</item>
+    </string-array>
+</resources>

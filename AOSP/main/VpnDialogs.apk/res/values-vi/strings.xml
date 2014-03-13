@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Tôi tin cậy ứng dụng này.</string>
+  <string name="configure">Định cấu hình</string>
+  <string name="data_received">Đã nhận:</string>
+  <string name="data_transmitted">Đã gửi:</string>
+  <string name="data_value_format">%1$s byte / %2$s gói</string>
+  <string name="disconnect">Ngắt kết nối</string>
+  <string name="duration">Thời lượng:</string>
+  <string name="legacy_title">VPN được kết nối</string>
+  <string name="prompt">%s cố gắng tạo kết nối VPN.</string>
+  <string name="session">Phiên</string>
+  <string name="warning">Khi tiếp tục, bạn sẽ cho phép ứng dụng cấp quyền ngăn chặn tất cả lưu lượng mạng. &lt;b&gt;KH&amp;#212;NG ch&amp;#7845;p nh&amp;#7853;n tr&amp;#7915; khi b&amp;#7841;n tin c&amp;#7853;y &amp;#7913;ng d&amp;#7909;ng.&lt;/b&gt; N&amp;#7871;u kh&amp;#244;ng, b&amp;#7841;n c&amp;#243; nguy c&amp;#417; b&amp;#7883; ph&amp;#7847;n m&amp;#7873;m &amp;#273;&amp;#7897;c h&amp;#7841;i x&amp;#226;m ph&amp;#7841;m d&amp;#7919; li&amp;#7879;u.</string>
+</resources>

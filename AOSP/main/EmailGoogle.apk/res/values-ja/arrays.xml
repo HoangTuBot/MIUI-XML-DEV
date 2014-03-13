@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>返信</item>
+        <item>全員に返信</item>
+        <item>転送</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>完了</item>
+        <item>接続できません。</item>
+        <item>ログインできませんでした。</item>
+        <item>セキュリティエラー</item>
+        <item>同期できませんでした。</item>
+        <item>内部エラー</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>システム</item>
+        <item>よく使うフォルダ</item>
+        <item>すべてのフォルダ</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>前</item>
+        <item>次</item>
+        <item>スレッドリスト</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>削除後に新しいスレッドを表示する</item>
+        <item>削除後に古いスレッドを表示する</item>
+        <item>削除後にスレッドリストを表示する</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>アーカイブのみを表示</item>
+        <item>削除のみを表示</item>
+        <item>アーカイブと削除を表示</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>アーカイブのみを表示</item>
+        <item>削除のみを表示</item>
+        <item>アーカイブと削除を表示</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>文字サイズ極小</item>
+        <item>文字サイズ小</item>
+        <item>文字サイズ中</item>
+        <item>大きい文字サイズ</item>
+        <item>文字サイズ極大</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Son kullanılan öğeleri (ve sizin için eklenmiş bazı ekstra öğeleri) görüntülemek için dokunun!
+ 
+Boyutunu değiştirmek için basılı tutun ve sonra bırakıp mavi noktaları sürükleyin."</string>
+  <string name="custom_workspace_cling_description_2">Daha fazla bilgi edinmek için dokunun.</string>
+  <string name="custom_workspace_cling_title_1">Bu sizin Google Play kitaplığınızdır…</string>
+  <string name="custom_workspace_cling_title_2">"Bunlar Google'ın önerileri…"</string>
+</resources>

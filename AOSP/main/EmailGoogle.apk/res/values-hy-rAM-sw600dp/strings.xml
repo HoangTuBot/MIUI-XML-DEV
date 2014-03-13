@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add_bcc_label">+ Ծածկպտճ</string>
+  <string name="add_cc_label">+ Պտճ/Ծածկպտճ</string>
+  <string name="menu_manage_folders">Կառավարել թղթապանակները</string>
+  <string name="preferences_default_reply_all_summary">Օգտագործել որպես լռելյայն` հաղորդագրության ծանուցումների պատասխանների համար</string>
+</resources>

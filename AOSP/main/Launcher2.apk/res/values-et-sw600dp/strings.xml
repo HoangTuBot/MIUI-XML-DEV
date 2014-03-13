@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Puudutage, et vaadata hiljutisi üksusi.
+ 
+Suuruse muutmiseks vajutage ja hoidke all, laseke lahti ja lohistage siniseid punkte."</string>
+  <string name="custom_workspace_cling_description_2">Lisateabe saamiseks puudutage.</string>
+  <string name="custom_workspace_cling_title_1">See on teie Google Play kogu ...</string>
+  <string name="custom_workspace_cling_title_2">"Need on Google'i soovitused ..."</string>
+</resources>

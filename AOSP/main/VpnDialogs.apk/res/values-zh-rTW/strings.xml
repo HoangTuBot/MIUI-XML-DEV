@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">我信任這個應用程式。</string>
+  <string name="configure">設定</string>
+  <string name="data_received">已接收：</string>
+  <string name="data_transmitted">已傳送：</string>
+  <string name="data_value_format">%1$s 位元組 / %2$s 個封包</string>
+  <string name="disconnect">中斷連線</string>
+  <string name="duration">持續時間：</string>
+  <string name="legacy_title">VPN 已連線</string>
+  <string name="prompt">%s 嘗試建立 VPN 連線。</string>
+  <string name="session">工作階段：</string>
+  <string name="warning">如果繼續進行，即表示您允許該應用程式攔截所有網路流量。&lt;b&gt;&amp;#38500;&amp;#38750;&amp;#24744;&amp;#20449;&amp;#20219;&amp;#35442;&amp;#25033;&amp;#29992;&amp;#31243;&amp;#24335;&amp;#65292;&amp;#21542;&amp;#21063;&amp;#12300;&amp;#35531;&amp;#21247;&amp;#12301;&amp;#25509;&amp;#21463;&amp;#65292;&lt;/b&gt;&amp;#20197;&amp;#20813;&amp;#35731;&amp;#24744;&amp;#30340;&amp;#36039;&amp;#26009;&amp;#36973;&amp;#21040;&amp;#24801;&amp;#24847;&amp;#36575;&amp;#39636;&amp;#20837;&amp;#20405;&amp;#12290;</string>
+</resources>

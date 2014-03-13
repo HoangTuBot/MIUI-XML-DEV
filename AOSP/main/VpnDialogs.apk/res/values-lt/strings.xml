@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Pasitikiu šia programa.</string>
+  <string name="configure">Konfigūruoti</string>
+  <string name="data_received">Gauta</string>
+  <string name="data_transmitted">Išsiųsta</string>
+  <string name="data_value_format">Baitų: %1$s baitų / paketų: %2$s</string>
+  <string name="disconnect">Atsijungti</string>
+  <string name="duration">Trukmė:</string>
+  <string name="legacy_title">VPN prijungtas</string>
+  <string name="prompt">%s bando sukurti VPN ryšį.</string>
+  <string name="session">Sesija</string>
+  <string name="warning">Tęsdami suteikiate programai leidimą perimti visą tinklo srautą. &lt;b&gt;SUTIKITE, TIK JEI pasitikite programa.&lt;/b&gt; Prie&amp;#353;ingu atveju kyla pavojus, kad j&amp;#363;s&amp;#371; duomenims pakenks kenk&amp;#279;ji&amp;#353;ka programin&amp;#279; &amp;#303;ranga.</string>
+</resources>

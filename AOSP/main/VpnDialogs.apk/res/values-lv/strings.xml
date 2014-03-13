@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Es uzticos šai lietojumprogrammai.</string>
+  <string name="configure">Konfigurēt</string>
+  <string name="data_received">Saņemts:</string>
+  <string name="data_transmitted">Nosūtīts:</string>
+  <string name="data_value_format">%1$s baiti/%2$s paketes</string>
+  <string name="disconnect">Pārtraukt savienojumu</string>
+  <string name="duration">Ilgums:</string>
+  <string name="legacy_title">Ir izveidots savienojums ar VPN</string>
+  <string name="prompt">%s mēģina izveidot VPN savienojumu.</string>
+  <string name="session">Sesija:</string>
+  <string name="warning">Izvēloties turpināt, jūs ļaujat lietojumprogrammai pārtvert visu tīkla datplūsmu. &lt;b&gt;NEPIEKR&amp;#298;TIET, ja neuzticaties &amp;#353;ai lietojumprogrammai.&lt;/b&gt; Pret&amp;#275;j&amp;#257; gad&amp;#299;jum&amp;#257; past&amp;#257;v risks, ka j&amp;#363;su datus var apdraud&amp;#275;t &amp;#316;aunpr&amp;#257;t&amp;#299;ga programmat&amp;#363;ra.</string>
+</resources>

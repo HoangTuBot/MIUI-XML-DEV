@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>მარცხენა ფრჩხილი</item>
+        <item>მარჯვენა ფრჩხილი</item>
+        <item>ფაქტორიალი</item>
+        <item>ნატურალური ლოგარითმი</item>
+        <item>ლოგარითმი</item>
+        <item>კვადრატული ფესვი</item>
+        <item>გაყოფილი</item>
+        <item>გამრავლებული</item>
+        <item>პლუს</item>
+        <item>მინუს</item>
+        <item> ათობითი გამყოფი </item>
+        <item>ხარისხში აყვანილი</item>
+        <item>ტანგენსი</item>
+        <item>სინუსი</item>
+        <item>კოსინუსი</item>
+        <item>pi</item>
+        <item>ტოლია</item>
+    </string-array>
+</resources>

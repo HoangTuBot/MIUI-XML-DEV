@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">%1$d ውይይቶች አንቀሳቅስ</item>
+        <item quantity="one">ውይይት አንቀሳቅስ</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">ረቂቆች</item>
+        <item quantity="one">ረቂቅ</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">እነዚህ %1$d ውይይቶች ይሰረዙ?</item>
+        <item quantity="one">ይሄ ውይይት ይሰረዝ?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">እነዚህ %1$d ውይይቶች ይመዝገቡ?</item>
+        <item quantity="one">ይሄ ውይይት ይመዝግብ?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">ረቂቆች ከእነዚህ %1$d ውይይቶች ይወገዱ?</item>
+        <item quantity="one">ረቂቆች ከዚህ ውይይት ይወገዱ?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">የ%1$d ውይይቶች ኮከብ በማንሳት ላይ።</item>
+        <item quantity="one">የ%1$d ውይይት ኮከብ በማንሳት ላይ።</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ድምፀ-ከል ተደርጎበታል።</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ድምፀ-ከል ተደርጎበታል።</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> እንደ አይፈለጌ መልዕክት ሪፖርት ተደርጓል።</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> እንደ አይፈለጌ መልዕክት ሪፖርት ተደርጓል።</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> አይፈለጌ አይደሉም ተብለው ሪፖርት ተደርገዋል።</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> አይፈለጌ አይደሉም ተብለው ሪፖርት ተደርገዋል።</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b&amp;amp;gt%1$d&amp;lt;/b> አስፈላጊ አይደሉም የሚል ምልክት ተደርጎባቸዋል።</item>
+        <item quantity="one">&amp;lt;b&amp;amp;gt%1$d&amp;lt;/b> አስፈላጊ አይደሉም የሚል ምልክት ተደርጎባቸዋል።</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ማስገር ተብለው ሪፖርት ተደርገዋል።</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ማስገር ተብለው ሪፖርት ተደርገዋል።</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d:&amp;lt;/b&amp;amp;gየተመዘገበ</item>
+        <item quantity="one">&amp;lt;b>%1$d:&amp;lt;/b&amp;amp;gየተመዘገበ</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d:&amp;lt;/b&amp;amp;g የተሰረዘ</item>
+        <item quantity="one">&amp;lt;b>%1$d:&amp;lt;/b&amp;amp;g የተሰረዘ</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">የተቀየሩ አቃፊዎች።</item>
+        <item quantity="one">የተቀየረ አቃፊ። የተለወጠ አቃፊ።</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d አዲስ መልዕክቶች። አሳይ።</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d የቆዩ መልዕክቶች</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ያልተነበቡ</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d መልዕክቶች እስከመጨረሻው ይሰረዛሉ።</item>
+        <item quantity="one">%1$d መልዕክት እስከመጨረሻው ይሰረዛል።</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">መልዕክቶች አንቀሳቅስ</item>
+        <item quantity="one">መልዕክት አንቀሳቅስ</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+        <item quantity="one">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dKB</item>
+        <item quantity="one">%dKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dMB</item>
+        <item quantity="one">%dMB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="one">%dGB</item>
+    </plurals>
+</resources>

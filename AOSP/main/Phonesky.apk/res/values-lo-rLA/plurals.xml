@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d ແອັບພລິເຄຊັນໄດ້ຮັບການອັບເດດແລ້ວ</item>
+        <item quantity="one">%1$d ແອັບພລິເຄຊັນໄດ້ຮັບການອັບເດດແລ້ວ</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">ມີ %1$d ອັບເດດສຳລັບທ່ານ</item>
+        <item quantity="one">ມີ %1$d ອັບເດດສຳລັບທ່ານ</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d ອັບເດດຕ້ອງການການອະນຸມັດ</item>
+        <item quantity="one">%1$d ອັບເດດຕ້ອງການການອະນຸມັດ</item>
+    </plurals>
+</resources>

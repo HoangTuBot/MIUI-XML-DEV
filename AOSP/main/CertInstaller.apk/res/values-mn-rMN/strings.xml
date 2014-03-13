@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Сертификат суулгагч</string>
+  <string name="cert_is_added">%s суулгагдав.</string>
+  <string name="cert_missing_error">Сертификат файлыг уншиж чадаагүй тул суулгаж чадсангүй.</string>
+  <string name="cert_not_saved">Сертификат суусангүй.</string>
+  <string name="cert_read_error">Сертификат файлыг уншиж чадаагүй тул суулгаж чадсангүй.</string>
+  <string name="cert_too_large_error">Сертификатын хэмжээ нь хэт том тул суулгаж чадсангүй.</string>
+  <string name="credential_info">Багц дараахыг агуулж байна:</string>
+  <string name="credential_name">Сертификатын нэр:</string>
+  <string name="credential_password">Сертикатыг гаргах нууц үгийг оруулна уу.</string>
+  <string name="credential_usage_label">Нууцлал ашиглах:</string>
+  <string name="extracting_pkcs12">Гаргаж байна…</string>
+  <string name="invalid_cert">Сертификат буруу.</string>
+  <string name="n_cacrts">%d CA сертификат</string>
+  <string name="name_char_error">Зөвхөн үсэг болон тоо агуулсан нэрийг бичнэ үү.</string>
+  <string name="name_credential_dialog_title">Сертификат нэр</string>
+  <string name="name_empty_error">Нэрийг бичнэ үү.</string>
+  <string name="no_cert_file_found">USB сангаас сертификат файл олдсонгүй.</string>
+  <string name="no_cert_to_saved">Суулгах сертификат байхгүй.</string>
+  <string name="one_cacrt">нэг CA сертификат</string>
+  <string name="one_usercrt">Нэг хэрэглэгчийн сертификат</string>
+  <string name="one_userkey">Нэг хэрэглэгчийн түлхүүр</string>
+  <string name="only_primary_user_allowed">Зөвхөн энэ төхөөрөмжийн эзэмшигч л сертификатыг суулгах боломжтой.</string>
+  <string name="p12_description">PKCS12 түлхүүрийн сангийн сертификатууд.</string>
+  <string name="password_empty_error">Нууц үгийг бичнэ үү.</string>
+  <string name="password_error">Нууц үгийг зөвөөр бичнэ үү.</string>
+  <string name="pick_file_title">Сертификат сонгох</string>
+  <string name="pkcs12_file_password_dialog_title">%s-с гаргах</string>
+  <string name="pkcs12_password_dialog_title">Сертификат гаргах</string>
+  <string name="sdcard_not_present">USB санг байхгүй.</string>
+  <string name="storage_error">Сертификатыг хадгалж чадсангүй. Дахин оролдох бол Тиймд хүрнэ үү.</string>
+  <string name="unable_to_save_cert">Сертификатыг хадгалж чадсангүй. Нууцлалын санг идэвхтэй бус эсвэл зөв тохируулагдаагүй.</string>
+</resources>

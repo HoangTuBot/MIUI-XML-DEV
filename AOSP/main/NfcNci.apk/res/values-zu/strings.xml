@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_nfc_enabled">I-NFC ivunyelwe.</string>
+  <string name="app_name">Isevisi ye-Nfc</string>
+  <string name="beam_canceled">Ukuvumelanisa kukhanseliwe</string>
+  <string name="beam_complete">Ukuvumelanisa kuqedile</string>
+  <string name="beam_failed">Ukuvumelanisa akuqedile</string>
+  <string name="beam_handover_not_supported">Idivayisi yomamukeli ayisekeli ukuhanjiswa kwamafayela amakhulu ngokuvumelanisa.</string>
+  <string name="beam_outgoing">Ukuvumelanisa...</string>
+  <string name="beam_progress">Ukuvumelanisa okungenayo...</string>
+  <string name="beam_touch_to_view">Thinta ukuze ubuke</string>
+  <string name="beam_try_again">Phinda uhlanganise ndawonye amadivayisi</string>
+  <string name="cancel">Khansela</string>
+  <string name="confirm_pairing">Ingabe unesiqinisekiso sokuthi ufuna ukuhambisa ngakubili idivayisi %1$s ye-Bluetooth?</string>
+  <string name="connect_headset_failed">Ayikwazanga ukuxhuma</string>
+  <string name="connected_headset">Ixhunyiwe</string>
+  <string name="connecting_headset">Iyaxhuma</string>
+  <string name="disconnected_headset">Inqamukile</string>
+  <string name="disconnecting_headset">Iyanqamula</string>
+  <string name="failed_to_enable_bt">Ayikwazanga ukunika amandla i-Bluetooth</string>
+  <string name="inbound_me_profile_text">Thinta ukuze wengeze lomuntu njengoxhumene naye</string>
+  <string name="inbound_me_profile_title">Othintana naye utholakale nge-NFC</string>
+  <string name="nfcUserLabel">i-NFC</string>
+  <string name="outbound_me_profile_text">Thinta ukuze unike lomuntu imininingwane yakho yokuxhumana</string>
+  <string name="outbound_me_profile_title">Ukuxhumana kwe-NFC kuphelile</string>
+  <string name="pair_no">Cha</string>
+  <string name="pair_yes">Yebo</string>
+  <string name="pairing_headset">Iyabhangqa</string>
+  <string name="pairing_headset_failed">Ayikwazanga ukumatanisa</string>
+  <string name="touch">Cindezela kwibhimu</string>
+</resources>

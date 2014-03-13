@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d ծրագիր թարմացվել է</item>
+        <item quantity="one">Թարմացվել է %1$d ծրագիր</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">Հասանելի է %1$d թարմացում</item>
+        <item quantity="one">Հասանելի է %1$d թարմացում</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">Անհրաժեշտ է հաստատել %1$d թարմացում</item>
+        <item quantity="one">Անհրաժեշտ է հաստատել %1$d թարմացում</item>
+    </plurals>
+</resources>

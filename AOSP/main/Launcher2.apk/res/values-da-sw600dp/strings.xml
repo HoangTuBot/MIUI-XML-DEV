@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Tryk for at se de elementer, du har brugt for nylig og nogle ekstra ting til dig.
+
+Skift størrelsen ved at trykke på de blå prikker, holde dem nede og trække i dem."</string>
+  <string name="custom_workspace_cling_description_2">Tryk for at få flere oplysninger.</string>
+  <string name="custom_workspace_cling_title_1">Dette er dit Google Play-bibliotek...</string>
+  <string name="custom_workspace_cling_title_2">Disse er Googles forslag...</string>
+</resources>

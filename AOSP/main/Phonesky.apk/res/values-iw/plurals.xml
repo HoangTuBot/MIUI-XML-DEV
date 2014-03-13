@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d אפליקציות עודכנו</item>
+        <item quantity="one">אפליקציה %1$d עודכנה</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d עדכונים זמינים</item>
+        <item quantity="one">עדכון %1$d זמין</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d עדכונים זקוקים לאישור</item>
+        <item quantity="one">עדכון %1$d זקוק לאישור</item>
+    </plurals>
+    <plurals name="search_results_estimated_in_bucket">
+        <item quantity="other">%1$d תוצאות</item>
+        <item quantity="one">%1$d תוצאות</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d עדכונים חדשים</item>
+        <item quantity="one">עדכון חדש %1$d</item>
+    </plurals>
+    <plurals name="content_description_rated">
+        <item quantity="other">הדירוג שלך: %1$s כוכבים</item>
+        <item quantity="one">הדירוג שלך: כוכב %1$s</item>
+    </plurals>
+    <plurals name="plus_one_multiple_global">
+        <item quantity="other">%1$s אנשים עשו לזה 1+.</item>
+        <item quantity="one">%1$s אנשים עשו לזה +1.</item>
+    </plurals>
+    <plurals name="plus_one_multiple_friends">
+        <item quantity="other">%1$s ועוד %2$s אנשים עשו לזה ‎+1.</item>
+        <item quantity="one">%1$s ועוד %2$s אנשים עשו לזה ‎+1.</item>
+    </plurals>
+    <plurals name="star_rating_review_bold_formatting">
+        <item quantity="other">&amp;lt;b>%1$s&amp;lt;/b> דירג ב-%2$d כוכבים</item>
+        <item quantity="one">&amp;lt;b>%1$s&amp;lt;/b> דירג בכוכב %2$d</item>
+    </plurals>
+    <plurals name="plus_one_circles_listing_dialog_more">
+        <item quantity="other">+%1$s נוספים</item>
+        <item quantity="one">+%1$d נוסף</item>
+    </plurals>
+    <plurals name="my_apps_selected">
+        <item quantity="other">%1$d נבחרו</item>
+    </plurals>
+    <plurals name="update_all_prompt_title">
+        <item quantity="other">יש עדכונים זמינים</item>
+        <item quantity="one">יש עדכון זמין</item>
+    </plurals>
+    <plurals name="update_all_prompt">
+        <item quantity="other">יש לך %1$d עדכונים זמינים. האם ברצונך להתקין אותם?</item>
+        <item quantity="one">יש לך עדכון %1$d זמין. האם ברצונך להתקין אותו?</item>
+    </plurals>
+</resources>

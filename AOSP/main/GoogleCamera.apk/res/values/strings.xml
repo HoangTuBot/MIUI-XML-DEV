@@ -154,7 +154,9 @@
   <string name="pref_camera_focusmode_label_infinity">INFINITY</string>
   <string name="pref_camera_focusmode_label_macro">MACRO</string>
   <string name="pref_camera_focusmode_title">Focus mode</string>
+  <string name="pref_camera_hdr_default">@string/setting_off_value</string>
   <string name="pref_camera_hdr_label">HDR</string>
+  <string name="pref_camera_hdr_plus_default">@string/setting_off_value</string>
   <string name="pref_camera_id_default">0</string>
   <string name="pref_camera_id_entry_back">Back</string>
   <string name="pref_camera_id_entry_front">Front</string>
@@ -197,6 +199,7 @@
   <string name="pref_camera_scenemode_title">Scene mode</string>
   <string name="pref_camera_settings_category">Camera settings</string>
   <string name="pref_camera_timer_default">0</string>
+  <string name="pref_camera_timer_sound_default">@string/setting_on_value</string>
   <string name="pref_camera_timer_sound_title">Beep during countdown</string>
   <string name="pref_camera_timer_title">Countdown timer</string>
   <string name="pref_camera_video_flashmode_default">off</string>

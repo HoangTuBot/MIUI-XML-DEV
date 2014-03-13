@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"แตะเพื่อดูรายการที่เพิ่งใช้และรายการพิเศษที่เราเพิ่มให้!
+ 
+ในการปรับขนาด กดค้างไว้ จากนั้นปล่อยและลากจุดสีฟ้า"</string>
+  <string name="custom_workspace_cling_description_2">แตะเพื่อเรียนรู้เพิ่มเติม</string>
+  <string name="custom_workspace_cling_title_1">นี่คือไลบรารี Google Play ของคุณ…</string>
+  <string name="custom_workspace_cling_title_2">ทั้งหมดนี้เป็นคำแนะนำจาก Google…</string>
+</resources>

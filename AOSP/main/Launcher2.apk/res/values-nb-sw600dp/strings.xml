@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Trykk for å se varene du har brukt nylig, i tillegg til ekstramateriell fra oss.
+
+For å endre størrelsen må du trykke og holde. Deretter må du slippe for å flytte på de blå prikkene."</string>
+  <string name="custom_workspace_cling_description_2">Trykk for å finne ut mer.</string>
+  <string name="custom_workspace_cling_title_1">Dette er Google Play-biblioteket ditt</string>
+  <string name="custom_workspace_cling_title_2">Disse anbefales av Google</string>
+</resources>

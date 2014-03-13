@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"المس لعرض العناصر المستخدمة مؤخرًا، وكذلك بعض العناصر الأخرى التي أضفناها لك!
+ 
+لتغيير الحجم، اضغط مع الاستمرار، ثم ارفع إصبعك واسحب النقاط الزرقاء."</string>
+  <string name="custom_workspace_cling_description_2">المس للتعرف على مزيد من المعلومات.</string>
+  <string name="custom_workspace_cling_title_1">هذه مكتبتك على Google Play...</string>
+  <string name="custom_workspace_cling_title_2">هذه هي اقتراحات Google...</string>
+</resources>

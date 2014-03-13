@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>зүүн хаалт</item>
+        <item>баруун хаалт</item>
+        <item>факториал</item>
+        <item>натурал логарифм</item>
+        <item>логарифм</item>
+        <item>язгуур</item>
+        <item>хуваагч</item>
+        <item>үржүүлэгч</item>
+        <item>нэмэх</item>
+        <item>хасах</item>
+        <item> цэг </item>
+        <item>зэрэг</item>
+        <item>тангенс</item>
+        <item>синус</item>
+        <item>косинус</item>
+        <item>пи</item>
+        <item>тэнцүү</item>
+    </string-array>
+</resources>

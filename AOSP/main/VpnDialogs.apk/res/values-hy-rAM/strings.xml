@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Ես վստահում եմ այս ծրագրին:</string>
+  <string name="configure">Կարգավորել</string>
+  <string name="data_received">Ստացվել է՝</string>
+  <string name="data_transmitted">Ուղարկվել է՝</string>
+  <string name="data_value_format">%1$s բայթ / %2$s փաթեթ</string>
+  <string name="disconnect">Անջատել</string>
+  <string name="duration">Տևողությունը՝</string>
+  <string name="legacy_title">VPN-ը կապակցված է</string>
+  <string name="prompt">%s-ը փորձում է ստեղծել VPN կապ:</string>
+  <string name="session">Աշխատաշրջան`</string>
+  <string name="warning">Շարունակելով` դուք հավելվածին թույլատրում եք կանգնեցնել ամբողջ ցանցային շարժը: &lt;b&gt;&amp;#1348;&amp;#1387; &amp;#1384;&amp;#1398;&amp;#1380;&amp;#1400;&amp;#1410;&amp;#1398;&amp;#1381;&amp;#1412;, &amp;#1381;&amp;#1385;&amp;#1381; &amp;#1401;&amp;#1381;&amp;#1412; &amp;#1406;&amp;#1405;&amp;#1407;&amp;#1377;&amp;#1392;&amp;#1400;&amp;#1410;&amp;#1396; &amp;#1392;&amp;#1377;&amp;#1406;&amp;#1381;&amp;#1388;&amp;#1406;&amp;#1377;&amp;#1390;&amp;#1387;&amp;#1398;:&lt;/b&gt; &amp;#1329;&amp;#1397;&amp;#1388;&amp;#1377;&amp;#1402;&amp;#1381;&amp;#1405; &amp;#1404;&amp;#1387;&amp;#1405;&amp;#1391; &amp;#1391;&amp;#1377; &amp;#1393;&amp;#1381;&amp;#1408; &amp;#1407;&amp;#1406;&amp;#1397;&amp;#1377;&amp;#1388;&amp;#1398;&amp;#1381;&amp;#1408;&amp;#1384; &amp;#1406;&amp;#1407;&amp;#1377;&amp;#1398;&amp;#1379;&amp;#1381;&amp;#1388;&amp;#1400;&amp;#1410; &amp;#1406;&amp;#1398;&amp;#1377;&amp;#1405;&amp;#1377;&amp;#1408;&amp;#1377;&amp;#1408; &amp;#1392;&amp;#1377;&amp;#1406;&amp;#1381;&amp;#1388;&amp;#1406;&amp;#1377;&amp;#1390;&amp;#1398;&amp;#1381;&amp;#1408;&amp;#1387; &amp;#1391;&amp;#1400;&amp;#1394;&amp;#1396;&amp;#1387;&amp;#1409;:</string>
+</resources>

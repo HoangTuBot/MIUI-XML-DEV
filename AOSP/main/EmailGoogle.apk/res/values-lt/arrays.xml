@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Atsakyti</item>
+        <item>Atsakyt visiems</item>
+        <item>Pirmyn</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Sėkmingai</item>
+        <item>Nėra ryšio.</item>
+        <item>Nepavyko prisijungti.</item>
+        <item>Saugos klaida.</item>
+        <item>Nepavyko sinchronizuoti.</item>
+        <item>Vidinė klaida</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistema</item>
+        <item>Dažnai naudoj.</item>
+        <item>Visi aplankai</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Naujesnis</item>
+        <item>Senesnis</item>
+        <item>Pokalbių sąrašas</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Ištrynus rodyti naujesnį pokalbį</item>
+        <item>Ištrynus rodyti senesnį pokalbį</item>
+        <item>Ištrynus rodyti pokalbių sąrašą</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Rodyti tik archyvą</item>
+        <item>Rodyti tik ištrintus</item>
+        <item>Rodyti archyvą ir ištrintus</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Rodyti tik archyvą</item>
+        <item>Rodyti tik ištrintus</item>
+        <item>Rodyti archyvą ir ištrintus</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Mažytis tekstas</item>
+        <item>Mažas tekstas</item>
+        <item>Įprasto dydžio tekstas</item>
+        <item>Didelis tekstas</item>
+        <item>Didžiulis tekstas</item>
+    </string-array>
+</resources>

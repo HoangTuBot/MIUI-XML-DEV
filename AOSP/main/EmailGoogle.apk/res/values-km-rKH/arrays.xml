@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>ឆ្លើយតប</item>
+        <item>ឆ្លើយតប​ទាំងអស់</item>
+        <item>បញ្ជូន​បន្ត</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>ជោគជ័យ</item>
+        <item>គ្មាន​ការ​​ភ្ជាប់​។</item>
+        <item>មិន​អាច​ចូល។</item>
+        <item>កំហុស​​​សុវត្ថិភាព។</item>
+        <item>មិន​អាច​​ធ្វើ​សម​កាល​កម្ម​។</item>
+        <item>កំហុស​ខាង​ក្នុង</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>ប្រព័ន្ធ</item>
+        <item>បាន​ប្រើ​ជា​ញឹកញាប់</item>
+        <item>ថត​ទាំងអស់</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>ថ្មី​ជាង</item>
+        <item>ចាស់​ជាង</item>
+        <item>បញ្ជី​សម្រាប់​​សន្ទនា</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>បង្ហាញ​ការ​សន្ទនា​ថ្មី​បន្ទាប់​ពី​អ្នក​លុប</item>
+        <item>បង្ហាញ​ការ​សន្ទនា​ចាស់​ជាង​បន្ទាប់​ពី​អ្នក​លុប</item>
+        <item>បង្ហាញ​បញ្ជី​​ការ​សន្ទនា​​បន្ទាប់​ពី​អ្នក​លុប</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>បង្ហាញ​​​តែ​ប័ណ្ណសារ</item>
+        <item>បង្ហាញ​​តែ​បាន​លុប</item>
+        <item>បង្ហាញ​ប័ណ្ណសារ &amp; លុប</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>បង្ហាញ​​​តែ​ប័ណ្ណសារ</item>
+        <item>បង្ហាញ​​តែ​លុប</item>
+        <item>បង្ហាញ​ប័ណ្ណសារ &amp; លុប</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>អត្ថបទ​តូច</item>
+        <item>អត្ថបទ​​តូច</item>
+        <item>អត្ថបទ​​ដែល​មាន​ទំហំ​ធម្មតា</item>
+        <item>អត្ថបទ​ធំ</item>
+        <item>អត្ថបទ​​ធំ​សម្បើម</item>
+    </string-array>
+</resources>

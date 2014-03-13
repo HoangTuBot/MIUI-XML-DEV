@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"輕觸即可查看您最近使用的項目，還有另一些我們為您新增的項目！
+ 
+如要調整大小，請按住項目，放開之後拖曳藍點即可。"</string>
+  <string name="custom_workspace_cling_description_2">輕觸即可瞭解詳情。</string>
+  <string name="custom_workspace_cling_title_1">這是您的 Google Play 媒體庫…</string>
+  <string name="custom_workspace_cling_title_2">這些是 Google 嚴選內容…</string>
+</resources>

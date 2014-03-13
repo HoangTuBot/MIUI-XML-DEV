@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Antworten</item>
+        <item>Allen antworten</item>
+        <item>Weiterleiten</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Erfolgreich</item>
+        <item>Keine Verbindung</item>
+        <item>Anmeldung nicht möglich</item>
+        <item>Sicherheitsfehler</item>
+        <item>Synchronisierung nicht möglich</item>
+        <item>Interner Fehler</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>System</item>
+        <item>Häufig genutzt</item>
+        <item>Alle Ordner</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Neuer</item>
+        <item>Älter</item>
+        <item>Konversationsliste</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Nach dem Löschen neuere Konversation anzeigen</item>
+        <item>Nach dem Löschen ältere Konversation anzeigen</item>
+        <item>Nach dem Löschen Konversationsliste anzeigen</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Nur \"Archivieren\" anzeigen</item>
+        <item>Nur \"Löschen\" anzeigen</item>
+        <item>\"Archivieren\" und \"Löschen\" anzeigen</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Nur \"Archivieren\" anzeigen</item>
+        <item>Nur \"Löschen\" anzeigen</item>
+        <item>\"Archivieren\" und \"Löschen\" anzeigen</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Sehr kleiner Text</item>
+        <item>Kleiner Text</item>
+        <item>Normal großer Text</item>
+        <item>Großer Text</item>
+        <item>Sehr großer Text</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"触摸可查看您最近看过或听过的内容，以及我们为您添加的额外内容！
+ 
+要调整此小部件的大小，请先按住，再放开，然后拖动蓝点即可。"</string>
+  <string name="custom_workspace_cling_description_2">触摸可了解详情。</string>
+  <string name="custom_workspace_cling_title_1">这是您的 Google Play 内容库…</string>
+  <string name="custom_workspace_cling_title_2">以下是 Google 的建议...</string>
+</resources>

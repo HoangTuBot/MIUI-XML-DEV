@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Koskettamalla näet äskettäin käyttämiäsi kohteita sekä muutamia lisäkohteita.
+ 
+Muuta kokoa painamalla pitkään, vapauttamalla painallus ja vetämällä sinisiä pisteitä."</string>
+  <string name="custom_workspace_cling_description_2">Lue lisätietoja koskettamalla.</string>
+  <string name="custom_workspace_cling_title_1">Tämä on Google Play -kirjastosi...</string>
+  <string name="custom_workspace_cling_title_2">Nämä ovat Googlen ehdotuksia...</string>
+</resources>

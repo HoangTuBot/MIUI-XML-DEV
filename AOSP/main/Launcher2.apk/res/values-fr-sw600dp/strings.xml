@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Appuyez pour afficher les éléments utilisés récemment et d'autres que nous avons ajoutés.
+
+Pour redimensionner, appuyez de manière prolongée, puis relâchez et faites glisser les points bleus."</string>
+  <string name="custom_workspace_cling_description_2">Appuyez ici pour en savoir plus.</string>
+  <string name="custom_workspace_cling_title_1">Voici votre bibliothèque Google Play…</string>
+  <string name="custom_workspace_cling_title_2">Voici nos suggestions…</string>
+</resources>

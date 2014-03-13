@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Svar</item>
+        <item>Svar alle</item>
+        <item>Videresend</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Fullført</item>
+        <item>Ingen tilkobling.</item>
+        <item>Påloggingen mislyktes.</item>
+        <item>Sikkerhetsfeil.</item>
+        <item>Synkroniseringen mislyktes.</item>
+        <item>Intern feil</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>System</item>
+        <item>Ofte brukt</item>
+        <item>Alle mapper</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Nyere</item>
+        <item>Eldre</item>
+        <item>Samtaleliste</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Vis nyere samtaler etter du har slettet</item>
+        <item>Vis eldre samtaler etter du har slettet</item>
+        <item>Vis samtaleliste etter du har slettet</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Vis bare «arkivér»</item>
+        <item>Vis bare «slett»</item>
+        <item>Vis «arkivér» og «slett»</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Vis bare «arkivér»</item>
+        <item>Vis bare «slett»</item>
+        <item>Vis «arkivér» og «slett»</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Bitteliten tekst</item>
+        <item>Liten tekst</item>
+        <item>Tekst med normal størrelse</item>
+        <item>Stor tekst</item>
+        <item>Kjempestor tekst</item>
+    </string-array>
+</resources>

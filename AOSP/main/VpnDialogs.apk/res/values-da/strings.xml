@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Jeg har tillid til denne applikation.</string>
+  <string name="configure">Konfigurer</string>
+  <string name="data_received">Modtaget:</string>
+  <string name="data_transmitted">Sendt:</string>
+  <string name="data_value_format">%1$s bytes / %2$s pakker</string>
+  <string name="disconnect">Fjern tilknytning</string>
+  <string name="duration">Varighed:</string>
+  <string name="legacy_title">VPN er tilsluttet</string>
+  <string name="prompt">%s forsøger at oprette en VPN-forbindelse.</string>
+  <string name="session">Session:</string>
+  <string name="warning">Hvis du fortsætter, giver du applikationen tilladelse til at opfange al netværkstrafik. &lt;b&gt;Du skal ikke acceptere, medmindre du har tillid til applikationen.&lt;/b&gt; Ellers risikerer du at f&amp;#229; dine data kompromitteret af ondsindet software.</string>
+</resources>

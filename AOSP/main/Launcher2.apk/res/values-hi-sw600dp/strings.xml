@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"आपके द्वारा हाल ही में उपयोग किए गए आइटम देखने के लिए स्पर्श करें — साथ ही हमने आपके लिए कुछ अतिरिक्त भी जोड़ा है!
+ 
+आकार बदलने के लिए, दबाकर रखें, फिर छोड़ दें और नीले बिंदुओं को खींचें."</string>
+  <string name="custom_workspace_cling_description_2">अधिक जानने के लिए स्‍पर्श करें.</string>
+  <string name="custom_workspace_cling_title_1">यह आपकी Google Play लाइब्रेरी है…</string>
+  <string name="custom_workspace_cling_title_2">ये Google के सुझाव हैं…</string>
+</resources>

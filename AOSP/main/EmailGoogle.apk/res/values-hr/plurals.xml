@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Premjesti sljedeći broj razgovora: %1$d</item>
+        <item quantity="one">Premjesti razgovor</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Skice</item>
+        <item quantity="one">Skica</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Izbrisati ove razgovore (ukupno %1$d)?</item>
+        <item quantity="one">Izbrisati ovaj razgovor?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Arhivirati ove razgovore (ukupno %1$d)?</item>
+        <item quantity="one">Arhivirati ovaj razgovor?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Odbaciti skice iz %1$d razgovora?</item>
+        <item quantity="one">Odbaciti skice iz tog razgovora?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Uklanjanje zvjezdica s %1$d razgovora.</item>
+        <item quantity="one">Uklanjanje zvjezdice s %1$d razgovora.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Zanemareno: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="one">Zanemareno: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Prijavljeno kao neželjeno: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="one">Prijavljeno kao neželjeno: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Prijavljeno da nije neželjeni sadržaj: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="one">Prijavljeno da nije neželjeni sadržaj: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Označeno kao nevažno: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="one">Označeno kao nevažno: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Prijavljeno kao krađa identiteta: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="one">Prijavljeno kao krađa identiteta: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Arhivirano: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="one">Arhivirano: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Izbrisano: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="one">Izbrisano: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Promijenjene mape.</item>
+        <item quantity="one">Promijenjena mapa.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Nove poruke: %1$d. Prikaži.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Broj starijih poruka: %1$d</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Nepročitano: %1$d</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Sljedeći broj poruka izbrisat će se zauvijek: %1$d.</item>
+        <item quantity="one">%1$d poruka izbrisat će se zauvijek.</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Premjesti poruke</item>
+        <item quantity="one">Premjesti poruku</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dKB</item>
+        <item quantity="one">%d kB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+</resources>

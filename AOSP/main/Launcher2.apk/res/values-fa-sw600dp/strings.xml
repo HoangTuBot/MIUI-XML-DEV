@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"لمس کنید تا چیزهایی را که اخیراً استفاده کرده‌اید، مشاهده کنید ــ ما هم چیزهایی برایتان اضافه کرده‌ایم!
+ 
+برای تغییر اندازه، لمس کرده و نگه دارید، سپس رها کنید و نقطه‌های آبی را بکشید."</string>
+  <string name="custom_workspace_cling_description_2">برای یادگیری بیشتر لمس کنید.</string>
+  <string name="custom_workspace_cling_title_1">این کتابخانهٔ Google Play شما است…</string>
+  <string name="custom_workspace_cling_title_2">این‌ها پیشنهادات Google است…</string>
+</resources>

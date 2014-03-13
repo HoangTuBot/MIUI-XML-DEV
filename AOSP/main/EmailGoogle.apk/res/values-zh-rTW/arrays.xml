@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>回覆</item>
+        <item>回覆所有人</item>
+        <item>轉寄</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>成功</item>
+        <item>沒有網路連線。</item>
+        <item>無法登入。</item>
+        <item>安全性錯誤。</item>
+        <item>無法同步處理。</item>
+        <item>發生內部錯誤</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>系統</item>
+        <item>經常使用</item>
+        <item>所有資料夾</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>較新</item>
+        <item>較舊</item>
+        <item>會話群組清單</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>在刪除動作完成後顯示較新的會話群組</item>
+        <item>在刪除動作完成後顯示較舊的會話群組</item>
+        <item>在刪除動作完成後顯示會話群組清單</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>僅顯示封存郵件的按鈕</item>
+        <item>僅顯示刪除郵件的按鈕</item>
+        <item>顯示封存和刪除郵件的按鈕</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>僅顯示封存郵件的按鈕</item>
+        <item>僅顯示刪除郵件的按鈕</item>
+        <item>顯示封存和刪除郵件的按鈕</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>最小字體</item>
+        <item>小字體</item>
+        <item>適中字體</item>
+        <item>大字體</item>
+        <item>最大字體</item>
+    </string-array>
+</resources>

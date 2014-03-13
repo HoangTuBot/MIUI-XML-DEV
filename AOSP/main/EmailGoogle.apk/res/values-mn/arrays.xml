@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Хариулах</item>
+        <item>Бүгдэд хариу илгээх</item>
+        <item>Дамжуулах</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Амжилттай</item>
+        <item>Холбогдоогүй.</item>
+        <item>Нэвтэрч чадсангүй.</item>
+        <item>Аюулгүй байдлын алдаа</item>
+        <item>Синк хийж чадсангүй.</item>
+        <item>Дотоод алдаа</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Систем</item>
+        <item>Байнга Ашиглагддаг</item>
+        <item>Бүх Фолдерууд</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Шинэ</item>
+        <item>Хуучин</item>
+        <item>Харилцааны жагсаалт</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Устгасны дараа харилцааг хэзээ ч харуулахгүй</item>
+        <item>Устгасны дараа хуучин харилцааг харуулах</item>
+        <item>Устгасны дараа харилцааны жагсаалтыг харуулах</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Зөвхөн архивлахыг харуулах</item>
+        <item>Зөвхөн устгахыг харуулах</item>
+        <item>Архивлах &amp; устгахыг харуулах</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Зөвхөн архивлахыг харуулах</item>
+        <item>Зөвхөн устгахыг харуулах</item>
+        <item>Архивлах &amp; устгахыг харуулах</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Жижиг текст</item>
+        <item>Бага текст</item>
+        <item>Энгийн хэмжээтэй текст</item>
+        <item>Өргөн текст</item>
+        <item>Маш том текст</item>
+    </string-array>
+    <string-array name="prefEntries_conversationListIconName">
+        <item>Зургийг харуулах</item>
+        <item>Юуг ч харуулахгүй</item>
+    </string-array>
+</resources>

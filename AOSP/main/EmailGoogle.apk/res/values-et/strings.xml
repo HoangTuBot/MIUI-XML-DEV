@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="copy_email">Kopeeri e-posti aadress</string>
+  <string name="copy_number">Kopeeri telefoninumber</string>
+  <string name="done">Sisestus</string>
+  <string name="failed">Kujutist ei õnnestunud laadida</string>
+  <string name="more_string">+%1$s</string>
+  <string name="photo_view_count" formatted="false">%d/%d</string>
+  <string name="retry">Proovi uuesti</string>
+</resources>

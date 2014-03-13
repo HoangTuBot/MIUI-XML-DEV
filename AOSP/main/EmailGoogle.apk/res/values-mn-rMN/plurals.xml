@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">%1$d харилцааг зөөх</item>
+        <item quantity="one">Харилцааг зөөх</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Ноорог</item>
+        <item quantity="one">Ноорог</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Эдгээр %1$d харилцааг устгах уу?</item>
+        <item quantity="one">Эдгээр харилцаануудыг устгах уу?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Эдгээр %1$d харилцааг архивлах уу?</item>
+        <item quantity="one">Энэ харилцааг идэвхжүүлэх үү?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Эдгээр %1$d харилцаануудаас нооргуудыг устгах уу?</item>
+        <item quantity="one">Энэ харилцаанаас нооргуудыг цуцлах уу?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d харилцааны одыг арилгаж байна.</item>
+        <item quantity="one">%1$d харилцааны одыг арилгаж байна.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> хаагдсан.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> хаагдсан.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> спам гэж мэдээлэгдсэн.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> спам гэж мэдээлэгдсэн.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> спам биш гэж тэмдэглэгдсэн.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> спам биш гэж тэмдэглэгдсэн.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> чухал бус гэж тэмдэглэгдсэн.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> чухал бус гэж тэмдэглэгдсэн.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> залилан гэж мэдээлэгдсэн.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> залилан гэж мэдээлэгдсэн.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> архивлагдсан.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> архивлагдсан.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> устгагдсан.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> устгагдсан.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Фолдеруудыг өөрчилсөн.</item>
+        <item quantity="one">Фолдер өөрчилсөн.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d шинэ зурвас. Харах.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d хуучин зурвас</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d уншаагүй</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d зурвас бүрмөсөн устгагдах болно.</item>
+        <item quantity="one">%1$d зурвас бүрмөсөн устгагдах болно.</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Зурвасуудыг зөөх</item>
+        <item quantity="one">Зурвасыг зөөх</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dБ</item>
+        <item quantity="one">%dБ</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dКБ</item>
+        <item quantity="one">%dКБ</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dМБ</item>
+        <item quantity="one">%dМБ</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dГБ</item>
+        <item quantity="one">%dГБ</item>
+    </plurals>
+</resources>

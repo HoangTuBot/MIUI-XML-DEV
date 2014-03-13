@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Jibu</item>
+        <item>Jibu wote</item>
+        <item>Sambaza</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Mafanikio</item>
+        <item>Hakuna muunganisho.</item>
+        <item>Haikuweza kuingia</item>
+        <item>Hitilafu ya usalama.</item>
+        <item>Haikuweza kusawazisha.</item>
+        <item>Hitilafu ya Ndani</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Mfumo</item>
+        <item>Inayotumika Mara kwa mara</item>
+        <item>Folda Zote</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Mpya zaidi</item>
+        <item>Nzee zaidi</item>
+        <item>Orodha ya mazungumzo</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Onyesha mazungumzo mapya zaidi baada ya kufuta</item>
+        <item>Onyesha mazungumzo ya zamani zaidi baada ya kufuta</item>
+        <item>Onyesha orodha ya mazungumzo baada ya kufuta</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Onyesha kumbukumbu pekee</item>
+        <item>Onyesha futa pekee</item>
+        <item>Onyesha kumbukumbu na futa</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Onyesha kumbukumbu pekee</item>
+        <item>Onyesha futa pekee</item>
+        <item>Onyesha kumbukumbu na futa</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Maandishi madogo sana</item>
+        <item>Maandishi madogo</item>
+        <item>Maandishi-ukubwa wa kawaida</item>
+        <item>Maandishi makubwa</item>
+        <item>Maandishi kubwa</item>
+    </string-array>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_nfc_enabled">NFC ነቅቷል፡፡</string>
+  <string name="app_name">Nfc አገልግሎት</string>
+  <string name="beam_canceled">ሞገድ ተሰርዧል</string>
+  <string name="beam_complete">አመልማሎ ተጠናቅቋል</string>
+  <string name="beam_failed">ሞገድ አልተጠናቀቀም</string>
+  <string name="beam_handover_not_supported">የተቀባዩ መሣሪያ ትልቅ ፋይል በሞገድ በኩል ማስተላለፍ አይደግፍም።</string>
+  <string name="beam_outgoing">ሞገድ በማመንጨት ላይ...</string>
+  <string name="beam_progress">ገቢ ሞገድ...</string>
+  <string name="beam_touch_to_view">ለማየት ንካ</string>
+  <string name="beam_try_again">መሣሪያዎችን ዳግም አንድ ላይ አሰባስብ</string>
+  <string name="cancel">ሰርዝ</string>
+  <string name="complete_with">በሚከተለው ያጠናቅቁ</string>
+  <string name="confirm_pairing">እርግጠኛ ንዎት የብሉቱዝ መሣሪያው %1$sን ማጣመር ይፈልጋሉ?</string>
+  <string name="connect_headset_failed">ማገናኘት አልተቻለም</string>
+  <string name="connected_headset">ተገናኝቷል</string>
+  <string name="connecting_headset">በመገናኘት ላይ</string>
+  <string name="could_not_use_app">%1$sን መጠቀም አልተቻለም።</string>
+  <string name="default_pay_app_removed">እርስዎ የመረጡት መታ አድርጎ መክፈያ አገልግሎት ተወግዷል። ሌላ ይመርጡ?</string>
+  <string name="disconnected_headset">ግንኙነት ተቋርጧል</string>
+  <string name="disconnecting_headset">ግንኙነት በማቋረጥ ላይ</string>
+  <string name="failed_to_enable_bt">ብሉቱዝ ማንቃት አልተቻለም</string>
+  <string name="inbound_me_profile_text">ይሄን ሰው እንደ ዕውቅያ ለማከል ነካ አድርግ፡፡</string>
+  <string name="inbound_me_profile_title">NFC የተቀበላቸው ዕውቂያዎች</string>
+  <string name="nfcUserLabel">NFC</string>
+  <string name="outbound_me_profile_text">ለእዚህ ሰው የአንተን ዕውቅያ መረጃ ለመስጠት መታ አድርግ</string>
+  <string name="outbound_me_profile_title">NFC ልውውጥ ተጠናቋል</string>
+  <string name="pair_no">የለም</string>
+  <string name="pair_yes">አዎ</string>
+  <string name="pairing_headset">በማጣመር ላይ</string>
+  <string name="pairing_headset_failed">ማጣመር አልተቻለም</string>
+  <string name="pay_with">በዚህ ይክፈሉ</string>
+  <string name="tap_again_to_complete">በ%1$s ለማጠናቀቅ በድጋሚ መታ ያድርጉ</string>
+  <string name="tap_again_to_pay">በ%1$s ለመክፈል በድጋሚ መታ ያድርጉ</string>
+  <string name="touch">ለማብራት ንካ</string>
+  <string name="transaction_failure">ይህ ግብይት በ%1$s መጠናቀቅ አልቻለም።</string>
+</resources>

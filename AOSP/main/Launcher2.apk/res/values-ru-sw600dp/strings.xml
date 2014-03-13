@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Здесь вы увидите последние использованные приложения – и не только.
+
+Чтобы изменить размер виджета, нажмите и удерживайте его, а затем перетащите синие точки."</string>
+  <string name="custom_workspace_cling_description_2">Нажмите, чтобы получить подробную информацию.</string>
+  <string name="custom_workspace_cling_title_1">Это ваша библиотека Google Play…</string>
+  <string name="custom_workspace_cling_title_2">Рекомендации Google</string>
+</resources>

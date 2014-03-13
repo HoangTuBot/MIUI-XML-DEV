@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>답장</item>
+        <item>전체답장</item>
+        <item>전달</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>완료</item>
+        <item>연결되지 않았습니다.</item>
+        <item>로그인하지 못했습니다.</item>
+        <item>보안 오류입니다.</item>
+        <item>동기화하지 못했습니다.</item>
+        <item>내부 오류</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>시스템</item>
+        <item>자주 사용</item>
+        <item>모든 폴더</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>최신</item>
+        <item>이전</item>
+        <item>대화 목록</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>삭제 후 최신 대화 표시</item>
+        <item>삭제 후 이전 대화 표시</item>
+        <item>삭제 후 대화 목록 표시</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>보관처리만 표시</item>
+        <item>삭제만 표시</item>
+        <item>보관처리 및 삭제 모두 표시</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>보관처리만 표시</item>
+        <item>삭제만 표시</item>
+        <item>보관처리 및 삭제 모두 표시</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>아주 작은 텍스트</item>
+        <item>작은 텍스트</item>
+        <item>보통 크기의 텍스트</item>
+        <item>큰 텍스트</item>
+        <item>아주 큰 텍스트</item>
+    </string-array>
+</resources>

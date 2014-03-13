@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>აბიჯანი</item>
+        <item>აკრა</item>
+        <item>ადის-აბება</item>
+        <item>ალჟირი</item>
+        <item>ბლანტაირი</item>
+        <item>ბრაზავილი</item>
+        <item>კაირო</item>
+        <item>კასაბლანკა</item>
+        <item>კონაკრი</item>
+        <item>დაკარი</item>
+        <item>დარ-ეს-სალამი</item>
+        <item>ჯიბუტი</item>
+        <item>ფრიტაუნი</item>
+        <item>გაბორონე</item>
+        <item>ჰარარე</item>
+        <item>იოჰანესბურგი</item>
+        <item>კამპალა</item>
+        <item>ხარტუმი</item>
+        <item>კიგალი</item>
+        <item>კინშასა</item>
+        <item>ლაგოსი</item>
+        <item>მასერუ</item>
+        <item>მოგადიშო</item>
+        <item>ნაირობი</item>
+        <item>სან-ტომე</item>
+        <item>ტომბუქტუ</item>
+        <item>ტრიპოლი</item>
+        <item>ტუნისი</item>
+        <item>ანკორიჯი</item>
+        <item>მენდოსი</item>
+        <item>არუბა</item>
+        <item>ასუნსიონი</item>
+        <item>ბარბადოსი</item>
+        <item>ბელიზი</item>
+        <item>ბოგოტა</item>
+        <item>ბუენოს-აირესი</item>
+        <item>კანკუნი</item>
+        <item>კარაკასი</item>
+        <item>კაიმანი</item>
+        <item>ჩიკაგო</item>
+        <item>კოსტა-რიკა</item>
+        <item>კურაჩაო</item>
+        <item>დაუსონ კრიკი</item>
+        <item>დენვერი</item>
+        <item>დეტროიტი</item>
+        <item>დომინიკა</item>
+        <item>ედმონტონი</item>
+        <item>სალვადორი</item>
+        <item>ფორტალეზა</item>
+        <item>გრანდ-თურქი</item>
+        <item>გრენადა</item>
+        <item>გვატემალა</item>
+        <item>გაიანა</item>
+        <item>ჰალიფაქსის</item>
+        <item>ჰავანა</item>
+        <item>ინდიანაპოლისი</item>
+        <item>ნოქსი</item>
+        <item>მარენგო</item>
+        <item>პეტერბურგი</item>
+        <item>ტელლ-სიტი</item>
+        <item>ვევეი</item>
+        <item>ვენსენი</item>
+        <item>ვინმაკი</item>
+        <item>კინგსტონი</item>
+        <item>ნუესტა სენიორა დე ლა პაზი</item>
+        <item>ლიმა</item>
+        <item>ლოს-ანჯელესი</item>
+        <item>ლუისვილი</item>
+        <item>მანაგუა</item>
+        <item>მარტინიკი</item>
+        <item>მენდოსი</item>
+        <item>მეტლაკატლა</item>
+        <item>მეხიკო</item>
+        <item>მონტერეი</item>
+        <item>მონტევიდეო</item>
+        <item>მონრეალი</item>
+        <item>ნასაუ</item>
+        <item>ნიუ-იორკი</item>
+        <item>ბეულა</item>
+        <item>ცენტრალური</item>
+        <item>ნიუ-სალემი</item>
+        <item>პანამა</item>
+        <item>ფინიქსი</item>
+        <item>პორტ-ოფ-სპეინი</item>
+        <item>პორტ-ო-პრინსი</item>
+        <item>პუერტო რიკო</item>
+        <item>სანტო-დომინგო</item>
+        <item>სან პაულო</item>
+        <item>სენტ-ჯონზი</item>
+        <item>სენტ-ქითსი</item>
+        <item>სენტ-ლუსია</item>
+        <item>სენტ-ტომასი</item>
+        <item>ტიხუანა</item>
+        <item>ტორონტო</item>
+        <item>ვანკუვერი</item>
+        <item>უინიპეგი</item>
+        <item>სამხრეთ პოლუსი</item>
+        <item>ლონგირი</item>
+        <item>ალმაატა</item>
+        <item>ამანი</item>
+        <item>ანადირი</item>
+        <item>აქტაუ</item>
+        <item>ბაღდადი</item>
+        <item>ბაჰრეინი</item>
+        <item>ბაქო</item>
+        <item>ბანგკოკი</item>
+        <item>ბეირუთი</item>
+        <item>კოლკატა</item>
+        <item>დამასკო</item>
+        <item>დაკა</item>
+        <item>დუბაი</item>
+        <item>ღაზა</item>
+        <item>ჰებრონი</item>
+        <item>ხო ში მინი</item>
+        <item>ჰონგკონგი</item>
+        <item>სტამბული</item>
+        <item>ჯაკარტა</item>
+        <item>იერუსალიმი</item>
+        <item>ქაბული</item>
+        <item>კარაჩი</item>
+        <item>კატმანდუ</item>
+        <item>კუალა-ლუმპური</item>
+        <item>ქუვეითი</item>
+        <item>მაკაო</item>
+        <item>მანილა</item>
+        <item>მასკატი</item>
+        <item>პნომ-პენი</item>
+        <item>ფხენიანი</item>
+        <item>კატარი</item>
+        <item>რანგუნი</item>
+        <item>ერ-რიადი</item>
+        <item>საიგონი</item>
+        <item>სეული</item>
+        <item>შანხაი</item>
+        <item>სინგაპური</item>
+        <item>ტაიპეი</item>
+        <item>თეირანი</item>
+        <item>თელ-ავივი</item>
+        <item>ტოკიო</item>
+        <item>ულანბატორი</item>
+        <item>ბერმუდის კუნძულები</item>
+        <item>კანარის კუნძულები</item>
+        <item>კაბო-ვერდე</item>
+        <item>რეიკიავიკი</item>
+        <item>სტენლი</item>
+        <item>ადელაიდე</item>
+        <item>ბრიზბენი</item>
+        <item>კანბერა</item>
+        <item>დარვინი</item>
+        <item>მელბურნი</item>
+        <item>ახალი სამხრეთი უელსი</item>
+        <item>პერთი</item>
+        <item>კუინზლენდი</item>
+        <item>სიდნეი</item>
+        <item>ვიქტორია</item>
+        <item>ნიუფაუნდლენდი</item>
+        <item>სასკაჩევანი</item>
+        <item>აღდგომის კუნძული</item>
+        <item>ამსტერდამი</item>
+        <item>ანდორა</item>
+        <item>ათენი</item>
+        <item>ბელფასტი</item>
+        <item>ბელგრადი</item>
+        <item>ბერლინი</item>
+        <item>ბრატისლავა</item>
+        <item>ბრიუსელი</item>
+        <item>ბუქარესტი</item>
+        <item>ბუდაპეშტი</item>
+        <item>კიშინიოვი</item>
+        <item>კოპენჰაგენი</item>
+        <item>დუბლინი</item>
+        <item>ჰიბრალტარი</item>
+        <item>ჰელსინკი</item>
+        <item>კუნძული მენი</item>
+        <item>სტამბული</item>
+        <item>კიევი</item>
+        <item>ლისაბონი</item>
+        <item>ლონდონი</item>
+        <item>ლუქსემბურგი</item>
+        <item>მადრიდი</item>
+        <item>მალტა</item>
+        <item>მინსკი</item>
+        <item>მონაკო</item>
+        <item>მოსკოვი</item>
+        <item>ოსლო</item>
+        <item>პარიზი</item>
+        <item>პრაღა</item>
+        <item>რიგა</item>
+        <item>რომი</item>
+        <item>სან მარინო</item>
+        <item>სარაევო</item>
+        <item>Simferopol</item>
+        <item>სკოპიე</item>
+        <item>სოფია</item>
+        <item>სტოკჰოლმი</item>
+        <item>ტალინი</item>
+        <item>ვატიკანი</item>
+        <item>ვენა</item>
+        <item>ვილნიუსი</item>
+        <item>ვარშავა</item>
+        <item>ზაგრები</item>
+        <item>ციურიხი</item>
+        <item>ანტანანარივო</item>
+        <item>მალდივის კუნძულები</item>
+        <item>მავრიკი</item>
+        <item>ოკლენდი</item>
+        <item>ფიჯი</item>
+        <item>გუამი</item>
+        <item>ჰონოლულუ</item>
+        <item>კირიტიმატი</item>
+        <item>ნუმეა</item>
+        <item>სამოა</item>
+        <item>ტაიტი</item>
+        <item>ანტიგუა</item>
+        <item>ოსტინი</item>
+        <item>ბოსტონი</item>
+        <item>კალგარი</item>
+        <item>კოლუმბუსი</item>
+        <item>დალასი</item>
+        <item>ნოქსვილი</item>
+        <item>მემფისი</item>
+        <item>მაიამი</item>
+        <item>მინეაპოლისი</item>
+        <item>ოტავა</item>
+        <item>ფილადელფია</item>
+        <item>პორტლანდი</item>
+        <item>სან-დიეგო</item>
+        <item>სან-ფრანცისკო</item>
+        <item>სოლტ-ლეიკ-სიტი</item>
+        <item>სან-ხოსე</item>
+        <item>სან-სალვადორი</item>
+        <item>სიეტლი</item>
+        <item>სენტ-ლუისი</item>
+        <item>ვაშინგტონი</item>
+        <item>ჰიუსტონი</item>
+        <item>სან ანტონიო</item>
+        <item>ჯექსონვილი</item>
+        <item>ბალტიმორი</item>
+        <item>ნევშვილი</item>
+        <item>მილუოკი</item>
+        <item>ოკლაჰომა-სიტი</item>
+        <item>ლას-ვეგასი</item>
+        <item>ალბუკერკე</item>
+        <item>ტუსონი</item>
+        <item>საკრამენტო</item>
+        <item>ატლანტა</item>
+        <item>კლივლენდი</item>
+        <item>ახალი ორლეანი</item>
+        <item>ტამპა</item>
+        <item>პიტსბურგი</item>
+        <item>ცინცინატი</item>
+        <item>მაუნთინ-ვიუ</item>
+        <item>რენო</item>
+        <item>ბლეს როკ-სითი</item>
+        <item>დოჰა</item>
+        <item>პეკინი</item>
+        <item>მუმბაი</item>
+        <item>დელი</item>
+        <item>ოსაკა</item>
+        <item>ლაჰორი</item>
+        <item>სანა</item>
+        <item>ბარსელონა</item>
+        <item>მიუნხენი</item>
+        <item>მილანი</item>
+        <item>ფრანკფურტი</item>
+        <item>ჰანოი</item>
+        <item>ანკარა</item>
+        <item>ბანგალორი</item>
+        <item>ბრაზილია</item>
+        <item>კეიპტაუნი</item>
+        <item>ისლამაბადი</item>
+        <item>რიო დე ჟანეირო</item>
+        <item>ან არბორი</item>
+        <item>ბოულდერი</item>
+        <item>კემბრიჯი</item>
+        <item>კირკლენდი</item>
+        <item>მედისონი</item>
+        <item>გუანჯოუ</item>
+        <item>ჰაიდარაბადი</item>
+        <item>რესტონი</item>
+        <item>ბელო-ჰორიზონტე</item>
+        <item>სანტიაგო</item>
+        <item>მონროვია</item>
+        <item>კოლომბო</item>
+        <item>ჩიუაუა</item>
+        <item>სალვადორი</item>
+        <item>გურგაონი</item>
+        <item>მანჩესტერი</item>
+        <item>კიევი</item>
+        <item>სანქტ-პეტერბურგი</item>
+        <item>კრაკოვი</item>
+        <item>ვროკლავი</item>
+        <item>ჰამბურგი</item>
+        <item>ოულუ</item>
+        <item>ჰაიფა</item>
+        <item>სან-ხუანი</item>
+        <item>ტეგუსიგალპა</item>
+        <item>პარამარიბო</item>
+        <item>ქუიტო</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>დარჩენილია ერთ წუთზე ნაკლები</item>
+        <item>დარჩენილია %1$s</item>
+        <item>დარჩენილია %2$s</item>
+        <item>დარჩენილია %1$s %2$s</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>მაღვიძარა დაყენებულია ამ მომენტიდან 1 წუთზე ნაკლებ დროზე.</item>
+        <item>მაღვიძარა დაყენებულია ამ მომენტიდან %1$s-ით.</item>
+        <item>მაღვიძარა დაყენებულია ამ მომენტიდან %2$s-ით.</item>
+        <item>ეს მაღვიძარა დაყენებულია %1$s-ით და %2$s-ით ამ მომენტიდან.</item>
+        <item>მაღვიძარა დაყენებულია ამ მომენტიდან %3$s-ით.</item>
+        <item>ეს მაღვიძარა დაყენებულია %1$s-ით და %3$s-ით ამ მომენტიდან.</item>
+        <item>ეს მაღვიძარა დაყენებულია %2$s-ით და %3$s-ით ამ მომენტიდან.</item>
+        <item>ეს მაღვიძარა დაყენებულია %1$s-ით, %2$s-ითა და %3$s-ით ამ მომენტიდან.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>5 წუთი</item>
+        <item>10 წუთი</item>
+        <item>15 წუთი</item>
+        <item>20 წუთი</item>
+        <item>25 წუთი</item>
+        <item>30 წუთი</item>
+        <item>არასოდეს</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>ჩაჩუმება</item>
+        <item>დახურვა</item>
+        <item>არ გააკეთო არაფერი</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>საკმაოდ სწრაფი ხართ.</item>
+        <item>ისიამოვნეთ თქვენი შრომის ნაყოფით.</item>
+        <item>ანდროიდები ცნობილია, როგორც სწრაფი. მაგრამ თქვეზე სწარფი მაინც ვერაა!</item>
+        <item>Phew.</item>
+        <item>L33t times.</item>
+        <item>ამას ჰქვია სიჩქარე!</item>
+        <item>მოდით, ისევ შევეჭიდოთ დროს.</item>
+        <item>უბრალოდ მარცხნივ ახტომა.</item>
+        <item>დროს ნუ დაკარგავთ.</item>
+        <item>ფოტონური სისწრაფე.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>ანალოგი</item>
+        <item>ციფრული</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>მარშალის კუნძულები</item>
+        <item>მიდუეის კუნძული</item>
+        <item>ჰავაი</item>
+        <item>ალასკა</item>
+        <item>წყნარი ოკეანის დრო</item>
+        <item>ტიხუანა</item>
+        <item>არიზონა</item>
+        <item>ჩიუაუა</item>
+        <item>მთის დრო</item>
+        <item>ცენტრალური ამერიკა</item>
+        <item>ცენტრალური დრო</item>
+        <item>მეხიკო</item>
+        <item>სასკაჩევანი</item>
+        <item>ბოგოტა</item>
+        <item>აღმოსავლეთის დრო</item>
+        <item>ვენესუელა</item>
+        <item>ატლანტიკური დრო (ბარბადოსი)</item>
+        <item>ატლანტიკური დრო (კანადა)</item>
+        <item>მანაუსი</item>
+        <item>სანტიაგო</item>
+        <item>ნიუფაუნდლენდი</item>
+        <item>ბრაზილია</item>
+        <item>ბუენოს-აირესი</item>
+        <item>გრენლანდია</item>
+        <item>მონტევიდეო</item>
+        <item>შუა-ატლანტიკური რეგიონი</item>
+        <item>აზორის კუნძულები</item>
+        <item>კაბო-ვერდეს კუნძულები</item>
+        <item>კასაბლანკა</item>
+        <item>ლონდონი, დუბლინი</item>
+        <item>ამსტერდამი, ბერლინი</item>
+        <item>ბელგრადი</item>
+        <item>ბრიუსელი</item>
+        <item>სარაევო</item>
+        <item>ვინდჰუკი</item>
+        <item>დას. აფრიკის დრო</item>
+        <item>ამანი, იორდანია</item>
+        <item>ათენი, სტამბული</item>
+        <item>ბეირუთი, ლიბანი</item>
+        <item>კაირო</item>
+        <item>ჰელსინკი</item>
+        <item>იერუსალიმი</item>
+        <item>მინსკი</item>
+        <item>ჰარარე</item>
+        <item>ბაღდადი</item>
+        <item>მოსკოვი</item>
+        <item>ქუვეითი</item>
+        <item>ნაირობი</item>
+        <item>თეირანი</item>
+        <item>ბაქო</item>
+        <item>თბილისი</item>
+        <item>ერევანი</item>
+        <item>დუბაი</item>
+        <item>ქაბული</item>
+        <item>ისლამაბადი, ყარაჩი</item>
+        <item>ურალსკი</item>
+        <item>ეკატერინბურგი</item>
+        <item>კოლკატა</item>
+        <item>შრი-ლანკა</item>
+        <item>კატმანდუ</item>
+        <item>ასტანა</item>
+        <item>იანგონი</item>
+        <item>კრასნოიარსკი</item>
+        <item>ბანგკოკი</item>
+        <item>პეკინი</item>
+        <item>ჰონგკონგი</item>
+        <item>ირკუტსკი</item>
+        <item>კუალა-ლუმპური</item>
+        <item>პერთი</item>
+        <item>ტაიპეი</item>
+        <item>სეული</item>
+        <item>ტოკიო, ოსაკა</item>
+        <item>იაკუტსკი</item>
+        <item>ადელაიდე</item>
+        <item>დარვინი</item>
+        <item>ბრიზბენი</item>
+        <item>ჰობარტი</item>
+        <item>სიდნეი, კანბერა</item>
+        <item>ვლადივოსტოკი</item>
+        <item>გუამი</item>
+        <item>მაგადანი</item>
+        <item>ოკლენდი</item>
+        <item>ფიჯი</item>
+        <item>ტონგა</item>
+        <item>ჯაკარტა</item>
+    </string-array>
+</resources>

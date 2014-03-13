@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Харилцагчдын сан</string>
+  <string name="debug_dump_database_message">Та 1) бүх харилцагчидтай холбоотой мэдээллүүд болон ярианы жагсаалтыг агуулсан өөрийн өгөгдлийн сангийн хуулбарыг дотоод санд хадгалах, мөн 2) имэйлдэх гэж байна. Та үүнийг төхөөрөмжөөсөө амжилттай хуулж дуусах буюу имэйлээр хүлээж авсны дараа устгах хэрэгтэйг санаарай.</string>
+  <string name="debug_dump_delete_button">Одоо устгах</string>
+  <string name="debug_dump_email_body">Хавсралтад миний бүх харилцагчийн мэдээлэл бүхий өгөгдлийн сан байгаа. Болгоомжтой харьцана уу.</string>
+  <string name="debug_dump_email_sender_picker">Өөрийн файлийг илгээх програмыг сонгоно уу</string>
+  <string name="debug_dump_email_subject">Харилцагчдын Db-г хавсаргав</string>
+  <string name="debug_dump_start_button">Эхлэх</string>
+  <string name="debug_dump_title">Харилцагчдын мэдээллийн санг хуулах</string>
+  <string name="default_directory">Харилцагчид</string>
+  <string name="local_invisible_directory">Бусад</string>
+  <string name="provider_label">Харилцагчид</string>
+  <string name="read_write_all_voicemail_description">Энэ төхөөрөмжийн хандалт хийх боломжтой бүх дуут шууданг хадгалах буюу татахыг апп-д зөвшөөрнө.</string>
+  <string name="read_write_all_voicemail_label">Бүх дуут шууданд хандалт хийх</string>
+  <string name="sharedUserLabel">Андройдын үндсэн апп-ууд</string>
+  <string name="upgrade_msg">Харилцагчдын өгөгдлийн санг сайжруулж байна.</string>
+  <string name="upgrade_out_of_memory_notification_text">Сайжруулалтыг дуусгахын тулд хүрнэ үү.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Харилцагчдын сайжруулалт хийхэд илүү их санах ой шаардлагатай.</string>
+  <string name="upgrade_out_of_memory_notification_title">Харилцагчдад зориулсан санг сайжруулж байна</string>
+  <string name="voicemail_from_column">"Дуут шуудан илгээгч "</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Dotykom zobrazíte nedávno použité položky — a pár ďalších, ktoré sme pridali za vás.
+ 
+Ak chcete zmeniť veľkosť miniaplikácie, stlačte a podržte modré bodky, uvoľnite ich a potiahnite."</string>
+  <string name="custom_workspace_cling_description_2">Dotknutím sa zobrazíte viac informácií.</string>
+  <string name="custom_workspace_cling_title_1">Toto je vaša knižnica Google Play...</string>
+  <string name="custom_workspace_cling_title_2">Toto sú návrhy služby Google...</string>
+</resources>

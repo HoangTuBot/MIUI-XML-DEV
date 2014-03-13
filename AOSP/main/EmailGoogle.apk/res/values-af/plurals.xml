@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Skuif %1$d gesprekke</item>
+        <item quantity="one">Skuif gesprek</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Konsepte</item>
+        <item quantity="one">Konsep</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Vee hierdie %1$d gesprekke uit?</item>
+        <item quantity="one">Vee hierdie gesprek uit?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Argiveer hierdie %1$d gesprekke?</item>
+        <item quantity="one">Argiveer hierdie gesprek?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Gooi konsepte weg uit hierdie %1$d gesprekke?</item>
+        <item quantity="one">Gooi konsepte weg uit hierdie gesprek?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Ontster %1$d gesprekke.</item>
+        <item quantity="one">Ontster %1$d gesprek.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> gedemp.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> gedemp.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> aangegee as strooipos.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> aangegee as strooipos.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> gerapporteer as nie strooipos nie.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> gerapporteer as nie strooipos nie.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> gemerk as nie belangrik nie.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> gemerk as nie belangrik nie.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> as uitvissing gerapporteer.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> as uitvissing gerapporteer.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> geargiveer.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> geargiveer.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> uitgevee.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> uitgevee.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Het vouers verander.</item>
+        <item quantity="one">Het vouer verander.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d nuwe boodskappe. Wys.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d ouer boodskappe</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ongelees</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d boodskappe sal permanent uitgevee word.</item>
+        <item quantity="one">%1$d boodskap sal permanent uitgevee word.</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Skuif boodskappe</item>
+        <item quantity="one">Skuif boodskappe</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+        <item quantity="one">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dKB</item>
+        <item quantity="one">%dKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dMB</item>
+        <item quantity="one">%dMB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="one">%dGB</item>
+    </plurals>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_nfc_enabled">Служба NFC включена</string>
+  <string name="app_name">Служба NFC</string>
+  <string name="beam_canceled">Передача данных отменена</string>
+  <string name="beam_complete">Передача данных завершена</string>
+  <string name="beam_failed">Передача данных не завершена</string>
+  <string name="beam_handover_not_supported">Устройство получателя не поддерживает передачу больших объемов данных через Android Beam.</string>
+  <string name="beam_outgoing">Передача данных...</string>
+  <string name="beam_progress">Получение данных…</string>
+  <string name="beam_touch_to_view">Нажмите, чтобы просмотреть</string>
+  <string name="beam_try_again">Повторить попытку</string>
+  <string name="cancel">Отмена</string>
+  <string name="complete_with">Использовать</string>
+  <string name="confirm_pairing">Подключить Bluetooth-устройство %1$s?</string>
+  <string name="connect_headset_failed">Не удалось подключиться</string>
+  <string name="connected_headset">Подключено</string>
+  <string name="connecting_headset">Подключение…</string>
+  <string name="could_not_use_app">Невозможно использовать приложение \"%1$s\"</string>
+  <string name="default_pay_app_removed">Вы удалили приложение для оплаты через NFC, используемое по умолчанию. Выбрать другое?</string>
+  <string name="disconnected_headset">Отключено</string>
+  <string name="disconnecting_headset">Отключение…</string>
+  <string name="failed_to_enable_bt">Не удалось включить Bluetooth</string>
+  <string name="inbound_me_profile_text">Нажмите, чтобы добавить контакт.</string>
+  <string name="inbound_me_profile_title">Данные контакта получены по NFC</string>
+  <string name="nfcUserLabel">NFC</string>
+  <string name="outbound_me_profile_text">Нажмите, чтобы передать свои контактные данные.</string>
+  <string name="outbound_me_profile_title">Обмен данными по NFC завершен</string>
+  <string name="pair_no">Нет</string>
+  <string name="pair_yes">Да</string>
+  <string name="pairing_headset">Подключение…</string>
+  <string name="pairing_headset_failed">Не удалось установить связь</string>
+  <string name="pay_with">Способ оплаты</string>
+  <string name="tap_again_to_complete">Чтобы использовать приложение \"%1$s\", снова приблизьте телефон</string>
+  <string name="tap_again_to_pay">Чтобы использовать для оплаты приложение \"%1$s\", снова приблизьте телефон</string>
+  <string name="touch">Нажмите, чтобы передать данные</string>
+  <string name="transaction_failure">Для этой операции нельзя использовать приложение \"%1$s\"</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">ໂຕຕິດຕັ້ງໃບຮັບຮອງ</string>
+  <string name="cert_is_added">%s ຖືກຕິດຕັ້ງແລ້ວ.</string>
+  <string name="cert_missing_error">ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເນື່ອງຈາກບໍ່ສາມາດລະບຸຕຳແໜ່ງຂອງໄຟລ໌ຮັບຮອງໄດ້.</string>
+  <string name="cert_not_saved">ໃບຮັບຮອງບໍ່ໄດ້ຖືກຕິດຕັ້ງເທື່ອ.</string>
+  <string name="cert_read_error">ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເນື່ອງຈາກບໍ່ສາມາດອ່ານໄຟລ໌ຮັບຮອງໄດ້.</string>
+  <string name="cert_too_large_error">ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເພາະວ່າໃບຮັບຮອງມີຂະໜາດໃຫຍ່ເກີນໄປ.</string>
+  <string name="credential_info">ແພັກເກດປະກອບດ້ວຍ:</string>
+  <string name="credential_name">ຊື່ໃບຮັບຮອງ:</string>
+  <string name="credential_password">ພິມລະຫັດຜ່ານເພື່ອຄາຍໃບຮັບຮອງ.</string>
+  <string name="credential_usage_label">ການໃຊ້ຂໍ້ມູນຮັບຮອງ:</string>
+  <string name="extracting_pkcs12">ກຳລັງຄາຍຂໍ້ມູນ...</string>
+  <string name="invalid_cert">ໃບຮັບຮອງບໍ່ຖືກຕ້ອງ.</string>
+  <string name="n_cacrts">%d ໃບຮັບຮອງ CA</string>
+  <string name="name_char_error">ພິມຊື່ທີ່ມີພຽງແຕ່ໂຕອັກສອນ ແລະໂຕເລກ.</string>
+  <string name="name_credential_dialog_title">ຊື່ຂອງໃບຮັບຮອງ</string>
+  <string name="name_empty_error">ພິມຊື່.</string>
+  <string name="no_cert_file_found">ບໍ່ພົບເຫັນໄຟລ໌ໃບຮັບຮອງໃນບ່ອນຈັດເກັບຂໍ້ມູນ USB</string>
+  <string name="no_cert_to_saved">ບໍ່ມີໃບຮັບຮອງເພື່ອຕິດຕັ້ງ.</string>
+  <string name="one_cacrt">ນຶ່ງໃບຮັບຮອງ CA</string>
+  <string name="one_usercrt">ນຶ່ງໃບຮັບຮອງຜູ່ໃຊ້</string>
+  <string name="one_userkey">ນຶ່ງກະແຈຜູ່ໃຊ້</string>
+  <string name="only_primary_user_allowed">ສະເພາະເຈົ້າຂອງອຸປະກອນນີ້ເທົ່ານັ້ນ ທີ່ສາມາດຕິດຕັ້ງໃບຮັບຮອງໄດ້.</string>
+  <string name="p12_description">ໃບຮັບຮອງໃນແຫລ່ງເກັບກະແຈ PKCS12.</string>
+  <string name="password_empty_error">ພິມລະຫັດຜ່ານ.</string>
+  <string name="password_error">ພິມລະຫັດຜ່ານທີ່ຖືກຕ້ອງ.</string>
+  <string name="pick_file_title">ເລືອກ​ໃບຮັບຮອງໃດນຶ່ງ</string>
+  <string name="pkcs12_file_password_dialog_title">ຄາຍຈາກ %s</string>
+  <string name="pkcs12_password_dialog_title">ຄາຍຂໍ້ມູນໃບຮັບຮອງ</string>
+  <string name="sdcard_not_present">ບໍ່ມີບ່ອນຈັດເກັບຂໍ້ມູນ USB.</string>
+  <string name="storage_error">ບໍ່ສາມາດບັນທຶກໃບຮັບຮອງໄດ້. ແຕະ \"ຕົກລົງ\" ເພື່ອລອງໃໝ່ອີກຄັ້ງ.</string>
+  <string name="unable_to_save_cert">ບໍ່ສາມາດບັນທຶກໃບຮັບຮອງໄດ້. ບ່ອນຈັດເກັບຂໍ້ມູນລັບບໍ່ໄດ້ເປີດນຳໃຊ້ ຫຼືຖືກເປີດຢ່າງບໍ່ຖືກຕ້ອງ.</string>
+</resources>

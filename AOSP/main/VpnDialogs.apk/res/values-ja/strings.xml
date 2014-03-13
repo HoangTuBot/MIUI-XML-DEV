@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">このアプリケーションを信頼できるものとみなします。</string>
+  <string name="configure">設定</string>
+  <string name="data_received">受信:</string>
+  <string name="data_transmitted">送信:</string>
+  <string name="data_value_format">%1$sバイト/%2$sパケット</string>
+  <string name="disconnect">切断</string>
+  <string name="duration">期間:</string>
+  <string name="legacy_title">VPN接続済み</string>
+  <string name="prompt">%sでVPN接続を作成します。</string>
+  <string name="session">セッション:</string>
+  <string name="warning">続行すると、すべてのネットワークトラフィックの傍受をアプリケーションに許可することになります。&lt;b&gt;&amp;#20449;&amp;#38972;&amp;#12391;&amp;#12365;&amp;#12427;&amp;#12450;&amp;#12503;&amp;#12522;&amp;#12465;&amp;#12540;&amp;#12471;&amp;#12519;&amp;#12531;&amp;#12391;&amp;#12394;&amp;#12356;&amp;#38480;&amp;#12426;&amp;#12289;&amp;#21516;&amp;#24847;&amp;#12375;&amp;#12394;&amp;#12356;&amp;#12391;&amp;#12367;&amp;#12384;&amp;#12373;&amp;#12356;&amp;#12290;&lt;/b&gt;&amp;#35492;&amp;#12387;&amp;#12390;&amp;#21516;&amp;#24847;&amp;#12375;&amp;#12383;&amp;#22580;&amp;#21512;&amp;#12399;&amp;#12289;&amp;#19981;&amp;#27491;&amp;#12394;&amp;#12477;&amp;#12501;&amp;#12488;&amp;#12454;&amp;#12455;&amp;#12450;&amp;#12395;&amp;#12424;&amp;#12426;&amp;#12487;&amp;#12540;&amp;#12479;&amp;#12364;&amp;#19981;&amp;#27491;&amp;#20351;&amp;#29992;&amp;#12373;&amp;#12428;&amp;#12427;&amp;#21361;&amp;#38522;&amp;#12364;&amp;#12354;&amp;#12426;&amp;#12414;&amp;#12377;&amp;#12290;</string>
+</resources>

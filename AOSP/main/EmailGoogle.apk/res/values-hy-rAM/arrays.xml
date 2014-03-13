@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Պատասխանել</item>
+        <item>Պատասխանել բոլորին</item>
+        <item>Փոխանցել</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Հաջողվել է</item>
+        <item>Կապ չկա:</item>
+        <item>Չհաջողվեց մուտք գործել:</item>
+        <item>Անվտանգության սխալ:</item>
+        <item>Հնարավոր չէ համաժամեցնել:</item>
+        <item>Ներքին սխալ</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Համակարգ</item>
+        <item>Հաճախ օգտագործվող</item>
+        <item>Բոլոր թղթապանակները</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Ավելի նոր</item>
+        <item>Ավելի հին</item>
+        <item>Խոսակցությունների ցանկ</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Ցուցադրել ավելի նոր խոսակցությունը ջնջելուց հետո</item>
+        <item>Ցուցադրել ավելի վաղ խոսակցությունը ջնջելուց հետո</item>
+        <item>Ցուցադրել խոսակցությունների ցանկը ջնջելուց հետո</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Ցուցադրել միայն արխիվացումը</item>
+        <item>Ցուցադրել միայն ջնջելը</item>
+        <item>Ցույց տալ արխիվը &amp; ջնջել</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Ցուցադրել միայն արխիվացումը</item>
+        <item>Ցույց տալ միայն ջնջելը</item>
+        <item>Ցույց տալ արխիվը &amp; ջնջել</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Փոքրիկ տեքստ</item>
+        <item>Փոքր տեքստ</item>
+        <item>Սովորական չափի տեքստ</item>
+        <item>Խոշորատառ տեքստ</item>
+        <item>Մեծացնել տեքստը</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d აპლიკაცია განახლდა</item>
+        <item quantity="one">%1$d აპლიკაცია განახლდა</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">ხელმისაწვდომია %1$d განახლება</item>
+        <item quantity="one">ხელმისაწვდომია %1$d განახლება</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d განახლებას დასტური ჭირდება</item>
+        <item quantity="one">%1$d განახლებას დასტური ჭირდება</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Raak aan om recente items te bekijken, plus een paar extra.
+ 
+Raak lang aan en versleep de blauwe punten om het formaat aan te passen."</string>
+  <string name="custom_workspace_cling_description_2">Tik voor meer informatie.</string>
+  <string name="custom_workspace_cling_title_1">Dit is uw Google Play-bibliotheek...</string>
+  <string name="custom_workspace_cling_title_2">Dit zijn suggesties van Google...</string>
+</resources>

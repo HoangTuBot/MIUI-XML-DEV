@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Ninaamini programu hii.</string>
+  <string name="configure">Sanidi</string>
+  <string name="data_received">Imepokelewa:</string>
+  <string name="data_transmitted">Zilizotumwa:</string>
+  <string name="data_value_format">baiti %1$s / pakiti %2$s</string>
+  <string name="disconnect">Tenganisha</string>
+  <string name="duration">Muda:</string>
+  <string name="legacy_title">VPN imeunganishwa</string>
+  <string name="prompt">%s inajaribu kuunda muunganisho wa VPN.</string>
+  <string name="session">Kipindi:</string>
+  <string name="warning">Kwa kuendelea, unapatia programu kibali cha kuingilia trafiki ya mitandao yote.&lt;b&gt;USIKUBALI isipokuwa uwe unaamini programu.&lt;/b&gt; La sivyo, utakua katika hatari ya data yako kuathiriwa na programu hasidi.</string>
+</resources>

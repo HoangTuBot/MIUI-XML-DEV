@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_nfc_enabled">Comunicazione NFC abilitata.</string>
+  <string name="app_name">Servizio NFC</string>
+  <string name="beam_canceled">Trasmissione annullata</string>
+  <string name="beam_complete">Trasmissione completata</string>
+  <string name="beam_failed">Trasmissione non completata</string>
+  <string name="beam_handover_not_supported">Il dispositivo del destinatario non supporta il trasferimento di file di grandi dimensioni tramite Android Beam.</string>
+  <string name="beam_outgoing">Trasmissione...</string>
+  <string name="beam_progress">Trasmissione in arrivo...</string>
+  <string name="beam_touch_to_view">Tocca per visualizzare</string>
+  <string name="beam_try_again">Avvicina di nuovo i dispositivi</string>
+  <string name="cancel">Annulla</string>
+  <string name="complete_with">Completa con</string>
+  <string name="confirm_pairing">Vuoi accoppiare il dispositivo Bluetooth %1$s?</string>
+  <string name="connect_headset_failed">Impossibile connettersi</string>
+  <string name="connected_headset">Collegato</string>
+  <string name="connecting_headset">Collegamento in corso</string>
+  <string name="could_not_use_app">Impossibile utilizzare %1$s.</string>
+  <string name="default_pay_app_removed">Il tuo servizio preferito per Touch &amp; Pay è stato rimosso. Vuoi sceglierne un altro?</string>
+  <string name="disconnected_headset">Scollegato</string>
+  <string name="disconnecting_headset">Scollegamento in corso</string>
+  <string name="failed_to_enable_bt">Impossibile attivare il Bluetooth</string>
+  <string name="inbound_me_profile_text">Tocca per aggiungere questa persona come contatto.</string>
+  <string name="inbound_me_profile_title">Contatto ricevuto via NFC</string>
+  <string name="nfcUserLabel">NFC</string>
+  <string name="outbound_me_profile_text">Tocca per inviare a questa persona le informazioni di contatto</string>
+  <string name="outbound_me_profile_title">Interazione NFC completa</string>
+  <string name="pair_no">No</string>
+  <string name="pair_yes">Sì</string>
+  <string name="pairing_headset">Accoppiamento</string>
+  <string name="pairing_headset_failed">Impossibile accoppiare</string>
+  <string name="pay_with">Paga con</string>
+  <string name="tap_again_to_complete">Tocca ancora per completare con %1$s</string>
+  <string name="tap_again_to_pay">Tocca ancora per pagare con %1$s</string>
+  <string name="touch">Tocca per trasmettere</string>
+  <string name="transaction_failure">Impossibile completare la transazione con %1$s.</string>
+</resources>

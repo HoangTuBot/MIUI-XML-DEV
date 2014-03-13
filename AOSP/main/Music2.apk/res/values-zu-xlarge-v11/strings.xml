@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add_to_playlist_title">Engeza ohlwini lokudlala olusha</string>
+  <string name="emptyplaylist">Thinta ukuze udlale</string>
+  <string name="new_playlist_title">Uhlu oludlalwayo olusha</string>
+  <string name="no_music_heading">Ilabhulali yakho yomculo ayinalutho</string>
+  <string name="no_music_setup_uploader_body">Engeza iqoqo lakho lomuntu ku-Beta yomculo uphinde ufinyelele kulo ngokushesha kusukela kunoma iyiphi ikhompyutha exhunyiwe noma idivayisi ye-Android.</string>
+  <string name="no_music_setup_usb_body">Xhuma idivayisi yakho kukhomputha ngentambo ye-USB ukuze ukopishe umculo kudivayisi yakho. Uma une-Macintosh, layisha uhlelo lokudlulisa lefayela le-Android kuqala kukhompyutha yakho.</string>
+  <string name="ringtone_menu">Sebenzisa njengethoni yokukhala</string>
+</resources>

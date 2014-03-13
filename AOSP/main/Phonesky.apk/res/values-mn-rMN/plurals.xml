@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d аппликешн шинэчлэгдэв</item>
+        <item quantity="one">%1$d аппликешн шинэчлэгдэв</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d шинэчлэлийг ашиглах боломжтой</item>
+        <item quantity="one">%1$d шинэчлэлийг ашиглах боломжтой</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d шинэчлэлд зөвшөөрөл шаардлагатай</item>
+        <item quantity="one">%1$d шинэчлэлд зөвшөөрөл шаардлагатай</item>
+    </plurals>
+</resources>

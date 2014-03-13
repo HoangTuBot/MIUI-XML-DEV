@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Докоснете, за да видите наскоро ползваните от вас елементи и някои допълнителни, които добавихме за вас!
+ 
+За преоразмеряване натиснете и задръжте, след което освободете и преместете сините точки."</string>
+  <string name="custom_workspace_cling_description_2">Докоснете, за да научите повече.</string>
+  <string name="custom_workspace_cling_title_1">Това е библиотеката ви в Google Play…</string>
+  <string name="custom_workspace_cling_title_2">Това са предложения от Google…</string>
+</resources>

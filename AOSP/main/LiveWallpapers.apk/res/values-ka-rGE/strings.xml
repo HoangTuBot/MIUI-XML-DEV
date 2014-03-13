@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="clock_settings">პოლარული საათის პარამეტრები</string>
+  <string name="palette">ფერთა პალიტრა</string>
+  <string name="palette_black_c">შავი ხვრელი (დინამიური)</string>
+  <string name="palette_gray">რკინა</string>
+  <string name="palette_halloween">გოგრის ნამცხვარი</string>
+  <string name="palette_matrix">მწვანე ეკრანი</string>
+  <string name="palette_oceanic">ლურჯი ლაზერი</string>
+  <string name="palette_violet">შუაღამე</string>
+  <string name="palette_white_c">პოლარული დათვი (დინამიური)</string>
+  <string name="palette_zenburn">უცხოპლანეტური ხილის სალათი</string>
+  <string name="show_seconds">წამების ჩვენება</string>
+  <string name="variable_line_width">სხვადასხვა სიგანის წრეები</string>
+  <string name="wallpaper_clock">პოლარული საათი</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">აჩვენებს თარიღსა და დროს რკალებად: თვე, დღე, წუთი და წამი.</string>
+  <string name="wallpaper_fall">წყალი</string>
+  <string name="wallpaper_fall_author">Google</string>
+  <string name="wallpaper_fall_desc">შემოდგომის ფოთოლცვენა&lt;br&gt; გუბურის მოლივლივე ზედაპირზე:&lt;br&gt; თხევადი ფონის ზენი</string>
+  <string name="wallpaper_galaxy">გალაქტიკა</string>
+  <string name="wallpaper_galaxy_author">Google</string>
+  <string name="wallpaper_galaxy_desc">ნელა მბრუნავი ვარსკვლავებით შექმნილი გალაქტიკა.</string>
+  <string name="wallpaper_grass">ბალახი</string>
+  <string name="wallpaper_grass_author">Google</string>
+  <string name="wallpaper_grass_desc">ბალახის ღეროები ნაზად ირხევიან დღისა ან ღამის ცის ფონზე.</string>
+  <string name="wallpaper_nexus">Nexus</string>
+  <string name="wallpaper_nexus_author">Google</string>
+  <string name="wallpaper_nexus_desc">ნეირონული ქსელი შიგნიდან.</string>
+  <string name="wallpaper_walkaround">გაიხედეთ ობიექტივში</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">გაიჭვრიტეთ სამყაროში თქვენი ტელეფონით და ისეირნეთ უხიფათოდ.</string>
+  <string name="wallpapers">Android-ის ცოცხალი ფონები</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Klepnutím zobrazíte položky, které jste použili nedávno a několik dalších položek, které jsme pro vás přidali.
+ 
+Chcete-li změnit velikost, stiskněte a podržte tuto položku a následně ji uvolněte a přetáhněte modré body."</string>
+  <string name="custom_workspace_cling_description_2">Dotykem zobrazíte další informace.</string>
+  <string name="custom_workspace_cling_title_1">Toto je vaše knihovna Google Play…</string>
+  <string name="custom_workspace_cling_title_2">Toto jsou návrhy Googlu…</string>
+</resources>

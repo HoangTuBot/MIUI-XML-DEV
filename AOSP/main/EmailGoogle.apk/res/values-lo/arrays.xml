@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>ຕອບກັບ</item>
+        <item>ຕອບກັບທັງຫມົດ</item>
+        <item>ສົ່ງຕໍ່</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>ສຳເລັດແລ້ວ</item>
+        <item>ບໍ່ມີການເຊື່ອມຕໍ່.</item>
+        <item>ບໍ່ສາມາດເຂົ້າສູ່ລະບົບໄດ້.</item>
+        <item>ມີຂໍ້ຜິດພາດດ້ານຄວາມປອດໄພ.</item>
+        <item>ບໍ່ສາມາດຊິ້ງຂໍ້ມູນໄດ້.</item>
+        <item>ຂໍ້ຜິດພາດພາຍໃນ</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>ລະບົບ</item>
+        <item>ນຳໃຊ້ເລື້ອຍໆ</item>
+        <item>ໂຟນເດີທັງຫມົດ</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>ໃໝ່ກວ່າ</item>
+        <item>ເກົ່າກວ່າ</item>
+        <item>ລາຍການການສົນທະນາ</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>ສະແດງການສົນທະນາທີ່ໃໝ່ກວ່າ ຫຼັງຈາກທ່ານລຶບແລ້ວ</item>
+        <item>ສະແດງການສົນທະນາທີ່ເກົ່າກວ່າ ຫຼັງຈາກທ່ານລຶບແລ້ວ</item>
+        <item>ສະແດງລາຍການການສົນທະນາ ຫຼັງຈາກທ່ານລຶບແລ້ວ</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>ສະແດງສະເພາະອັນທີ່ຖືກຈັດເກັບ</item>
+        <item>ສະແດງສະເພາະອັນທີ່ຖືກລຶບ</item>
+        <item>ສະແດງການຈັດເກັບເຂົ້າແຟ້ມ &amp; ການລຶບ</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>ສະແດງສະເພາະອັນທີ່ຖືກຈັດເກັບ</item>
+        <item>ສະແດງການລຶບເທົ່ານັ້ນ</item>
+        <item>ສະແດງການຈັດເກັບເຂົ້າແຟ້ມ &amp; ການລຶບ</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>ໜັງສືຂະໜາດນ້ອຍຫຼາຍ</item>
+        <item>ໜັງສືຂະໜາດນ້ອຍ</item>
+        <item>ໜັງສືຂະໜາດທໍາມະດາ</item>
+        <item>ໜັງສືຂະໜາດໃຫຍ່</item>
+        <item>ໜັງສືໃຫຍ່ຫຼາຍ</item>
+    </string-array>
+    <string-array name="prefEntries_conversationListIconName">
+        <item>ສະແດງຮູບພາບ</item>
+        <item>ບໍ່ສະແດງຫຍັງ</item>
+    </string-array>
+</resources>

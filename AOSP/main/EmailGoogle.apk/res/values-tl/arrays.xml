@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Tumugon</item>
+        <item>Tumugon sa lahat</item>
+        <item>Ipasa</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Tagumpay</item>
+        <item>Walang koneksyon.</item>
+        <item>Hindi makapag-sign in.</item>
+        <item>Error sa seguridad.</item>
+        <item>Hindi makapag-sync.</item>
+        <item>Panloob na Error</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>System</item>
+        <item>Madalas na Ginagamit</item>
+        <item>Lahat ng Folder</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Mas bago</item>
+        <item>Mas luma</item>
+        <item>Listahan ng pag-uusap</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Magpakita ng mas bagong pag-uusap pagkatapos mong magtanggal</item>
+        <item>Magpakita ng mas lumang pag-uusap pagkatapos mong magtanggal</item>
+        <item>Ipakita ang listahan ng pag-uusap pagkatapos mong magtanggal</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>I-archive lang ang ipakita</item>
+        <item>Tanggalin lang ang ipakita</item>
+        <item>Ipakita ang i-archive at tanggalin</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Archive lang ang ipakita</item>
+        <item>Tanggalin lang ang ipakita</item>
+        <item>Ipakita ang i-archive at tanggalin</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Napakaliit na teksto</item>
+        <item>Maliit na teksto</item>
+        <item>Tesktong may karaniwang laki</item>
+        <item>Malaking teksto</item>
+        <item>Napakalaking teksto</item>
+    </string-array>
+</resources>

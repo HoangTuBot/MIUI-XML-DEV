@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Відповісти</item>
+        <item>Відповісти всім</item>
+        <item>Переслати</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Виконано</item>
+        <item>Немає з’єднання.</item>
+        <item>Не вдалося ввійти.</item>
+        <item>Помилка безпеки.</item>
+        <item>Не вдалося синхронізувати.</item>
+        <item>Внутрішня помилка</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Система</item>
+        <item>Часто використ.</item>
+        <item>Усі папки</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Новіші</item>
+        <item>Старіші</item>
+        <item>Список бесід</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Показувати новішу бесіду після видалення</item>
+        <item>Показувати старішу бесіду після видалення</item>
+        <item>Показувати список бесід після видалення</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Показувати лише архівування</item>
+        <item>Показувати лише видалення</item>
+        <item>Показувати архівування та видалення</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Показувати лише архівування</item>
+        <item>Показувати лише видалення</item>
+        <item>Показувати архівування та видалення</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Дуже малий текст</item>
+        <item>Малий текст</item>
+        <item>Звичайний розмір тексту</item>
+        <item>Великий текст</item>
+        <item>Дуже великий текст</item>
+    </string-array>
+</resources>

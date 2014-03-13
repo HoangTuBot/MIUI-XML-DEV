@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">%1$d მიმოწერის გადატანა</item>
+        <item quantity="one">მიმოწერის გადატანა</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">მონახაზები</item>
+        <item quantity="one">მონახაზი</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">წავშალო ეს %1$d მიმოწერა?</item>
+        <item quantity="one">წავშალო ეს მიმოწერა?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">დაარქივდეს ეს %1$d მიმოწერა?</item>
+        <item quantity="one">დავაარქივო ეს მიმოწერა?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">გაუქმდეს ამ %1$d მიმოწერის მონახაზები?</item>
+        <item quantity="one">გაუქმდეს ამ მიმოწერის მონახაზები?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d მიმოწერას მოეხსნება ვარსკვლავით მონიშვნა.</item>
+        <item quantity="one">%1$d მიმოწერას მოეხსნა ვარსკვლავით მონიშვნა.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> დადუმებულია.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> დადუმებულია.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> მონიშნულია სპამად.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> მოინიშნება სპამად.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> მოეხსნება სპამის მონიშვნა.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> მოეხსნა სპამად მონიშვნა.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> მოინიშნა უმნიშვნელოდ.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> მონიშნა უმნიშვნელოდ.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> მოინიშნა ფიშინგად.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> მოინიშნა ფიშინგად.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">დაარქივებულია &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> დაარქივებულია.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">წაშლილია &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> წაშლილია.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">საქაღალდეები შეცვლილია.</item>
+        <item quantity="one">საქაღალდე შეცვლილია.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d ახალი შეტყობინება. ჩვენება.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d ძველი შეტყობინება</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d წაუკითხავი</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d შეტყობინება წაიშლება სამუდამოდ.</item>
+        <item quantity="one">%1$d შეტყობინება წაიშლება სამუდამოდ.</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">შეტყობინებების გადატანა</item>
+        <item quantity="one">შეტყობინების გადატანა</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dბაიტი</item>
+        <item quantity="one">%dბაიტი</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dკბაიტი</item>
+        <item quantity="one">%dკბაიტი</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dმბაიტი</item>
+        <item quantity="one">%dმბაიტი</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dგბაიტი</item>
+        <item quantity="one">%dგბაიტი</item>
+    </plurals>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>ตอบ</item>
+        <item>ตอบทั้งหมด</item>
+        <item>ส่งต่อ</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>สำเร็จ</item>
+        <item>ไม่มีการเชื่อมต่อ</item>
+        <item>ไม่สามารถลงชื่อเข้าใช้</item>
+        <item>ข้อผิดพลาดเกี่ยวกับความปลอดภัย</item>
+        <item>ไม่สามารถซิงค์</item>
+        <item>ข้อผิดพลาดภายใน</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>ระบบ</item>
+        <item>ใช้บ่อย</item>
+        <item>โฟลเดอร์ทั้งหมด</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>ใหม่กว่า</item>
+        <item>เก่ากว่า</item>
+        <item>รายการการสนทนา</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>แสดงการสนทนาที่ใหม่กว่าหลังจากลบ</item>
+        <item>แสดงการสนทนาที่เก่ากว่าหลังจากลบ</item>
+        <item>แสดงรายการสนทนาหลังจากลบ</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>แสดงเฉพาะ \"เก็บ\"</item>
+        <item>แสดงเฉพาะ \"ลบ\"</item>
+        <item>แสดง \"เก็บ\" และ \"ลบ\"</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>แสดงเฉพาะ \"เก็บ\"</item>
+        <item>แสดงเฉพาะ \"ลบ\"</item>
+        <item>แสดง \"เก็บ\" และ \"ลบ\"</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>ข้อความขนาดเล็กมาก</item>
+        <item>ข้อความขนาดเล็ก</item>
+        <item>ข้อความขนาดปกติ</item>
+        <item>ข้อความขนาดใหญ่</item>
+        <item>ข้อความขนาดใหญ่</item>
+    </string-array>
+</resources>

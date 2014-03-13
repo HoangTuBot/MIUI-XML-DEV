@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Touch to get started with great content or view items you've used recently
+ 
+To resize, press &amp; hold, then let go and drag the blue dots"</string>
+  <string name="custom_workspace_cling_description_2">Touch to learn more.</string>
+  <string name="custom_workspace_cling_title_1">This is your Google Play library…</string>
+  <string name="custom_workspace_cling_title_2">"These are Google's suggestions…"</string>
+</resources>

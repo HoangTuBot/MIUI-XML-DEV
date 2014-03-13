@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"በቅርብ ጊዜ የተጠቀሟቸውን ንጥሎችን ለማየት ይንኩ — አንዳንድ ያከልንልዎ ተጨማሪ ነገሮች ጋር!
+ 
+መጠን ለመቀየር ይጫኑ እና ይያዙ፣ ከዚያ ይልቀቁት እና ሰማያዊ ነጥቦቹን ይጎትቷቸው።"</string>
+  <string name="custom_workspace_cling_description_2">ተጨማሪ ለማወቅ ንካ።</string>
+  <string name="custom_workspace_cling_title_1">ይሄ የGoogle Play ቤተ-መጽሐፍትዎ ነው…</string>
+  <string name="custom_workspace_cling_title_2">እነዚህ የGoogle የጥቆማ አስተያየቶች ናቸው…</string>
+</resources>

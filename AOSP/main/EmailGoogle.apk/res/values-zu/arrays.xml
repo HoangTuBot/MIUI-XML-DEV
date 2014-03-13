@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Phendula</item>
+        <item>Phendula konke</item>
+        <item>Dlulisela</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Impumelelo</item>
+        <item>Akukho ukuxhumana.</item>
+        <item>Ayikwazanga ukungena ngemvume.</item>
+        <item>Iphutha lokuphepha.</item>
+        <item>Ayikwazanga ukuvumelanisa.</item>
+        <item>Iphutha langaphakathi</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Isistimu</item>
+        <item>Okusetshenziswa kakhulu</item>
+        <item>Onke amafolda</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Okusha kakhulu</item>
+        <item>Okudala</item>
+        <item>Uhlu lwengxoxo</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Bonisa ingxoxo entsha ngemuva kokususa</item>
+        <item>Bonisa ingxoxo endala ngemuva kokususa</item>
+        <item>Bonisa uhlu lwengxoxo ngemuva kokususa</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Bonisa ingobo yomlando kuphela</item>
+        <item>Bonisa ukususa kuphela</item>
+        <item>Bonisa ingobo yomlando nokususa</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Bonisa ingobo yomlando kuphela</item>
+        <item>Bonisa ukususa kuphela</item>
+        <item>Bonisa ingobo yomlando nokususa</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Umbhalo omncane</item>
+        <item>Umbhalo omncane</item>
+        <item>Umbhalo ongubukhulu obujwayelekile</item>
+        <item>Umbhalo omkhulu</item>
+        <item>Umbhalo omkhulu</item>
+    </string-array>
+</resources>

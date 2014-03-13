@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">ខ្ញុំ​ទុកចិត្ត​​​កម្មវិធី​នេះ​។</string>
+  <string name="configure">កំណត់​រចនាសម្ព័ន្ធ</string>
+  <string name="data_received">បាន​ទទួល៖</string>
+  <string name="data_transmitted">បាន​ផ្ញើ៖</string>
+  <string name="data_value_format">%1$s បៃ / %2$s កញ្ចប់​ព័ត៌មាន</string>
+  <string name="disconnect">ផ្ដាច់</string>
+  <string name="duration">ថិរវេលា៖</string>
+  <string name="legacy_title">បា​ន​ភ្ជាប់ VPN</string>
+  <string name="prompt">%s ព្យាយាម​បង្កើត​ការ​តភ្ជាប់ VPN ។</string>
+  <string name="session">សម័យ៖</string>
+  <string name="warning">ដោយ​បន្ត អ្នក​កំពុង​ផ្ដល់​សិទ្ធិ​ឲ្យ​កម្មវិធី​ទប់ស្កាត់​ចរាចរណ៍​បណ្ដាញ។ &lt;b&gt;&amp;#6016;&amp;#6075;&amp;#6086;&amp;#8203;&amp;#6033;&amp;#6033;&amp;#6077;&amp;#6043;&amp;#8203; &amp;#6043;&amp;#6075;&amp;#6087;&amp;#8203;&amp;#6031;&amp;#6098;&amp;#6042;&amp;#6070;&amp;#8203;&amp;#6031;&amp;#6082;&amp;#8203;&amp;#6050;&amp;#6098;&amp;#6035;&amp;#6016;&amp;#8203;&amp;#6033;&amp;#6075;&amp;#6016;&amp;#8203;&amp;#6021;&amp;#6071;&amp;#6031;&amp;#6098;&amp;#6031;&amp;#8203;&amp;#6016;&amp;#6040;&amp;#6098;&amp;#6040;&amp;#6044;&amp;#6071;&amp;#6034;&amp;#6072;&amp;#6100;&lt;/b&gt; &amp;#6036;&amp;#6078;&amp;#8203;&amp;#6040;&amp;#6071;&amp;#6035;&amp;#8203;&amp;#6026;&amp;#6076;&amp;#6021;&amp;#6098;&amp;#6035;&amp;#6081;&amp;#6087;&amp;#8203;&amp;#6033;&amp;#6081; &amp;#6050;&amp;#6098;&amp;#6035;&amp;#6016;&amp;#8203;&amp;#6026;&amp;#6086;&amp;#6030;&amp;#6078;&amp;#6042;&amp;#6016;&amp;#6070;&amp;#6042;&amp;#8203;&amp;#6036;&amp;#6098;&amp;#6042;&amp;#6024;&amp;#6040;&amp;#8203;&amp;#6035;&amp;#6073;&amp;#6020;&amp;#8203;&amp;#6018;&amp;#6098;&amp;#6042;&amp;#6084;&amp;#6087;&amp;#6032;&amp;#6098;&amp;#6035;&amp;#6070;&amp;#6016;&amp;#6091; &amp;#6026;&amp;#6084;&amp;#6041;&amp;#8203;&amp;#6033;&amp;#6071;&amp;#6035;&amp;#6098;&amp;#6035;&amp;#6035;&amp;#6096;&amp;#6041;&amp;#8203;&amp;#6042;&amp;#6036;&amp;#6047;&amp;#6091;&amp;#8203;&amp;#6050;&amp;#6098;&amp;#6035;&amp;#6016;&amp;#8203;&amp;#6036;&amp;#6070;&amp;#6035;&amp;#8203;&amp;#6047;&amp;#6040;&amp;#6098;&amp;#6042;&amp;#6036;&amp;#6047;&amp;#6040;&amp;#6098;&amp;#6042;&amp;#6077;&amp;#6043;&amp;#8203;&amp;#6026;&amp;#6084;&amp;#6041;&amp;#8203;&amp;#6016;&amp;#6040;&amp;#6098;&amp;#6040;&amp;#6044;&amp;#6071;&amp;#6034;&amp;#6072;&amp;#8203;&amp;#6038;&amp;#6098;&amp;#6041;&amp;#6070;&amp;#6036;&amp;#6070;&amp;#6033;&amp;#6100;</string>
+</resources>

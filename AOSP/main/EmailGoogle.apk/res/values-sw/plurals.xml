@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Hamisha mazungumzo %1$d</item>
+        <item quantity="one">Hamisha mazungumzo</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Rasimu</item>
+        <item quantity="one">Rasimu</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Mazungumzo haya %1$d yafutwe?</item>
+        <item quantity="one">Mazungumzo haya yafutwe?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Mazungumzo haya %1$d yajalidiwe?</item>
+        <item quantity="one">Mazungumzo haya yajalidiwe?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Tupa rasimu kutoka kwenye mazungumzo haya %1$d?</item>
+        <item quantity="one">Tupa rasimu kutoka kwenye mazungumzo haya?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Inaondoa nyota kwenye mazungumzo %1$d.</item>
+        <item quantity="one">Inaondoa nyota kwenye mazungumzo %1$d.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b> %1$d&amp;lt;/b> yamenyamazishwa.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> yamenyamazishwa.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> yameripotiwa kama barua taka.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> yameripotiwa kama barua taka.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> imeripotiwa kuwa siyo barua taka.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> imeripotiwa kuwa siyo barua taka.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> imetiwa alama kuwa isiyo muhimu.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> imetiwa alama kuwa isiyo muhimu.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> imeripotiwa kuwa hadaa.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> imeripotiwa kuwa hadaa.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d:&amp;lt;/b&amp;amp;gt: zimehifadhiwa</item>
+        <item quantity="one">&amp;lt;b>%1$d:&amp;lt;/b&amp;amp;gt: zimehifadhiwa</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> imefutwa.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> imefutwa.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Folda zilizobadilishwa.</item>
+        <item quantity="one">Folda iliyobadilishwa.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Barua pepe %1$d mpya. Onyesha.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Ujumbe %1$d wa zamani</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ambazo hazijasomwa</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Ujumbe %1$d utafutwa kabisa.</item>
+        <item quantity="one">Ujumbe %1$d utafutwa kabisa.</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Hamisha ujumbe</item>
+        <item quantity="one">Hamisha ujumbe</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">B %d</item>
+        <item quantity="one">B %d</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">KB %d</item>
+        <item quantity="one">KB %d</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">MB %d</item>
+        <item quantity="one">MB %d</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">GB %d</item>
+        <item quantity="one">GB %d</item>
+    </plurals>
+</resources>

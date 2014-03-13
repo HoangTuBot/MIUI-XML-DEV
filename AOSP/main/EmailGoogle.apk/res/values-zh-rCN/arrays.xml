@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>回复</item>
+        <item>全部回复</item>
+        <item>转发</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>成功</item>
+        <item>无网络连接。</item>
+        <item>无法登录。</item>
+        <item>安全错误。</item>
+        <item>无法同步。</item>
+        <item>内部错误</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>系统</item>
+        <item>常用</item>
+        <item>所有文件夹</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>后一个会话</item>
+        <item>前一个会话</item>
+        <item>会话列表</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>在您执行删除操作后显示较新的后一个会话</item>
+        <item>在您执行删除操作后显示较旧的前一个会话</item>
+        <item>在您执行删除操作后显示会话列表</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>仅显示归档</item>
+        <item>仅显示删除</item>
+        <item>显示归档和删除</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>仅显示归档</item>
+        <item>仅显示删除</item>
+        <item>显示归档和删除</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>超小字体</item>
+        <item>小号字体</item>
+        <item>正常大小的文字</item>
+        <item>大号字体</item>
+        <item>超大字体</item>
+    </string-array>
+</resources>

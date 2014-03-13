@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Isifaki Sesitifiketi</string>
+  <string name="cert_is_added">%s ifakiwe.</string>
+  <string name="cert_missing_error">Ayikwazanga ukufaka ngoba ifayela lesitifiketi alikwazanga ukutholwa.</string>
+  <string name="cert_not_saved">Isitifiketi asifakiwe</string>
+  <string name="cert_read_error">Ayikwazanga ukufaka ngoba ifayela lesitifiketi alikwazanga ukufundwa.</string>
+  <string name="cert_too_large_error">Ayikwazanga ukufaka ngoba usayizi wesitifiketi mkhulu kakhulu.</string>
+  <string name="credential_info">Iphakheji liqukethe:</string>
+  <string name="credential_name">Igama lesitifiketi:</string>
+  <string name="credential_password">Faka iphasiwedi ukukhipha amasitifiketi.</string>
+  <string name="credential_usage_label">Ukusetshenziswa kokuqinisekisa:</string>
+  <string name="extracting_pkcs12">Iyakhipha...</string>
+  <string name="invalid_cert">Isitifiketi ailungile.</string>
+  <string name="n_cacrts">izitifiketi ze-%d C|A</string>
+  <string name="name_char_error">Thayipha igama eliqukethe izinhlamvu nezinombolo kuphela.</string>
+  <string name="name_credential_dialog_title">Yetha igama isitifiketi</string>
+  <string name="name_empty_error">Thayipha igama.</string>
+  <string name="no_cert_file_found">Ayikho ifayela yesitifiketi etholakele kwisitoreji se-USB.</string>
+  <string name="no_cert_to_saved">Asikho isitifiketi sokufakwa</string>
+  <string name="one_cacrt">isitifiketi esisodwa se-CA</string>
+  <string name="one_usercrt">isitifiketi esisodwa somsebenzisi</string>
+  <string name="one_userkey">ukhiye oyedwa womsebenzisi</string>
+  <string name="only_primary_user_allowed">Umnikazi kuphela wale divayisi ongafaka izitifiketi.</string>
+  <string name="p12_description">Isitifiketi sikukhiye wokugcina we-PKCS12.</string>
+  <string name="password_empty_error">Thayipha iphasiwedi.</string>
+  <string name="password_error">Thayipha iphasiwedi elungile.</string>
+  <string name="pick_file_title">Khetha isitifiketi</string>
+  <string name="pkcs12_file_password_dialog_title">Khipha kwi %s</string>
+  <string name="pkcs12_password_dialog_title">Susa izitifiketi</string>
+  <string name="sdcard_not_present">Isitoreji se-USB asitholakali.</string>
+  <string name="storage_error">Ayikwazanga ukugcina isitifiketi. Thinta u-KULUNGILE ukuzama futhi.</string>
+  <string name="unable_to_save_cert">Ayikwazanga ukugcina isitifiketi. Isilondolozi samaphepha achaza ngomuntu asinikiwe amandla noma ukuqaliswa kahle.</string>
+</resources>

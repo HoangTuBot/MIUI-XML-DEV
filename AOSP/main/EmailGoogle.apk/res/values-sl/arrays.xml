@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Odgovori</item>
+        <item>Odgovori vsem</item>
+        <item>Posreduj</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Uspešno</item>
+        <item>Ni povezave.</item>
+        <item>Prijava ni mogoča.</item>
+        <item>Varnostna napaka.</item>
+        <item>Sinhroniziranje ni mogoče.</item>
+        <item>Notranja napaka</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistem</item>
+        <item>Pogosto uporabljeno</item>
+        <item>Vse mape</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Novejši</item>
+        <item>Starejši</item>
+        <item>Seznam pogovorov</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Po izbrisu pokaži novejši pogovor</item>
+        <item>Po izbrisu pokaži starejši pogovor</item>
+        <item>Po izbrisu pokaži seznam pogovorov</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Pokaži samo arhiviranje</item>
+        <item>Pokaži samo brisanje</item>
+        <item>Pokaži arhiviranje in brisanje</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Pokaži samo arhiviranje</item>
+        <item>Pokaži samo brisanje</item>
+        <item>Pokaži arhiviranje in brisanje</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Drobno besedilo</item>
+        <item>Majhno besedilo</item>
+        <item>Normalno besedilo</item>
+        <item>Veliko besedilo</item>
+        <item>Ogromno besedilo</item>
+    </string-array>
+</resources>

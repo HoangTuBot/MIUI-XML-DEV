@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>پاسخ</item>
+        <item>پاسخ به همه</item>
+        <item>باز ارسال</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>موفقیت‌آمیز</item>
+        <item>اتصال برقرار نیست.</item>
+        <item>ورود به برنامه انجام نشد.</item>
+        <item>خطای امنیتی.</item>
+        <item>همگام‌سازی انجام نشد.</item>
+        <item>خطای داخلی</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>سیستم</item>
+        <item>اغلب استفاده می‌شود</item>
+        <item>همه پوشه‌ها</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>جدیدتر</item>
+        <item>قدیمی‌تر</item>
+        <item>فهرست مکالمات</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>بعد از حذف مکالمه جدیدتر را نشان می‌دهد</item>
+        <item>بعد از حذف مکالمه قدیمی‌تر را نشان می‌دهد</item>
+        <item>بعد از حذف فهرست مکالمات را نشان می‌دهد</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>فقط نمایش بایگانی</item>
+        <item>فقط نمایش حذف</item>
+        <item>نمایش بایگانی و حذف</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>فقط نمایش بایگانی</item>
+        <item>فقط نمایش حذف</item>
+        <item>نمایش بایگانی و حذف</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>نوشتار بسیار کوچک</item>
+        <item>نوشتار کوچک</item>
+        <item>نوشتار با اندازه معمولی</item>
+        <item>نوشتار بزرگ</item>
+        <item>نوشتار بسیار بزرگ</item>
+    </string-array>
+</resources>

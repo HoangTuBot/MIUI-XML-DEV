@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Dodirnite za prikaz nedavnih stavki i novih dodataka!
+ 
+Za promjenu veličine pritisnite i zadržite pa otpustite i povlačite plave točke."</string>
+  <string name="custom_workspace_cling_description_2">Dodirnite da biste saznali više.</string>
+  <string name="custom_workspace_cling_title_1">Vaša knjižnica usluge Google Play…</string>
+  <string name="custom_workspace_cling_title_2">To su Googleovi prijedlozi…</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">ฉันวางใจแอปพลิเคชันนี้</string>
+  <string name="configure">กำหนดค่า</string>
+  <string name="data_received">รับแล้ว:</string>
+  <string name="data_transmitted">ส่งแล้ว:</string>
+  <string name="data_value_format">%1$s ไบต์/%2$s แพ็คเก็ต</string>
+  <string name="disconnect">ยกเลิกการเชื่อมต่อ</string>
+  <string name="duration">ระยะเวลา:</string>
+  <string name="legacy_title">เชื่อมต่อ VPN แล้ว</string>
+  <string name="prompt">%s พยายามจะสร้างการเชื่อมต่อ VPN</string>
+  <string name="session">เซสชัน</string>
+  <string name="warning">การดำเนินการต่อหมายถึงคุณอนุญาตให้แอปพลิเคชันเข้าขัดจังหวะการเข้าใช้งานเครือข่ายทั้งหมด &lt;b&gt;&amp;#3629;&amp;#3618;&amp;#3656;&amp;#3634;&amp;#3618;&amp;#3629;&amp;#3617;&amp;#3619;&amp;#3633;&amp;#3610;&amp;#3627;&amp;#3634;&amp;#3585;&amp;#3588;&amp;#3640;&amp;#3603;&amp;#3652;&amp;#3617;&amp;#3656;&amp;#3623;&amp;#3634;&amp;#3591;&amp;#3651;&amp;#3592;&amp;#3649;&amp;#3629;&amp;#3611;&amp;#3614;&amp;#3621;&amp;#3636;&amp;#3648;&amp;#3588;&amp;#3594;&amp;#3633;&amp;#3609;&lt;/b&gt; &amp;#3617;&amp;#3636;&amp;#3593;&amp;#3632;&amp;#3609;&amp;#3633;&amp;#3657;&amp;#3609; &amp;#3588;&amp;#3640;&amp;#3603;&amp;#3629;&amp;#3634;&amp;#3592;&amp;#3648;&amp;#3626;&amp;#3637;&amp;#3656;&amp;#3618;&amp;#3591;&amp;#3605;&amp;#3656;&amp;#3629;&amp;#3585;&amp;#3634;&amp;#3619;&amp;#3606;&amp;#3641;&amp;#3585;&amp;#3586;&amp;#3650;&amp;#3617;&amp;#3618;&amp;#3586;&amp;#3657;&amp;#3629;&amp;#3617;&amp;#3641;&amp;#3621;&amp;#3592;&amp;#3634;&amp;#3585;&amp;#3595;&amp;#3629;&amp;#3615;&amp;#3605;&amp;#3660;&amp;#3649;&amp;#3623;&amp;#3619;&amp;#3660;&amp;#3607;&amp;#3637;&amp;#3656;&amp;#3648;&amp;#3611;&amp;#3655;&amp;#3609;&amp;#3629;&amp;#3633;&amp;#3609;&amp;#3605;&amp;#3619;&amp;#3634;&amp;#3618;&amp;#3652;&amp;#3604;&amp;#3657;</string>
+</resources>

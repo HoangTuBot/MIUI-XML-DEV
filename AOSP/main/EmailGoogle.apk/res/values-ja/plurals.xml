@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">%1$d件のスレッドを移動</item>
+        <item quantity="one">1件のスレッドを移動</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">下書き</item>
+        <item quantity="one">下書き</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$d件のスレッドを削除しますか？</item>
+        <item quantity="one">このスレッドを削除しますか？</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">%1$d件のスレッドをアーカイブしますか？</item>
+        <item quantity="one">このスレッドをアーカイブしますか？</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">%1$d件のスレッドから下書きを破棄してもよろしいですか？</item>
+        <item quantity="one">このスレッドから下書きを破棄してもよろしいですか？</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d件のスレッドからスターを外しています。</item>
+        <item quantity="one">%1$d件のスレッドからスターを外しています。</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b>件をミュートしました。</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b>件をミュートしました。</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b>件を迷惑メールとして報告しました。</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b>件を迷惑メールとして報告しました。</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b>件を迷惑メールではないメールとして報告しました。</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b>件を迷惑メールではないメールとして報告しました。</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b>件の重要マークを外しました。</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b>件の重要マークを外しました。</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b>件をフィッシングとして報告しました。</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b>件をフィッシングとして報告しました。</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b>件をアーカイブしました。</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b>件をアーカイブしました。</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b>件を削除しました。</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b>件を削除しました。</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">フォルダを変更しました。</item>
+        <item quantity="one">フォルダを変更しました。</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d通の新着メール。表示。</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">これ以前のメッセージ%1$d件</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d件の未読</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d件のメッセージが完全に削除されます。</item>
+        <item quantity="one">%1$d件のメッセージが完全に削除されます。</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">メッセージを移動</item>
+        <item quantity="one">メッセージを移動</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+        <item quantity="one">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dKB</item>
+        <item quantity="one">%dKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dMB</item>
+        <item quantity="one">%dMB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="one">%dGB</item>
+    </plurals>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Տեղափոխել %1$d խոսակցությունները</item>
+        <item quantity="one">Տեղափոխել խոսակցությունը</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Սևագրություններ</item>
+        <item quantity="one">Սևագիր</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Ջնջե՞լ այս %1$d խոսակցությունը:</item>
+        <item quantity="one">Ջնջե՞լ այս խոսակցությունը:</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Արխիվացնե՞լ այս %1$d խոսակցությունը:</item>
+        <item quantity="one">Արխիվացնե՞լ այս խոսակցությունը:</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Հրաժարվե՞լ այս %1$d խոսակցության սևագրերից:</item>
+        <item quantity="one">Հրաժարվե՞լ այս խոսակցության սևագրերից:</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Ապաաստղանշվում է %1$d զրույց:</item>
+        <item quantity="one">%1$d խոսակցություն ապաաստղանշվում է:</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> համրեցված է:</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> համրեցված է:</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> զեկուցված է որպես լցոն:</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> զեկուցված է որպես լցոն:</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> զեկուցված է որպես ոչ լցոն:</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> զեկուցված է որպես ոչ լցոն:</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> նշված է որպես ոչ կարևոր:</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> նշված է որպես ոչ կարևոր:</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> զեկուցված է որպես որսում:</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> զեկուցված է որպես որսում:</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> արխիվացված:</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> արխիվացված է:</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ջնջված:</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ջնջված է:</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Փոխված թղթապանակներ:</item>
+        <item quantity="one">Փոխված թղթապանակ:</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d նոր ուղերձ: Ցույց տալ:</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d ավելի հին հաղորդագրություն</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d չընթերցված</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d հաղորդագրություն ընդմիշտ կջնջվի:</item>
+        <item quantity="one">%1$d հաղորդագրություն ընդմիշտ կջնջվի:</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Տեղափոխել հաղորդագրությունները</item>
+        <item quantity="one">Տեղափոխել հաղորդագրությունը</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dԲ</item>
+        <item quantity="one">%dԲ</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dԿբ</item>
+        <item quantity="one">%dԿբ</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dՄբ</item>
+        <item quantity="one">%dՄբ</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dԳբ</item>
+        <item quantity="one">%dԳբ</item>
+    </plurals>
+</resources>

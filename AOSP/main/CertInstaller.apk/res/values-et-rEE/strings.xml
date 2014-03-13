@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Sertifikaadi installija</string>
+  <string name="cert_is_added">%s on installitud.</string>
+  <string name="cert_missing_error">Ei saanud installida, sest sertifikaadi faili ei leitud.</string>
+  <string name="cert_not_saved">Sertifikaat ei ole installitud.</string>
+  <string name="cert_read_error">Ei saanud installida, sest sertifikaadi fail pole loetav.</string>
+  <string name="cert_too_large_error">Ei saanud installida, sest sertifikaadi maht on liiga suur.</string>
+  <string name="credential_info">Pakett sisaldab:</string>
+  <string name="credential_name">Sertifikaadi nimi:</string>
+  <string name="credential_password">Sertifikaatide ekstraktimiseks sisestage parool.</string>
+  <string name="credential_usage_label">Mandaadi kasutus:</string>
+  <string name="extracting_pkcs12">Ekstraktimine ...</string>
+  <string name="invalid_cert">Sertifikaat on kehtetu.</string>
+  <string name="n_cacrts">%d CA sertifikaadid</string>
+  <string name="name_char_error">Sisestage nimi, mis sisaldab ainult tähti ja numbreid.</string>
+  <string name="name_credential_dialog_title">Lisage sertifikaadile nimi</string>
+  <string name="name_empty_error">Sisestage nimi.</string>
+  <string name="no_cert_file_found">USB-mäluseadmelt ei leitud sertifikaadifaili.</string>
+  <string name="no_cert_to_saved">Installitav sertifikaat puudub.</string>
+  <string name="one_cacrt">üks CA sertifikaat</string>
+  <string name="one_usercrt">üks kasutaja sertifikaat</string>
+  <string name="one_userkey">üks kasutajavõti</string>
+  <string name="only_primary_user_allowed">Ainult seadme omanik võib installida sertifikaate.</string>
+  <string name="p12_description">Sertifikaadid PKCS12 võtmete andmebaasis.</string>
+  <string name="password_empty_error">Sisestage parool.</string>
+  <string name="password_error">Sisestage õige parool.</string>
+  <string name="pick_file_title">Sertifikaadi valimine</string>
+  <string name="pkcs12_file_password_dialog_title">Ekstraktimine %s-st</string>
+  <string name="pkcs12_password_dialog_title">Sertifikaadi ekstraktimine</string>
+  <string name="sdcard_not_present">USB-mäluseade pole saadaval</string>
+  <string name="storage_error">Sertifikaati ei saanud salvestada. Uuesti proovimiseks puudutage nuppu OK.</string>
+  <string name="unable_to_save_cert">Sertifikaati ei saanud salvestada. Mandaatide salvestus on keelatud või valesti lähtestatud.</string>
+</resources>

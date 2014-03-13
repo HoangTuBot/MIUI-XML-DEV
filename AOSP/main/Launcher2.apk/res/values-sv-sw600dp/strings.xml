@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Tryck och visa objekt du har använt nyligen, plus objekt som vi har lagt till!
+ 
+Ändra storlek genom att trycka länge, släppa och dra de blå prickarna."</string>
+  <string name="custom_workspace_cling_description_2">Tryck här om du vill läsa mer.</string>
+  <string name="custom_workspace_cling_title_1">Det här är ditt Google Play-bibliotek …</string>
+  <string name="custom_workspace_cling_title_2">Det här är Googles förslag ...</string>
+</resources>

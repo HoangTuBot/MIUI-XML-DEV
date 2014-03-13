@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Я доверяю этому приложению.</string>
+  <string name="configure">Настроить</string>
+  <string name="data_received">Получено:</string>
+  <string name="data_transmitted">Отправлено:</string>
+  <string name="data_value_format">%1$s Б; пакетов: %2$s</string>
+  <string name="disconnect">Разъединить</string>
+  <string name="duration">Продолжительность:</string>
+  <string name="legacy_title">VPN-подключение установлено</string>
+  <string name="prompt">%s пытается установить VPN-соединение.</string>
+  <string name="session">Сеанс:</string>
+  <string name="warning">Если продолжить, вы разрешите приложению перехватывать весь сетевой трафик. &lt;b&gt;&amp;#1053;&amp;#1077; &amp;#1076;&amp;#1077;&amp;#1083;&amp;#1072;&amp;#1081;&amp;#1090;&amp;#1077; &amp;#1101;&amp;#1090;&amp;#1086;&amp;#1075;&amp;#1086;, &amp;#1077;&amp;#1089;&amp;#1083;&amp;#1080; &amp;#1085;&amp;#1077; &amp;#1076;&amp;#1086;&amp;#1074;&amp;#1077;&amp;#1088;&amp;#1103;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1087;&amp;#1088;&amp;#1080;&amp;#1083;&amp;#1086;&amp;#1078;&amp;#1077;&amp;#1085;&amp;#1080;&amp;#1102;.&lt;/b&gt; &amp;#1042; &amp;#1087;&amp;#1088;&amp;#1086;&amp;#1090;&amp;#1080;&amp;#1074;&amp;#1085;&amp;#1086;&amp;#1084; &amp;#1089;&amp;#1083;&amp;#1091;&amp;#1095;&amp;#1072;&amp;#1077; &amp;#1082; &amp;#1074;&amp;#1072;&amp;#1096;&amp;#1080;&amp;#1084; &amp;#1076;&amp;#1072;&amp;#1085;&amp;#1085;&amp;#1099;&amp;#1084; &amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077;&amp;#1090; &amp;#1087;&amp;#1086;&amp;#1083;&amp;#1091;&amp;#1095;&amp;#1080;&amp;#1090;&amp;#1100; &amp;#1076;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1091;&amp;#1087; &amp;#1074;&amp;#1088;&amp;#1077;&amp;#1076;&amp;#1086;&amp;#1085;&amp;#1086;&amp;#1089;&amp;#1085;&amp;#1086;&amp;#1077; &amp;#1055;&amp;#1054;.</string>
+</resources>

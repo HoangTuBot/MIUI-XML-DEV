@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Αγγίξτε για να δείτε τα στοιχεία που χρησιμοποιήσατε πρόσφατα — συν ορισμένα επιπλέον που έχουμε προσθέσει για εσάς!
+ 
+Για αλλαγή μεγέθους, πατήστε παρατεταμένα και, στη συνέχεια, ελευθερώστε και σύρετε τις μπλε κουκκίδες."</string>
+  <string name="custom_workspace_cling_description_2">Αγγίξτε για να μάθετε περισσότερα.</string>
+  <string name="custom_workspace_cling_title_1">Αυτή είναι η βιβλιοθήκη σας Google Play…</string>
+  <string name="custom_workspace_cling_title_2">Αυτές είναι oι προτάσεις από την Google…</string>
+</resources>

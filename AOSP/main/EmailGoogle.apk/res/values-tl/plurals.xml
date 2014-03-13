@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Ilipat ang %1$d (na) pag-uusap</item>
+        <item quantity="one">Ilipat ang pag-uusap</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Mga Draft</item>
+        <item quantity="one">Draft</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Tanggalin ang %1$d (na) pag-uusap na ito?</item>
+        <item quantity="one">Tanggalin ang pag-uusap na ito?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">I-archive ang %1$d (na) pag-uusap na ito?</item>
+        <item quantity="one">I-archive ang pag-uusap na ito?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">I-discard ang draft mula sa %1$d pag-uusap na ito?</item>
+        <item quantity="one">I-discard ang mga draft mula sa pag-uusap na ito?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Inaalisan ng star ang %1$d (na) pag-uusap.</item>
+        <item quantity="one">Inaalisan ng star ang %1$d (na) pag-uusap.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ang na-mute.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ang na-mute.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ang iniulat bilang spam.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ang iniulat bilang spam.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ang iniulat bilang hindi spam.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ang iniulat bilang hindi spam.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ang minarkahang hindi mahalaga.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ang minarkahang hindi mahalaga.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ang iniulat bilang phishing.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ang iniulat bilang phishing.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ang na-archive.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ang na-archive.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> ang tinanggal.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> ang tinanggal.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Mga binagong folder.</item>
+        <item quantity="one">Binagong folder.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d (na) bagong mensahe. Ipakita.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d (na) mas lumang mensahe</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ang hindi pa nababasa</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Permanenteng tatanggalin ang %1$d (na) mensahe.</item>
+        <item quantity="one">Permanenteng tatanggalin ang %1$d (na) mensahe.</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Ilipat ang mga mensahe</item>
+        <item quantity="one">Ilipat ang mensahe</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+        <item quantity="one">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dKB</item>
+        <item quantity="one">%dKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dMB</item>
+        <item quantity="one">%dMB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="one">%dGB</item>
+    </plurals>
+</resources>

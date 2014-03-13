@@ -47,6 +47,7 @@
   <string name="account_settings_title">Google account</string>
   <string name="account_type_free_trial_nautilus_tier_summary">Next bill date: %1$s</string>
   <string name="account_type_free_trial_nautilus_tier_title">Account Type: All Access Free Trial</string>
+  <string name="account_type_paid_nautilus_tier_summary">@string/account_type_free_trial_nautilus_tier_summary</string>
   <string name="account_type_paid_nautilus_tier_title">Account Type: All Access</string>
   <string name="account_type_settings_key">account_type_settings_key</string>
   <string name="accounts">Accounts</string>
@@ -162,6 +163,7 @@
   <string name="clear_cache_settings_title">Clear Cache</string>
   <string name="clear_queue">Clear queue</string>
   <string name="cluster_more">%d MORE</string>
+  <string name="confirm_delete">@string/confirm_delete_local_only</string>
   <string name="confirm_delete_has_remote">\"%s\" has been sideloaded and uploaded to Google Play Music. Only the sideloaded items will be deleted. Do you want to delete them?</string>
   <string name="confirm_delete_local_only">Do you want to delete \"%s\"?</string>
   <string name="content_filter_key">content_filter_key</string>
@@ -270,6 +272,7 @@ To listen to your shared music, first switch accounts."</string>
   <string name="hide_options">Hide options</string>
   <string name="instant_mix_default_name">%s Mix</string>
   <string name="instant_mixes_my_mixes_title">My mixes</string>
+  <string name="instant_mixes_recommended_title">@string/radio_recommended_title</string>
   <string name="keep_on_phone">Keep on device</string>
   <string name="launcher_name">Play Music</string>
   <string name="legal_information">Legal information</string>
@@ -293,12 +296,16 @@ To listen to your shared music, first switch accounts."</string>
   <string name="make_available_offline_help_link">http://www.google.com/support/music/bin/answer.py?answer=1250232&amp;hl=%s</string>
   <string name="manage_done">DONE</string>
   <string name="manage_music">Choose on device music</string>
+  <string name="manage_nautilus_basic_tier_trial_eligible_summary">@string/manage_nautilus_no_account_summary</string>
   <string name="manage_nautilus_basic_tier_trial_eligible_title">Try All Access for free</string>
+  <string name="manage_nautilus_basic_tier_trial_not_eligible_summary">@string/manage_nautilus_no_account_summary</string>
   <string name="manage_nautilus_basic_tier_trial_not_eligible_title">Subscribe to All Access</string>
   <string name="manage_nautilus_free_trial_nautilus_summary">Cancel subscription before next billing date</string>
   <string name="manage_nautilus_free_trial_nautilus_title">Cancel All Access</string>
   <string name="manage_nautilus_no_account_summary">Get access to millions of songs and unlimited radio</string>
   <string name="manage_nautilus_no_account_title">Try All Access</string>
+  <string name="manage_nautilus_paid_nautilus_summary">@string/manage_nautilus_free_trial_nautilus_summary</string>
+  <string name="manage_nautilus_paid_nautilus_title">@string/manage_nautilus_free_trial_nautilus_title</string>
   <string name="manage_nautilus_settings_key">manage_nautilus_settings_key</string>
   <string name="market_uri_link">market://details?id=com.google.android.music</string>
   <string name="market_wrong_account" formatted="false">"The music you're trying to play was purchased with the account %s
@@ -522,6 +529,7 @@ To choose music to store on your device, open the menu and tap \"Choose on devic
   <string name="search">Search</string>
   <string name="search_album">Search for your favorite album</string>
   <string name="search_artist">Search for your favorite artist</string>
+  <string name="search_hint">@string/search_hint_music</string>
   <string name="search_hint_instant_mix">Search for an artist, song, album or genre to create new instant mix</string>
   <string name="search_hint_music">Search music</string>
   <string name="search_hint_radio">Search for an artist, song, album or genre to create new radio station</string>

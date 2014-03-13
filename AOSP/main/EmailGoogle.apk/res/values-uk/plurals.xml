@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Перемістити бесід: %1$d</item>
+        <item quantity="one">Перемістити бесіду</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Чернетки</item>
+        <item quantity="one">Чернетка</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Видалити ці бесіди (%1$d)?</item>
+        <item quantity="one">Видалити цю бесіду?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Архівувати ці бесіди (%1$d)?</item>
+        <item quantity="one">Архівувати цю бесіду?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Відхилити чернетки в цих бесідах (%1$d)?</item>
+        <item quantity="one">Відхилити чернетки в цій бесіді?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Видалення зірочки з бесід: %1$d.</item>
+        <item quantity="one">Видалення зірочки з %1$d бесіди.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> проігноровано.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> проігноровано.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> повідомлено як спам.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> повідомлено як спам.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> позначено як не спам.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> позначено як не спам.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> позначено як неважливі.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> позначено як неважливу.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> позначено як фішинг.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> позначено як фішинг.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> заархівовано.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> заархівовано.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> видалено.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> видалено.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Змінено папки.</item>
+        <item quantity="one">Змінено папку.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Нових повідомлень: %1$d. Показати.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Попередні повідомлення: %1$d</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Не прочитано: %1$d</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Повідомлення (%1$d) буде видалено назавжди.</item>
+        <item quantity="one">%1$d повідомлення буде видалено назавжди.</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Переміщення повідомлень</item>
+        <item quantity="one">Переміщення повідомлення</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d Б</item>
+        <item quantity="one">%d Б</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d Кб</item>
+        <item quantity="one">%d Кб</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d Мб</item>
+        <item quantity="one">%d Мб</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d Гб</item>
+        <item quantity="one">%d Гб</item>
+    </plurals>
+</resources>

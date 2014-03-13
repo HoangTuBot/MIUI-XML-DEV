@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">我信任此应用。</string>
+  <string name="configure">配置</string>
+  <string name="data_received">已接收：</string>
+  <string name="data_transmitted">已发送：</string>
+  <string name="data_value_format">%1$s 字节/%2$s 个数据包</string>
+  <string name="disconnect">断开连接</string>
+  <string name="duration">时长：</string>
+  <string name="legacy_title">已连接 VPN</string>
+  <string name="prompt">“%s”尝试创建 VPN 连接。</string>
+  <string name="session">会话：</string>
+  <string name="warning">继续操作即表示您授予此应用拦截所有网络流量的权限。&lt;b&gt;&amp;#38500;&amp;#38750;&amp;#24744;&amp;#20449;&amp;#20219;&amp;#27492;&amp;#24212;&amp;#29992;&amp;#65292;&amp;#21542;&amp;#21017;&amp;#35831;&amp;#21247;&amp;#25509;&amp;#21463;&amp;#27492;&amp;#35831;&amp;#27714;&amp;#12290;&lt;/b&gt;&amp;#22914;&amp;#26524;&amp;#24744;&amp;#22312;&amp;#19981;&amp;#20449;&amp;#20219;&amp;#35813;&amp;#24212;&amp;#29992;&amp;#30340;&amp;#24773;&amp;#20917;&amp;#19979;&amp;#25509;&amp;#21463;&amp;#20102;&amp;#27492;&amp;#35831;&amp;#27714;&amp;#65292;&amp;#21017;&amp;#21487;&amp;#33021;&amp;#20250;&amp;#38754;&amp;#20020;&amp;#25968;&amp;#25454;&amp;#36973;&amp;#21040;&amp;#24694;&amp;#24847;&amp;#36719;&amp;#20214;&amp;#30423;&amp;#29992;&amp;#30340;&amp;#39118;&amp;#38505;&amp;#12290;</string>
+</resources>

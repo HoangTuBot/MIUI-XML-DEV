@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Saya percayai aplikasi ini.</string>
+  <string name="configure">Konfigurasikan</string>
+  <string name="data_received">Diterima:</string>
+  <string name="data_transmitted">Dihantar:</string>
+  <string name="data_value_format">%1$s bait / %2$s bingkisan</string>
+  <string name="disconnect">Putuskan sambungan</string>
+  <string name="duration">Tempoh:</string>
+  <string name="legacy_title">VPN telah disambungkan</string>
+  <string name="prompt">%s percubaan untuk membuat sambungan VPN.</string>
+  <string name="session">Sesi:</string>
+  <string name="warning">Dengan meneruskan, anda memberi keizinan kepada aplikasi untuk memintas semua trafik rangkaian. &lt;b&gt;JANGAN terima melainkan anda mempercayai aplikasi itu.&lt;/b&gt; Jika tidak, anda akan mengalami risiko data terjejas oleh perisian berniat jahat.</string>
+</resources>

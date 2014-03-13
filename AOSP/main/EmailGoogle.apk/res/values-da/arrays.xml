@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Svar</item>
+        <item>Svar alle</item>
+        <item>Videresend</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Gennemført</item>
+        <item>Ingen forbindelse.</item>
+        <item>Det var ikke muligt at logge ind.</item>
+        <item>Sikkerhedsfejl.</item>
+        <item>Det var ikke muligt at synkronisere.</item>
+        <item>Intern fejl</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>System</item>
+        <item>Ofte anvendt</item>
+        <item>Alle mapper</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Nyere</item>
+        <item>Ældre</item>
+        <item>Samtaleliste</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Vis nyere samtale efter sletning</item>
+        <item>Vis ældre samtale efter sletning</item>
+        <item>Vis samtalelisten efter sletning</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Vis kun arkiverede</item>
+        <item>Vis kun slettede</item>
+        <item>Vis arkiverede og slettede</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Vis kun arkiverede</item>
+        <item>Vis kun slettede</item>
+        <item>Vis arkiverede og slettede</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Lillebitte tekst</item>
+        <item>Lille tekst</item>
+        <item>Tekst i normal størrelse</item>
+        <item>Stor tekst</item>
+        <item>Stor tekst</item>
+    </string-array>
+</resources>

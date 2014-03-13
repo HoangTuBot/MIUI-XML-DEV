@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"タップすると最近使用したアイテムとおすすめアイテムが表示されます。
+
+サイズを変えるには押し続けてから指を離して青い点をドラッグします。"</string>
+  <string name="custom_workspace_cling_description_2">タップして詳細を見る</string>
+  <string name="custom_workspace_cling_title_1">自分のGoogle Playライブラリ…</string>
+  <string name="custom_workspace_cling_title_2">これらはGoogleのおすすめです…</string>
+</resources>

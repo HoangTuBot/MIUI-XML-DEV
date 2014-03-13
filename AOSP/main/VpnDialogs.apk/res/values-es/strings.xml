@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Confío en esta aplicación.</string>
+  <string name="configure">Configurar</string>
+  <string name="data_received">Recibido:</string>
+  <string name="data_transmitted">Enviado:</string>
+  <string name="data_value_format">%1$s bytes / %2$s paquetes</string>
+  <string name="disconnect">Desconectar</string>
+  <string name="duration">Duración:</string>
+  <string name="legacy_title">VPN conectada</string>
+  <string name="prompt">La aplicación %s intenta crear una conexión VPN.</string>
+  <string name="session">Sesión:</string>
+  <string name="warning">Si continúas, la aplicación podrá interceptar todo el tráfico de red. &lt;b&gt;Si no conf&amp;#237;as en la aplicaci&amp;#243;n, NO debes instalarla.&lt;/b&gt; En caso contrario, te arriesgas a que el software malintencionado intercepte tus datos.</string>
+</resources>

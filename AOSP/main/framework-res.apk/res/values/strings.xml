@@ -185,9 +185,12 @@ Do you want to close it?"</string>
   <string name="config_dreamsDefaultComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
   <string name="config_ethernet_iface_regex">eth\\d</string>
   <string name="config_fusedLocationProviderPackageName">com.android.location.fused</string>
+  <string name="config_geocoderProviderPackageName">@null</string>
+  <string name="config_geofenceProviderPackageName">@null</string>
   <string name="config_isoImagePath"/>
   <string name="config_mms_user_agent"/>
   <string name="config_mms_user_agent_profile_url"/>
+  <string name="config_networkLocationProviderPackageName">@null</string>
   <string name="config_ntpServer">2.android.pool.ntp.org</string>
   <string name="config_tether_apndata"/>
   <string name="config_useragentprofile_url"/>
@@ -248,6 +251,7 @@ using %s"</string>
   <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="default_sms_application">com.android.mms</string>
   <string name="default_text_encoding">Latin-1</string>
+  <string name="default_wallpaper_component">@null</string>
   <string name="delete">Delete</string>
   <string name="deleteText">Delete</string>
   <string name="deny">Deny</string>
@@ -1437,6 +1441,7 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="sync_too_many_deletes">Delete limit exceeded</string>
   <string name="sync_too_many_deletes_desc">There are %1$d deleted items for %2$s, account %3$s. What do you want to do?</string>
   <string name="sync_undo_deletes">Undo the deletes</string>
+  <string name="system_ui_date_pattern">@string/icu_abbrev_wday_month_day_no_year</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Touch to set up.</string>
   <string name="tethered_notification_title">Tethering or hotspot active</string>

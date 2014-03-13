@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Chạm để xem các mục gần đây — cộng với các mục bổ sung đã thêm cho bạn!
+ 
+Để đổi k.thước, nhấn và giữ rồi tiếp tục và kéo các chấm xanh."</string>
+  <string name="custom_workspace_cling_description_2">Chạm để tìm hiểu thêm.</string>
+  <string name="custom_workspace_cling_title_1">Đây là thư viện trên Google Play…</string>
+  <string name="custom_workspace_cling_title_2">Đây là các đề xuất của Google…</string>
+</resources>

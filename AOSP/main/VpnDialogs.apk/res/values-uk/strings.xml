@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Я довіряю цій програмі.</string>
+  <string name="configure">Налаштувати</string>
+  <string name="data_received">Отримано:</string>
+  <string name="data_transmitted">Надіслано:</string>
+  <string name="data_value_format">Байтів: %1$s / пакетів: %2$s</string>
+  <string name="disconnect">Від’єднати</string>
+  <string name="duration">Тривалість:</string>
+  <string name="legacy_title">Мережу VPN під’єднано</string>
+  <string name="prompt">Спроб створити з’єднання з мережею VPN: %s.</string>
+  <string name="session">Сеанс:</string>
+  <string name="warning">Продовжуючи, ви дозволяєте цій програмі перехоплювати весь трафік мережі. &lt;b&gt;&amp;#1053;&amp;#1045; &amp;#1087;&amp;#1086;&amp;#1075;&amp;#1086;&amp;#1076;&amp;#1078;&amp;#1091;&amp;#1081;&amp;#1090;&amp;#1077;&amp;#1089;&amp;#1103;, &amp;#1103;&amp;#1082;&amp;#1097;&amp;#1086; &amp;#1074;&amp;#1080; &amp;#1085;&amp;#1077; &amp;#1076;&amp;#1086;&amp;#1074;&amp;#1110;&amp;#1088;&amp;#1103;&amp;#1108;&amp;#1090;&amp;#1077; &amp;#1094;&amp;#1110;&amp;#1081; &amp;#1087;&amp;#1088;&amp;#1086;&amp;#1075;&amp;#1088;&amp;#1072;&amp;#1084;&amp;#1110;.&lt;/b&gt; &amp;#1030;&amp;#1085;&amp;#1072;&amp;#1082;&amp;#1096;&amp;#1077; &amp;#1108; &amp;#1085;&amp;#1077;&amp;#1073;&amp;#1077;&amp;#1079;&amp;#1087;&amp;#1077;&amp;#1082;&amp;#1072; &amp;#1087;&amp;#1086;&amp;#1096;&amp;#1082;&amp;#1086;&amp;#1076;&amp;#1078;&amp;#1077;&amp;#1085;&amp;#1085;&amp;#1103; &amp;#1074;&amp;#1072;&amp;#1096;&amp;#1080;&amp;#1093; &amp;#1076;&amp;#1072;&amp;#1085;&amp;#1080;&amp;#1093; &amp;#1096;&amp;#1082;&amp;#1110;&amp;#1076;&amp;#1083;&amp;#1080;&amp;#1074;&amp;#1080;&amp;#1084; &amp;#1087;&amp;#1088;&amp;#1086;&amp;#1075;&amp;#1088;&amp;#1072;&amp;#1084;&amp;#1085;&amp;#1080;&amp;#1084; &amp;#1079;&amp;#1072;&amp;#1073;&amp;#1077;&amp;#1079;&amp;#1087;&amp;#1077;&amp;#1095;&amp;#1077;&amp;#1085;&amp;#1085;&amp;#1103;&amp;#1084;.</string>
+</resources>

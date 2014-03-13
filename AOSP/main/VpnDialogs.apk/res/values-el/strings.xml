@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Θεωρώ αυτήν την εφαρμογή αξιόπιστη.</string>
+  <string name="configure">Διαμόρφωση</string>
+  <string name="data_received">Λήφθηκε:</string>
+  <string name="data_transmitted">Στάλθηκε:</string>
+  <string name="data_value_format">%1$s byte / %2$s πακέτα</string>
+  <string name="disconnect">Αποσύνδεση</string>
+  <string name="duration">Διάρκεια:</string>
+  <string name="legacy_title">Το VPN συνδέθηκε</string>
+  <string name="prompt">Η εφαρμογή %s επιχειρεί να δημιουργήσει μια σύνδεση VPN.</string>
+  <string name="session">Περίοδος σύνδεσης</string>
+  <string name="warning">Αν συνεχίσετε, θα παραχωρήσετε στην εφαρμογή την άδεια να παρεμβάλλεται σε όλη την κυκλοφορία του δικτύου. &lt;b&gt;&amp;#924;&amp;#919;&amp;#925; &amp;#945;&amp;#960;&amp;#959;&amp;#948;&amp;#949;&amp;#967;&amp;#952;&amp;#949;&amp;#943;&amp;#964;&amp;#949;, &amp;#949;&amp;#954;&amp;#964;&amp;#972;&amp;#962; &amp;#954;&amp;#945;&amp;#953; &amp;#945;&amp;#957; &amp;#952;&amp;#949;&amp;#969;&amp;#961;&amp;#949;&amp;#943;&amp;#964;&amp;#949; &amp;#964;&amp;#951;&amp;#957; &amp;#949;&amp;#966;&amp;#945;&amp;#961;&amp;#956;&amp;#959;&amp;#947;&amp;#942; &amp;#945;&amp;#958;&amp;#953;&amp;#972;&amp;#960;&amp;#953;&amp;#963;&amp;#964;&amp;#951;.&lt;/b&gt; &amp;#916;&amp;#953;&amp;#945;&amp;#966;&amp;#959;&amp;#961;&amp;#949;&amp;#964;&amp;#953;&amp;#954;&amp;#940;, &amp;#948;&amp;#953;&amp;#945;&amp;#964;&amp;#961;&amp;#941;&amp;#967;&amp;#949;&amp;#964;&amp;#949; &amp;#964;&amp;#959;&amp;#957; &amp;#954;&amp;#943;&amp;#957;&amp;#948;&amp;#965;&amp;#957;&amp;#959; &amp;#960;&amp;#945;&amp;#961;&amp;#945;&amp;#946;&amp;#943;&amp;#945;&amp;#963;&amp;#951;&amp;#962; &amp;#964;&amp;#969;&amp;#957; &amp;#948;&amp;#949;&amp;#948;&amp;#959;&amp;#956;&amp;#941;&amp;#957;&amp;#969;&amp;#957; &amp;#963;&amp;#945;&amp;#962; &amp;#945;&amp;#960;&amp;#972; &amp;#954;&amp;#945;&amp;#954;&amp;#972;&amp;#946;&amp;#959;&amp;#965;&amp;#955;&amp;#959; &amp;#955;&amp;#959;&amp;#947;&amp;#953;&amp;#963;&amp;#956;&amp;#953;&amp;#954;&amp;#972;.</string>
+</resources>

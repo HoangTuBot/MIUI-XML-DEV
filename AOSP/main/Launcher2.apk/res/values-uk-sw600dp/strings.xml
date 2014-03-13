@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Тут можна побачити останні використані додатки та інше!
+ 
+Щоб змінити розмір, натисніть і утримуйте віджет, потім відпустіть і перетягніть сині крапки."</string>
+  <string name="custom_workspace_cling_description_2">Торкніться, щоб дізнатися більше.</string>
+  <string name="custom_workspace_cling_title_1">Це ваша бібліотека Google Play…</string>
+  <string name="custom_workspace_cling_title_2">Це пропозиції від Google…</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_nfc_enabled">NFC-გააქტიურებული.</string>
+  <string name="app_name">NFC სერვისი</string>
+  <string name="beam_canceled">სხივით გადაცემა გაუქმდა</string>
+  <string name="beam_complete">სხივით გადაცემა დასრულდა</string>
+  <string name="beam_failed">სხივით გადაცემა დასრულდა</string>
+  <string name="beam_handover_not_supported">მიმღების მოწყობილობას დიდი ფაილების სხივით გადაცემის მხარდაჭერა არ გააჩნია.</string>
+  <string name="beam_outgoing">სხივით გადაცემა...</string>
+  <string name="beam_progress">შემომავალი სხივი...</string>
+  <string name="beam_touch_to_view">შეეხეთ სანახავად</string>
+  <string name="beam_try_again">ისევ მიაახლოვეთ მოწყობილობები ერთმანეთს</string>
+  <string name="cancel">გაუქმება</string>
+  <string name="complete_with">დასრულდეს აპით:</string>
+  <string name="confirm_pairing">დარწმუნებული ხართ, რომ გსურთ დააწყვილოთ Bluetooth მოწყობილობა %1$s?</string>
+  <string name="connect_headset_failed">დაკავშირება ვერ მოხერხდა</string>
+  <string name="connected_headset">დაკავშირებულია</string>
+  <string name="connecting_headset">მიმდინარეობს დაკავშირება</string>
+  <string name="could_not_use_app">%1$s-ის გამოყენება ვერ მოხერხდა.</string>
+  <string name="default_pay_app_removed">შეხებით გადახდის თქვენი რჩეული სერვისი წაიშალა. გსურთ, აირჩიოთ სხვა?</string>
+  <string name="disconnected_headset">კავშირი გაწყვეტილია</string>
+  <string name="disconnecting_headset">მიმდინარეობს გათიშვა</string>
+  <string name="failed_to_enable_bt">Bluetooth-ის გააქტიურება ვერ მოხერხდა</string>
+  <string name="inbound_me_profile_text">შეეხეთ, რათა დაამატოთ ეს პიროვნება კონტაქტად.</string>
+  <string name="inbound_me_profile_title">NFC-თ მიღებული კონტაქტი</string>
+  <string name="nfcUserLabel">NFC</string>
+  <string name="outbound_me_profile_text">შეეხეთ, რომ მიაწოდოთ ამ პიროვნებას თქვენი საკონტაქტო ინფორმაცია.</string>
+  <string name="outbound_me_profile_title">NFC ინტერაქცია დასრულდა</string>
+  <string name="pair_no">არა</string>
+  <string name="pair_yes">დიახ</string>
+  <string name="pairing_headset">დაწყვილება…</string>
+  <string name="pairing_headset_failed">დაწყვილება ვერ მოხერხდა</string>
+  <string name="pay_with">გადახდა აპით:</string>
+  <string name="tap_again_to_complete">შეეხეთ ისევ, რათა დაასრულოთ %1$s-ის გამოყენებით</string>
+  <string name="tap_again_to_pay">შეეხეთ ისევ, რათა გადაიხადოთ %1$s-ის გამოყენებით</string>
+  <string name="touch">შეეხეთ სხივით გადასაცემად</string>
+  <string name="transaction_failure">ამ ტრანზაქციის დასრულება %1$s-ით ვერ მოხერხდა.</string>
+</resources>

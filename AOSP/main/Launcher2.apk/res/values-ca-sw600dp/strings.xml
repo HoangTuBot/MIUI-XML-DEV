@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Fes un toc per visualitzar els elements que has utilitzat recentment i uns quants extres que t'hi hem afegit!
+ 
+Per canviar la mida, mantén-lo premut, deixa'l anar i arrossega els punts blaus."</string>
+  <string name="custom_workspace_cling_description_2">Toca per obtenir més informació.</string>
+  <string name="custom_workspace_cling_title_1">Això és la teva biblioteca de Google Play…</string>
+  <string name="custom_workspace_cling_title_2">Aquests són suggeriments de Google…</string>
+</resources>

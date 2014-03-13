@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_nfc_enabled">NFC didayakan.</string>
+  <string name="app_name">Perkhidmatan Nfc</string>
+  <string name="beam_canceled">Pancar dibatalkan</string>
+  <string name="beam_complete">Pancar selesai</string>
+  <string name="beam_failed">Pancar tidak lengkap</string>
+  <string name="beam_handover_not_supported">Peranti penerima tidak menyokong pemindahan fail besar melalui pancaran.</string>
+  <string name="beam_outgoing">Memancar...</string>
+  <string name="beam_progress">Pancar sedang masuk...</string>
+  <string name="beam_touch_to_view">Sentuh untuk melihat</string>
+  <string name="beam_try_again">Dekatkan peranti semula</string>
+  <string name="cancel">Batal</string>
+  <string name="confirm_pairing">Adakah anda pasti anda mahu memadankan peranti Bluetooth %1$s?</string>
+  <string name="connect_headset_failed">Tidak dapat menyambung</string>
+  <string name="connected_headset">Disambungkan</string>
+  <string name="connecting_headset">Menyambung</string>
+  <string name="disconnected_headset">Diputuskan sambungan</string>
+  <string name="disconnecting_headset">Memutuskan sambungan</string>
+  <string name="failed_to_enable_bt">Tidak dapat mendayakan Bluetooth</string>
+  <string name="inbound_me_profile_text">Sentuh untuk menambah orang ini sebagai kenalan.</string>
+  <string name="inbound_me_profile_title">Kenalan diterima melalui NFC</string>
+  <string name="nfcUserLabel">Nfc</string>
+  <string name="outbound_me_profile_text">Sentuh untuk memberi orang ini maklumat hubungan anda.</string>
+  <string name="outbound_me_profile_title">Interaksi NFC lengkap</string>
+  <string name="pair_no">Tidak</string>
+  <string name="pair_yes">Ya</string>
+  <string name="pairing_headset">Menjadikan pasangan</string>
+  <string name="pairing_headset_failed">Tidak dapat berpasangan</string>
+  <string name="touch">Sentuh untuk memancarkan</string>
+</resources>

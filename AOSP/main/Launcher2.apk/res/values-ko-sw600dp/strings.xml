@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"최근에 사용한 항목을 보려면 터치하세요. Google이 최근에 추가한 기능도 확인할 수 있습니다.
+ 
+크기를 조정하려면 손가락으로 길게 눌렀다가 뗀 다음 파란색 점을 드래그하세요."</string>
+  <string name="custom_workspace_cling_description_2">자세한 내용을 보려면 터치하세요.</string>
+  <string name="custom_workspace_cling_title_1">Google Play 라이브러리입니다.</string>
+  <string name="custom_workspace_cling_title_2">Google이 추천하는 콘텐츠입니다…</string>
+</resources>

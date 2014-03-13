@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="clock_settings">ຕັ້ງຄ່າໂມງ Polar</string>
+  <string name="palette">ຖາດສີ</string>
+  <string name="palette_black_c">ຫລຸມດຳ (ເຄື່ອນໄຫວ)</string>
+  <string name="palette_gray">ເຫຼັກ</string>
+  <string name="palette_halloween">ພາຍໝາກອຶ</string>
+  <string name="palette_matrix">ຈໍຂຽວ</string>
+  <string name="palette_oceanic">ເລເຊີສີຟ້າ</string>
+  <string name="palette_violet">ທ່ຽງຄືນ</string>
+  <string name="palette_white_c">ໝີຂາວ (ເຄື່ອນໄຫວ)</string>
+  <string name="palette_zenburn">ສະຫຼັດຫມາກໄມ້ຂອງມະນຸດຕ່າງດາວ</string>
+  <string name="show_seconds">ສະແດງວິນາທີ</string>
+  <string name="variable_line_width">ຄວາມກວ້າງຂອງແວນແຕກຕ່າງກັນ</string>
+  <string name="wallpaper_clock">ໂມງ Polar</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">ສະແດງວັນທີ ແລະເວລາໄປຕາມມຸມໂຄ້ງຂອງໂມງ: ເດືອນ, ມື້, ຊົ່ວໂມງ, ນາທີ ແລະວິນາທີ.</string>
+  <string name="wallpaper_fall">ນ້ຳ</string>
+  <string name="wallpaper_fall_author">Google</string>
+  <string name="wallpaper_fall_desc">ໃບໄມ້ຫລົ່ນ&lt;br&gt; ໄປໃສ່ອ່າງນ້ຳຕີງທາງລຸ່ມ:&lt;br&gt; ຈຳລອງພາບພື້ນຫຼັງແບບຂອງເຫລວ</string>
+  <string name="wallpaper_galaxy">ຈັກກະວານ</string>
+  <string name="wallpaper_galaxy_author">Google</string>
+  <string name="wallpaper_galaxy_desc">ຈັກກະວານທີ່ມີດາວຫຼາຍດວງກຳລັງມຸນອ້ອມໆ.</string>
+  <string name="wallpaper_grass">ຫຍ້າ</string>
+  <string name="wallpaper_grass_author">Google</string>
+  <string name="wallpaper_grass_desc">ໃບຫຍ້າທີ່ເໜັງຄ່ອຍໆໄປກັບທ້ອງຟ້າຍາມເຊົ້າ ຫຼືຍາມຄ່ຳ.</string>
+  <string name="wallpaper_nexus">Nexus</string>
+  <string name="wallpaper_nexus_author">Google</string>
+  <string name="wallpaper_nexus_desc">ເຂົ້າໄປເບິ່ງພາຍໃນລະບົບເຄືອຂ່າຍ.</string>
+  <string name="wallpaper_walkaround">ເບິ່ງຊອດ</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">ເບິ່ງຊອດໂທລະສັບຂອງທ່ານ ແລະຍ່າງໄປມາໂດຍບໍ່ຕ້ອງສ່ຽງກັບອຸບັດຕິເຫດ.</string>
+  <string name="wallpapers">ພາບພື້ນຫຼັງແບບເຄື່ອນໄຫວ Android</string>
+</resources>

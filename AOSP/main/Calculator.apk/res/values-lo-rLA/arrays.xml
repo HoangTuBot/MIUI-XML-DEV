@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>ວົງເລັບຊ້າຍ</item>
+        <item>ວົງເລັບຂວາ</item>
+        <item>ແຟັກໂຕຣຽວ</item>
+        <item>ໂລກາຣິດທຳມະຊາດ</item>
+        <item>ໂລກາຣິດ</item>
+        <item>ຮາກ</item>
+        <item>ຫານກັບ</item>
+        <item>ຄູນກັບ</item>
+        <item>ບວກ</item>
+        <item>ລົບ</item>
+        <item> ຈຸດ </item>
+        <item>ຂຶ້ນກຳລັງ</item>
+        <item>ຕັງ</item>
+        <item>ຊິນ</item>
+        <item>ໂກຊິນ</item>
+        <item>ປີ້</item>
+        <item>ເທົ່າກັບ</item>
+    </string-array>
+</resources>

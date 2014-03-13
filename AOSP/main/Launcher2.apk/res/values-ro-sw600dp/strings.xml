@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Atingeţi ca să afişaţi articole recente, plus unele lucruri adăugate!
+ 
+Redimensionaţi apăsând lung, eliberând şi trăgând punctele albastre."</string>
+  <string name="custom_workspace_cling_description_2">Atingeţi pentru a afla mai multe.</string>
+  <string name="custom_workspace_cling_title_1">Aceasta e biblioteca Google Play…</string>
+  <string name="custom_workspace_cling_title_2">Acestea sunt sugestiile Google…</string>
+</resources>

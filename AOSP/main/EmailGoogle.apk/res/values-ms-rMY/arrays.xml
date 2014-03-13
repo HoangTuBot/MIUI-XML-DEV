@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Balas</item>
+        <item>Balas kepada semua</item>
+        <item>Kirim semula</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Berjaya</item>
+        <item>Tiada sambungan.</item>
+        <item>Tidak dapat melog masuk.</item>
+        <item>Ralat keselamatan.</item>
+        <item>Tidak dapat menyegerakkan.</item>
+        <item>Ralat Dalaman</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistem</item>
+        <item>Kerap Digunakan</item>
+        <item>Semua Folder</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Lebih baharu</item>
+        <item>Lebih lama</item>
+        <item>Senarai perbualan</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Tunjukkan perbualan yang lebih baharu selepas memadamkan</item>
+        <item>Tunjukkan perbualan yang lebih lama selepas memadamkan</item>
+        <item>Tunjukkan senarai perbualan selepas memadamkan</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Tunjukkan arkib sahaja</item>
+        <item>Tunjukkan padam sahaja</item>
+        <item>Tunjukkan arkib &amp; padam</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Tunjukkan arkib sahaja</item>
+        <item>Tunjukkan padam sahaja</item>
+        <item>Tunjukkan arkib &amp; padam</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Teks amat kecil</item>
+        <item>Teks kecil</item>
+        <item>Teks bersaiz biasa</item>
+        <item>Teks besar</item>
+        <item>Teks amat besar</item>
+    </string-array>
+</resources>

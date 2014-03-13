@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>អាប៊ីហ្សង់</item>
+        <item>អាក្រា</item>
+        <item>អាឌីអាបេបា</item>
+        <item>អាល់ចាហ្គើ</item>
+        <item>ប្លាន់ទីរ៉េ</item>
+        <item>ប្រាសាវីល</item>
+        <item>កៃរ៉ូ</item>
+        <item>កាសា​ប្លាំងកា</item>
+        <item>កុណាគីរី</item>
+        <item>ដាកា</item>
+        <item>ដាអាសាឡាំ</item>
+        <item>ហ្ស៊ីបូទី</item>
+        <item>ហ្វ្រីថោន</item>
+        <item>ហ្គាបូរ៉ូន</item>
+        <item>ហារ៉ារ៉េ</item>
+        <item>ចូហានីសប៊ឺហ្គ</item>
+        <item>កាំប៉ាឡា</item>
+        <item>ខាទុំ</item>
+        <item>គីហ្គាលី</item>
+        <item>គីនស្ហាសា</item>
+        <item>ឡាហ្គូស</item>
+        <item>ម៉ាសេរុយ</item>
+        <item>ម៉ូហ្គាឌីស្យូ</item>
+        <item>ណៃរ៉ូប៊ី</item>
+        <item>សៅតូមេ</item>
+        <item>ទីមបុកទុ</item>
+        <item>ទ្រីប៉ូលី</item>
+        <item>ទុយនីស</item>
+        <item>អាន់ចូរេ</item>
+        <item>មិនដូសា</item>
+        <item>អារុបា</item>
+        <item>អាសាំងសុន</item>
+        <item>បារបាដូស</item>
+        <item>បេលីស</item>
+        <item>បូកូតា</item>
+        <item>ប៊ុយណូស៊ែ</item>
+        <item>ខាន់ឃុន</item>
+        <item>ការ៉ាកាស</item>
+        <item>កៃម៉ែន</item>
+        <item>ជីកាហ្គោ</item>
+        <item>កូស្តារីកា</item>
+        <item>ខ្យួរ៉ាសៅ</item>
+        <item>ដសុនគ្រីក</item>
+        <item>ឌីនវើ</item>
+        <item>ឌិត្រុត</item>
+        <item>ដូមីនីកា</item>
+        <item>អិដម៉ុនតុន</item>
+        <item>អែលសាល់វ៉ាឌ័រ</item>
+        <item>ហ្វតាល់លេសា</item>
+        <item>ហ្គ្រេនទួក</item>
+        <item>ហ្គ្រើណាដ</item>
+        <item>កាន់តេម៉ាឡា</item>
+        <item>ហ្គុយ៉ាណា</item>
+        <item>ហាលីហ្វា្កក់</item>
+        <item>ហាវ៉ាណា</item>
+        <item>អ៊ីនដ្យាណាប៉ូលី</item>
+        <item>ណុក</item>
+        <item>ម៉ារិនហ្គោ</item>
+        <item>ប៉េទ័រសប៊ើក</item>
+        <item>ទីក្រុង ថែល</item>
+        <item>វិវ៉ាយ</item>
+        <item>វីនសេនីស</item>
+        <item>វីណាម៉ាក</item>
+        <item>ឃីងស្តូន</item>
+        <item>ញូវស្ត្រាសេណូរ៉ាឌឹឡាប៉ាស</item>
+        <item>លីម៉ា</item>
+        <item>ឡូសអាន់ជឺឡេស</item>
+        <item>ល្វីសវីល</item>
+        <item>ម៉ាណាវ៉ា</item>
+        <item>ម៉ាទីនីក</item>
+        <item>មិនដូសា</item>
+        <item>មេថ្លាកាថ្លា</item>
+        <item>ម៉ិចស៊ីកូស៊ីធី</item>
+        <item>ម៉ុងតេរី</item>
+        <item>ម៉ុងតេវីដេអូ</item>
+        <item>ម៉ុងត្រេអាល់</item>
+        <item>ណែសឹ</item>
+        <item>ញូវយ៉ក</item>
+        <item>បូឡា</item>
+        <item>សិនធ័រ</item>
+        <item>ញូវសាឡិម</item>
+        <item>ប៉ាណាម៉ា</item>
+        <item>ហ្វូនីក</item>
+        <item>ព័រអេស្ប៉ាញ</item>
+        <item>ព័រអូប៉្រាំង</item>
+        <item>ព័រតូរីកូ</item>
+        <item>សាន់តូដូមីងកូ</item>
+        <item>សៅប៉ូឡូ</item>
+        <item>សាំងចន</item>
+        <item>សាំងឃីត</item>
+        <item>សាំង​លូស្យា</item>
+        <item>សាំងថូម៉ាស</item>
+        <item>ទីយ្យូអាណា</item>
+        <item>តូរ៉ន់តូ</item>
+        <item>វ៉ានខូវើ</item>
+        <item>វីនីផេក</item>
+        <item>សៅប៉ូល</item>
+        <item>ឡុងយាប្យេន</item>
+        <item>អាល់ម៉ាទី</item>
+        <item>អាម៉ាន</item>
+        <item>អាណាឌី</item>
+        <item>អាក់ទូ</item>
+        <item>បាកដាដ</item>
+        <item>បារ៉ែន</item>
+        <item>បាគូ</item>
+        <item>បាងកក</item>
+        <item>បេរូត</item>
+        <item>កុលកាតា</item>
+        <item>ដាម៉ាស</item>
+        <item>ដាក្កា</item>
+        <item>ឌុយបៃ</item>
+        <item>កាសា</item>
+        <item>ហេប្រន</item>
+        <item>ហូជីមីញ</item>
+        <item>ហុងកុង</item>
+        <item>អ៊ីស្តង់ប៊ុល</item>
+        <item>ហ្សាការតា</item>
+        <item>ហ្ស៊េរុយសាឡិម</item>
+        <item>កាប៊ុល</item>
+        <item>ការ៉ាជី</item>
+        <item>កដ្ឋមណ្ឌូ</item>
+        <item>គូឡាឡាំពួ</item>
+        <item>គុយវ៉ែត</item>
+        <item>ម៉ាកាវ</item>
+        <item>ម៉ានីល</item>
+        <item>ម៉ាស្កាត</item>
+        <item>ភ្នំពេញ</item>
+        <item>ព្យុងយ៉ាង</item>
+        <item>កាតា</item>
+        <item>រ៉ង់ហ្គូន</item>
+        <item>រីយ៉ាដ</item>
+        <item>សៃហ្គន</item>
+        <item>សេអ៊ូល</item>
+        <item>សៀងហៃ</item>
+        <item>សិង្ហបុរី</item>
+        <item>តៃប៉ិ</item>
+        <item>តេហេរ៉ង់</item>
+        <item>តេអាវី</item>
+        <item>តូក្យូ</item>
+        <item>អ៊ូឡង់បាទ័រ</item>
+        <item>ប៊ឺមុយដា</item>
+        <item>កាណារី</item>
+        <item>កាប់វែរ</item>
+        <item>រីក្យាវីក</item>
+        <item>ស្តេនលី</item>
+        <item>អាឌីឡៃ</item>
+        <item>ប្រីសបាណេ</item>
+        <item>កង់បេរ៉ា</item>
+        <item>ដាវីន</item>
+        <item>ម៉ែលប៊ើន</item>
+        <item>ញូសៅវែល</item>
+        <item>ភើធ</item>
+        <item>ឃ្វីនសឡែន</item>
+        <item>ស៊ីដនី</item>
+        <item>វិចតូរីយ៉ា</item>
+        <item>ញូហ្វោនឡែន</item>
+        <item>សាសកាត់ឆេវ៉ាន</item>
+        <item>កោះ​ខាងកើត</item>
+        <item>អាំស្ទែដាំ</item>
+        <item>អង់ដូរ៉ា</item>
+        <item>អាថែន</item>
+        <item>បែលហ្វាស</item>
+        <item>បែលក្រាដ</item>
+        <item>បែរឡាំង</item>
+        <item>ប្រាទីស្លាវ៉ា</item>
+        <item>ព្រុចសែល</item>
+        <item>ប៊ុយការ៉េស</item>
+        <item>ប៊ុយដាប៉ែស</item>
+        <item>ជីស៊ីណូ</item>
+        <item>កូប៉ិនហាក</item>
+        <item>ឌុយប្លាំង</item>
+        <item>ហ្គីប្រាលតា</item>
+        <item>ហែលស៊ិនគី</item>
+        <item>អែលអុហ្វមែន</item>
+        <item>អ៊ីស្តង់ប៊ុល</item>
+        <item>កៀវ</item>
+        <item>លីសបោន</item>
+        <item>ឡុងដ៍</item>
+        <item>លុចសំបួរ</item>
+        <item>ម៉ាឌ្រីដ</item>
+        <item>ម៉ាល់ត៍</item>
+        <item>មីនស្កិ៍</item>
+        <item>ម៉ូណាកូ</item>
+        <item>មូស្គូ</item>
+        <item>អូស្លូ</item>
+        <item>ប៉ារីស</item>
+        <item>ប្រាក</item>
+        <item>រីហ្គា</item>
+        <item>រ៉ូម</item>
+        <item>សង់ម៉ារីណូ</item>
+        <item>សារ៉ាយ៉េវ៉ូ</item>
+        <item>ស៊ីមហ្វើរ៉ុប៉ូល</item>
+        <item>ស្កុបជេ</item>
+        <item>សូហ៊្វីយ៉ា</item>
+        <item>ស្តុកខុល</item>
+        <item>តាលិន</item>
+        <item>វ៉ាទីកង់</item>
+        <item>វីយែន</item>
+        <item>វីលនីញូស</item>
+        <item>វ៉ាសូវី</item>
+        <item>សាគ្រែប</item>
+        <item>ហ្ស៊ូរីច</item>
+        <item>អង់តាណាណារីវ</item>
+        <item>ម៉ាល់ឌីវ</item>
+        <item>ម៉ូរីទ្យស</item>
+        <item>អក់ឡែន</item>
+        <item>ហ្វីជី</item>
+        <item>ហ្គាំ</item>
+        <item>ហូណូលូលូ</item>
+        <item>គីរីទីម៉ាទី</item>
+        <item>នូមា</item>
+        <item>សាម៉ៅ</item>
+        <item>តាហិទី</item>
+        <item>អង់ទីហ្គា</item>
+        <item>អូស្ទីន</item>
+        <item>បូស្តុន</item>
+        <item>កាល់ការី</item>
+        <item>កូឡុំប៊ូស</item>
+        <item>ដាឡាស</item>
+        <item>ណុក្សវីល</item>
+        <item>មិមហ្វីស</item>
+        <item>ម៉ៃអាមី</item>
+        <item>មីនៀប៉ូលី</item>
+        <item>អូតាវ៉ា</item>
+        <item>ហ្វីឡាដេហ្វីយ៉ា</item>
+        <item>ផតឡែន</item>
+        <item>សាន់ឌីអេហ្គូ</item>
+        <item>សាន់ហ្វ្រាន់ស៊ីស្កូ</item>
+        <item>ទីក្រុង​សលឡេក</item>
+        <item>សាន់ហ្សូស៊េ</item>
+        <item>សាន់សាល់វ៉ាឌ័រ</item>
+        <item>ស៊ីថល</item>
+        <item>សាំងល្វី</item>
+        <item>វ៉ាស៊ីនតោន</item>
+        <item>ហូសតុន</item>
+        <item>សាន់អង់តូនីញ៉ូ</item>
+        <item>ជែកសុនវីល</item>
+        <item>បាលទីម័រ</item>
+        <item>ណាសវីល</item>
+        <item>មីលវូគី</item>
+        <item>ទីក្រុង​អូក្លាហូម៉ា</item>
+        <item>ឡាសវេហ្កា</item>
+        <item>អាល់ប៊ូគើក</item>
+        <item>ទូសុន</item>
+        <item>សាក្រាមិនតូ</item>
+        <item>អាត្លង់តា</item>
+        <item>ក្លេវិលែន</item>
+        <item>ញូវ​អូលីន</item>
+        <item>តាមប៉ា</item>
+        <item>ពីតប៊ើក</item>
+        <item>ស៊ីនស៊ីណាទី</item>
+        <item>ម៉ោនធីនវីយូ</item>
+        <item>រីណូ</item>
+        <item>ទីក្រុង​បឡេករ៉ុក</item>
+        <item>ដូហា</item>
+        <item>ប៉េកាំង</item>
+        <item>ម៉ុមបៃ</item>
+        <item>ដែលី</item>
+        <item>អូសាកា</item>
+        <item>ឡាហ័រ</item>
+        <item>សាណាអា</item>
+        <item>បាសេឡូណា</item>
+        <item>មុយនិច</item>
+        <item>មីលែន</item>
+        <item>ហ្វ្រង់ឃើដ</item>
+        <item>ហាណូយ</item>
+        <item>អង់ការា</item>
+        <item>បេងហ្គឺលឺរុ</item>
+        <item>ប្រាស៊ីលីយ៉ា</item>
+        <item>ខាបថោន</item>
+        <item>អ៊ីស្លាម៉ាបាដ</item>
+        <item>រីអូឌឹជិនីរ៉ូ</item>
+        <item>អាន់​អាប័រ</item>
+        <item>បូលឌ័រ</item>
+        <item>ខេមប្រីដ</item>
+        <item>ឃើកឡែន</item>
+        <item>ម៉ាឌីសុន</item>
+        <item>គ័ងស៊ូ</item>
+        <item>អ៊ីឌើរ៉ាបាដ</item>
+        <item>រីស្តូន</item>
+        <item>បេឡូរីហ្សូនធ៍</item>
+        <item>សាន់ត្យាហ្គោ</item>
+        <item>ម៉ុនរ៉ូវីយ៉ា</item>
+        <item>កូឡុំបូ</item>
+        <item>ជីហួហួ</item>
+        <item>សាវ៉ាឌ័រ</item>
+        <item>ហ្គូហ្គោណ</item>
+        <item>មេន​ជីស្ទ័រ</item>
+        <item>កៀវ</item>
+        <item>សាំង ភីធឺបឺរ</item>
+        <item>ក្រាគូវ</item>
+        <item>វ៉រ៉ូល័រ</item>
+        <item>ហាមបឺរ</item>
+        <item>អ៊ូឡូ</item>
+        <item>ហ្វៃហ្វា</item>
+        <item>សាំង​ហ្សង់</item>
+        <item>តេហ្គូស៊ីហ្កាល់ប៉ា</item>
+        <item>ប៉ារ៉ាម៉ារីបូ</item>
+        <item>គីតូ</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>នៅសល់​តិច​ជាង​មួយ​នាទី</item>
+        <item>នៅសល់ %1$s</item>
+        <item>នៅសល់ %2$s</item>
+        <item>នៅសល់ %1$s %2$s</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>បាន​កំណត់​សំឡេង​រោទ៍​តិច​ជាង​១​នាទី គិត​ចាប់ពី​ឥឡូវ។</item>
+        <item>បាន​កំណត់​សំឡេង​រោទ៍​ក្នុង​រយៈពេល %1$s ទៀត។</item>
+        <item>បាន​កំណត់​សំឡេង​រោទ៍​ក្នុង​រយៈពេល %2$s ទៀត។</item>
+        <item>បាន​កំណត់​សំឡេង​រោទ៍​ក្នុង​រយៈពេល %1$s និង %2$s ទៀត។</item>
+        <item>បាន​កំណត់​សំឡេង​រោទ៍​ក្នុង​រយៈពេល %3$s ទៀត។</item>
+        <item>បាន​កំណត់​សំឡេង​រោទ៍​ក្នុង​រយៈពេល %1$s និង %3$s ទៀត។</item>
+        <item>បាន​កំណត់​សំឡេង​រោទ៍​ក្នុង​រយៈពេល %2$s និង %3$s ទៀត។</item>
+        <item>បាន​កំណត់​សំឡេង​រោទ៍​ក្នុង​រយៈពេល %1$s, %2$s, និង %3$s ទៀត។</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>៥ នាទី</item>
+        <item>១០ នាទី</item>
+        <item>១៥ នាទី</item>
+        <item>២០ នាទី</item>
+        <item>២៥ នាទី</item>
+        <item>៣០ នាទី</item>
+        <item>កុំ</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>ផ្អាក</item>
+        <item>បោះបង់</item>
+        <item>មិន​ធ្វើ</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>អ្នក​កំពុង​ស្ថិត​ក្នុង​ល្បឿន​ដ៏​អស្ចារ្យ។</item>
+        <item>រីករាយ​ជាមួយ​លទ្ធផល​ការងារ​របស់​អ្នក។</item>
+        <item>Androids គឺ​លឿន ប៉ុន្តែ​មិន​លឿន​ដូច​អ្នក​ទេ!</item>
+        <item>ធុញ!</item>
+        <item>L33t ដង។</item>
+        <item>ល្បឿន​ដ៏​អស្ចារ្យ។</item>
+        <item>តោះ!​ប្ដូរ​ពេលវេលា​ម្ដងទៀត។</item>
+        <item>លោត​ទៅ​ឆ្វេង។</item>
+        <item>អ្នក​មាន​ក្ដារ​សម្រាប់​ល្បឿន។</item>
+        <item>ល្បឿន​ពន្លឺ។</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>អាណាឡូក</item>
+        <item>ឌីជីថល</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>កោះម៉ាសាល</item>
+        <item>កោះ​មីតវ៉េ</item>
+        <item>ហាវ៉ៃ</item>
+        <item>អាឡាស្កា</item>
+        <item>ម៉ោង​ប៉ាស៊ីហ្វិក</item>
+        <item>ទីយ្យូអាណា</item>
+        <item>អារីហ្សូណា</item>
+        <item>ជីហួហួ</item>
+        <item>ម៉ោង​តំបន់​ភ្នំ</item>
+        <item>អាមេរិក​កណ្ដាល</item>
+        <item>ម៉ោង​ភាគ​កណ្ដាល</item>
+        <item>ទីក្រុង​ម៉ិចស៊ីកូ</item>
+        <item>សាសកាតជិវ៉ាន</item>
+        <item>បូហ្គោតា</item>
+        <item>ម៉ោង​ភាគ​ខាងកើត</item>
+        <item>វ៉េណេស៊ុយអេឡា</item>
+        <item>ម៉ោង​អាត្លង់ទិក (បាបាដុស)</item>
+        <item>ម៉ោង​អាត្លង់ទិក (កាណាដា)</item>
+        <item>ម៉ាណាអ៊ួស</item>
+        <item>សាន់ទីអេហ្គោ</item>
+        <item>ញូហ្វោនឡែន</item>
+        <item>ប្រាស៊ីលីយ៉ា</item>
+        <item>ប៊ុយណូស៊ែ</item>
+        <item>ហ្គ្រោអង់ឡង់</item>
+        <item>ម៉ុងតេវីដេអូ</item>
+        <item>អាត្លង់ទិកកណ្តាល</item>
+        <item>អាសូរ៉េស</item>
+        <item>កោះ​កាបវែរ</item>
+        <item>កាសាប្លាំងកា</item>
+        <item>ឡុងដ៍, ឌុយប្លាំង</item>
+        <item>អាំស្ទែរដាំ, បែរឡាំង</item>
+        <item>បែលក្រាដ</item>
+        <item>ព្រុចសែល</item>
+        <item>សារ៉ាយ៉េវ៉ូ</item>
+        <item>វីនដុក</item>
+        <item>ម៉ោង​អាហ្វ្រិក​ខាងលិច</item>
+        <item>អាម៉ាន់, ហ្ស៊កដានី</item>
+        <item>អាថែន, អ៊ីស្តង់ប៊ុល</item>
+        <item>បេរូត, លីបង់</item>
+        <item>គែរ</item>
+        <item>ហែលស៊ិនគី</item>
+        <item>ហ្ស៊េរុយសាឡិម</item>
+        <item>មីនស្កិ៍</item>
+        <item>ហារ៉ារ៉េ</item>
+        <item>បាកដាដ</item>
+        <item>មូស្គូ</item>
+        <item>គុយវ៉ែត</item>
+        <item>ណៃរ៉ូប៊ី</item>
+        <item>តេហេរ៉ង់</item>
+        <item>បាគូ</item>
+        <item>ប៊ីលីស៊ី</item>
+        <item>យ៉េរ៉េវ៉ាន់</item>
+        <item>ឌុយបៃ</item>
+        <item>កាប៊ុល</item>
+        <item>អ៊ីស្លាម៉ាបាដ, ការ៉ាជី</item>
+        <item>អ៊ុយរ៉ាលស្កិ៍</item>
+        <item>យ៉េកាធឺរិនប៊ើក</item>
+        <item>កុលកាតា</item>
+        <item>ស្រីលង្កា</item>
+        <item>កដ្ឋមណ្ឌូ</item>
+        <item>អាស្តាណា</item>
+        <item>យ៉ង់ហ្គូន</item>
+        <item>ក្រាសនុយ៉ាក</item>
+        <item>បាងកក</item>
+        <item>ប៉េកាំង</item>
+        <item>ហុងកុង</item>
+        <item>អ៊ីឃឺត</item>
+        <item>គូឡាឡាំពួ</item>
+        <item>ភឺធ</item>
+        <item>តៃប៉ិ</item>
+        <item>សេអ៊ូល</item>
+        <item>តូក្យូ, អូសាកា</item>
+        <item>យ៉ាកូត</item>
+        <item>អាឌីឡៃ</item>
+        <item>ដាវីន</item>
+        <item>ប្រីសបាណេ</item>
+        <item>ហូបាត</item>
+        <item>ស៊ីដនី, កង់បេរ៉ា</item>
+        <item>វ័រលាដីវ៉ូស្តុក</item>
+        <item>ហ្គាំ</item>
+        <item>ម៉ាហ្គាដាន</item>
+        <item>អក់ឡែន</item>
+        <item>ហ្វីជី</item>
+        <item>តុងហ្គា</item>
+        <item>ហ្សាការតា</item>
+    </string-array>
+</resources>

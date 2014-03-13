@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Respon</item>
+        <item>Respon a tots</item>
+        <item>Reenvia</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Correcte</item>
+        <item>Sense connexió.</item>
+        <item>"No s'ha pogut iniciar la sessió."</item>
+        <item>Error de seguretat.</item>
+        <item>"No s'ha pogut sincronitzar."</item>
+        <item>Error intern</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistema</item>
+        <item>Utilitzades amb freqüència</item>
+        <item>Totes les carpetes</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Més recent</item>
+        <item>Més antiga</item>
+        <item>Llista de converses</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Mostra una conversa més recent després de suprimir</item>
+        <item>Mostra una conversa més antiga després de suprimir</item>
+        <item>Mostra la llista de converses després de suprimir</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>"Mostra només l'arxivament"</item>
+        <item>Mostra només la supressió</item>
+        <item>"Mostra l'arxivament i la supressió"</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>"Mostra només l'arxivament"</item>
+        <item>Mostra només la supressió</item>
+        <item>"Mostra l'arxivament i la supressió"</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Text minúscul</item>
+        <item>Text petit</item>
+        <item>Text de mida normal</item>
+        <item>Text gran</item>
+        <item>Text enorme</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"Érintse meg az elemek és extrák megtekintéséhez!
+
+Átméretezéshez: nyomja meg, tartsa lenyomva, engedje fel, és húzza a kék pöttyöket."</string>
+  <string name="custom_workspace_cling_description_2">Érintse meg a további információkért.</string>
+  <string name="custom_workspace_cling_title_1">Ez az Ön Google Play-könyvtára...</string>
+  <string name="custom_workspace_cling_title_2">Ezek a Google javaslatai...</string>
+</resources>

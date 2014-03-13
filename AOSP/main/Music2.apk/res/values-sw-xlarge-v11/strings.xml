@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add_to_playlist_title">Ongeza kwenye orodha mpya ya kucheza</string>
+  <string name="emptyplaylist">Gusa ili kucheza</string>
+  <string name="new_playlist_title">Orodha mpya ya kucheza</string>
+  <string name="no_music_heading">Maktaba yako ya muziki iko tupu</string>
+  <string name="no_music_setup_uploader_body">Ongeza mkusanyiko wako binafsi kwenye Beta Muziki na uufikie papo hapo kutoka kwenye kompyuta zozote zilizounganishwa au kifaa cha Android.</string>
+  <string name="no_music_setup_usb_body">"Unganisha kifaa chako kwenye kompyuta yako kwa kebo ya USB ili kunakili faili za muziki kwenye kifaa chako. Ikiwa una Macintosh, pakua  programu ya bila malipo ya Uhamishaji Faili wa Android kwenye kompyuta yako kwanza."</string>
+  <string name="ringtone_menu">Tumia kama mlio wa simu</string>
+</resources>

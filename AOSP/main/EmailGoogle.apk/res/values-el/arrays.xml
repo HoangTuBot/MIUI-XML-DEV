@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Απάντηση</item>
+        <item>Απάντ. σε όλους</item>
+        <item>Προώθηση</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Επιτυχία</item>
+        <item>Δεν υπάρχει σύνδεση.</item>
+        <item>Δεν ήταν δυνατή η σύνδεση.</item>
+        <item>Σφάλμα ασφαλείας.</item>
+        <item>Δεν ήταν δυνατός ο συγχρονισμός.</item>
+        <item>Εσωτερικό σφάλμα</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Σύστημα</item>
+        <item>Συχνά χρησιμοπ.</item>
+        <item>Όλοι οι φάκελοι</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Νεότερες</item>
+        <item>Παλαιότερες</item>
+        <item>Λίστα συνομιλιών</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Εμφάνιση νεότερης συνομιλίας μετά τη διαγραφή</item>
+        <item>Εμφάνιση παλαιότερης συνομιλίας μετά τη διαγραφή</item>
+        <item>Εμφάνιση λίστας συνομιλιών μετά τη διαγραφή</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Εμφάνιση μόνο αρχειοθέτησης</item>
+        <item>Εμφάνιση μόνο διαγραφής</item>
+        <item>Εμφάνιση αρχειοθέτησης και διαγραφής</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Εμφάνιση μόνο αρχειοθέτησης</item>
+        <item>Εμφάνιση μόνο διαγραφής</item>
+        <item>Εμφάνιση αρχειοθέτησης και διαγραφής</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Μικροσκοπικό κείμενο</item>
+        <item>Μικρό κείμενο</item>
+        <item>Κείμενο κανονικού μεγέθους</item>
+        <item>Μεγάλο κείμενο</item>
+        <item>Τεράστιο κείμενο</item>
+    </string-array>
+</resources>

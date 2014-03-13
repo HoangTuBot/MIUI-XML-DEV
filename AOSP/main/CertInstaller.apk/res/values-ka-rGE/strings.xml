@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">სერთიფიკატის დაყენების პროგრამა</string>
+  <string name="cert_is_added">%s დაყენებულია.</string>
+  <string name="cert_missing_error">ვერ დაინსტალირდა, რადგანაც სერთიფიკატის ფაილის პოვნა ვერ მოხერხდა.</string>
+  <string name="cert_not_saved">სერთიფიკატი არ არის დაინსტალირებული.</string>
+  <string name="cert_read_error">ინსლატაცია ვერ განხორციელდა, რადგან სერტიფიკატის ფაილის წაკითხვა ვერ მოხერხდა.</string>
+  <string name="cert_too_large_error">დაყენება ვერ მოხერხდა, რადგან სერთიფიკატი ზედმეტად დიდია.</string>
+  <string name="credential_info">პაკეტი შეიცავს:</string>
+  <string name="credential_name">სერტიფიკატის სახელი:</string>
+  <string name="credential_password">სერტიფიკატების ამოსაღებად აკრიფეთ პაროლი.</string>
+  <string name="credential_usage_label">ავტორიზაციის მონაცემების გამოყენება:</string>
+  <string name="extracting_pkcs12">ამოღება...</string>
+  <string name="invalid_cert">სერტიფიკატი არასწორია.</string>
+  <string name="n_cacrts">%d CA სერტიფიკატები</string>
+  <string name="name_char_error">"დაბეჭდეთ  სახელი, რომელიც შეიცავს მხოლოდ ასოებსა და ციფრებს."</string>
+  <string name="name_credential_dialog_title">სერტიფიკატის დასახელება</string>
+  <string name="name_empty_error">შეიყვანეთ სახელი.</string>
+  <string name="no_cert_file_found">USB მეხსიერებაში სერთიფიკატის ფაილი ვერ მოიძებნა.</string>
+  <string name="no_cert_to_saved">არ არის დასაყენებელი სერთიფიკატი.</string>
+  <string name="one_cacrt">ერთი CA სერთიფიკატი</string>
+  <string name="one_usercrt">გამოიყენეთ მომხმარებლის სერტიფიკატი</string>
+  <string name="one_userkey">მომხმარებლის ერთი გასაღები</string>
+  <string name="only_primary_user_allowed">მხოლოდ მოწყობილობის მფლობელს შეუძლია სერტიფიკატების ინსტალაცია.</string>
+  <string name="p12_description">სერთიფიკატები გასაღების საცავში PKCS12.</string>
+  <string name="password_empty_error">პაროლის აკრეფა.</string>
+  <string name="password_error">აკრიფეთ სწორი პაროლი.</string>
+  <string name="pick_file_title">აირჩიეთ სერტიფიკატი</string>
+  <string name="pkcs12_file_password_dialog_title">%s-დან ამოღება</string>
+  <string name="pkcs12_password_dialog_title">სერთიფიკატის ამოღება</string>
+  <string name="sdcard_not_present">USB მეხსიერება მიუწვდომელია.</string>
+  <string name="storage_error">სერთიფიკატი ვერ შეინახა. ხელახლა რომ სცადოთ, შეეხეთ OK-ს.</string>
+  <string name="unable_to_save_cert">სერთიფიკატის შენახვა ვერ მოხერხდა. ავტორიზაციის მონაცემთა საცავი არ არის გააქტიურებული ან სათანადოდ ინიცირებული.</string>
+</resources>

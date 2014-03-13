@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">გსურთ, შერჩეული ერთეულების წაშლა?</item>
+        <item quantity="one">წაიშალოს არჩეული ერთეული?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">არჩეულია %1$d</item>
+        <item quantity="zero">არჩეულია %1$d</item>
+        <item quantity="one">არჩეულია %1$d</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">არჩეულია %1$d</item>
+        <item quantity="zero">არჩეულია %1$d</item>
+        <item quantity="one">არჩეულია %1$d</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">არჩეულია %1$d</item>
+        <item quantity="zero">არჩეულია %1$d</item>
+        <item quantity="one">არჩეულია %1$d</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d წამი</item>
+        <item quantity="one">1 წამი</item>
+    </plurals>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add_to_playlist_title">ወደ አዲስ አጫዋች ዝርዝር ያክሉ</string>
+  <string name="emptyplaylist">ለማጫወት ይንኩ</string>
+  <string name="new_playlist_title">አዲስ አጫዋች ዝርዝር</string>
+  <string name="no_music_heading">የሙዚቃ ቤተ-መጽሐፍትዎ ባዶ ነው።</string>
+  <string name="no_music_setup_uploader_body">የግል ስብስብዎን ወደ ሙዚቃ ቤታ ላይ ያክሉ እና በፍጥነት ከማንኛውም ኮምፒዩተር ወይም የAndroid መሣሪያ ላይ ይድረሱበት።</string>
+  <string name="no_music_setup_usb_body">የሙዚቃ ፋይሎችን ወደ መሣሪያዎ ለመገልበጥ መሣሪያዎን ከኮምፒዩተርዎ ጋር በዩ ኤስ ቢ ገመድ ያገናኙት። Macintosh ካለዎት መጀመሪያ ነፃው የAndroid ፋይል ማስተላለፊያ መተግበሪያውን ያውርዱ።</string>
+  <string name="ringtone_menu">እንደ የደወል ቅላጼ ተጠቀምበት</string>
+</resources>

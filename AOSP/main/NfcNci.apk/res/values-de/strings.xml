@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_nfc_enabled">NFC aktiviert</string>
+  <string name="app_name">NFC-Dienst</string>
+  <string name="beam_canceled">Beam abgebrochen</string>
+  <string name="beam_complete">Beamen abgeschlossen</string>
+  <string name="beam_failed">Beam wurde nicht abgeschlossen.</string>
+  <string name="beam_handover_not_supported">Das Gerät des Empfängers unterstützt die Übertragung großer Dateien durch Beamen nicht.</string>
+  <string name="beam_outgoing">Beamen...</string>
+  <string name="beam_progress">Beam wird empfangen...</string>
+  <string name="beam_touch_to_view">Zum Anzeigen berühren</string>
+  <string name="beam_try_again">Geräte erneut nebeneinander platzieren</string>
+  <string name="cancel">Abbrechen</string>
+  <string name="complete_with">Durchführen mit</string>
+  <string name="confirm_pairing">Möchten Sie das Bluetooth-Gerät %1$s wirklich koppeln?</string>
+  <string name="connect_headset_failed">Verbindung nicht möglich</string>
+  <string name="connected_headset">Verbunden</string>
+  <string name="connecting_headset">Verbindung wird hergestellt</string>
+  <string name="could_not_use_app">Fehler bei der Verwendung von %1$s</string>
+  <string name="default_pay_app_removed">Der von Ihnen bevorzugte Dienst für das mobile Bezahlen wurde entfernt. Möchten Sie einen anderen auswählen?</string>
+  <string name="disconnected_headset">Verbindung getrennt</string>
+  <string name="disconnecting_headset">Verbindung wird aufgehoben</string>
+  <string name="failed_to_enable_bt">Bluetooth konnte nicht aktiviert werden.</string>
+  <string name="inbound_me_profile_text">Zum Hinzufügen dieser Person als Kontakt tippen</string>
+  <string name="inbound_me_profile_title">Kontakt per NFC erhalten</string>
+  <string name="nfcUserLabel">NFC</string>
+  <string name="outbound_me_profile_text">Zum Weitergeben Ihrer Kontaktinformationen an diese Person tippen</string>
+  <string name="outbound_me_profile_title">NFC-Interaktion abgeschlossen</string>
+  <string name="pair_no">Nein</string>
+  <string name="pair_yes">Ja</string>
+  <string name="pairing_headset">Pairing erfolgt</string>
+  <string name="pairing_headset_failed">Pairing nicht möglich</string>
+  <string name="pay_with">Zahlen mit</string>
+  <string name="tap_again_to_complete">Halten Sie Ihr Gerät erneut ans Terminal, um den Vorgang mit %1$s durchzuführen.</string>
+  <string name="tap_again_to_pay">Halten Sie Ihr Gerät erneut ans Terminal, um mit %1$s zu bezahlen.</string>
+  <string name="touch">Zum Beamen berühren</string>
+  <string name="transaction_failure">Diese Transaktion konnte nicht mit %1$s durchgeführt werden.</string>
+</resources>

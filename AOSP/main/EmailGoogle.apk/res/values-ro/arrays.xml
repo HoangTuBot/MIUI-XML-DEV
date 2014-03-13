@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Răspundeţi</item>
+        <item>Răsp. tuturor</item>
+        <item>Redirecţionaţi</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Finalizat</item>
+        <item>Nicio conexiune.</item>
+        <item>Conectarea a eşuat.</item>
+        <item>Eroare de securitate.</item>
+        <item>Sincronizarea a eşuat.</item>
+        <item>Eroare internă</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistem</item>
+        <item>Utilizate des</item>
+        <item>Toate dosarele</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Mai noi</item>
+        <item>Mai vechi</item>
+        <item>Lista de conversaţii</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Afişaţi conversaţia mai nouă după ce ştergeţi</item>
+        <item>Afişaţi conversaţia mai veche după ce ştergeţi</item>
+        <item>Afişaţi lista de conversaţii după ce ştergeţi</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Afișați numai opțiunea Arhivați</item>
+        <item>Afișați numai opțiunea Ștergeți</item>
+        <item>Afișați opțiunile Arhivați și Ștergeți</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Afișați numai opțiunea Arhivați</item>
+        <item>Afișați numai opțiunea Ștergeți</item>
+        <item>Afișați opțiunile Arhivați și Ștergeți</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Text foarte mic</item>
+        <item>Text mic</item>
+        <item>Text cu dimensiuni normale</item>
+        <item>Text mare</item>
+        <item>Text foarte mare</item>
+    </string-array>
+</resources>

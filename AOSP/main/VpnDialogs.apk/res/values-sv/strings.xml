@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Jag litar på den här appen.</string>
+  <string name="configure">Konfigurera</string>
+  <string name="data_received">Mottaget:</string>
+  <string name="data_transmitted">Skickat:</string>
+  <string name="data_value_format">%1$s byte/%2$s paket</string>
+  <string name="disconnect">Koppla från</string>
+  <string name="duration">Längd:</string>
+  <string name="legacy_title">VPN är anslutet</string>
+  <string name="prompt">%s försöker skapa en VPN-anslutning.</string>
+  <string name="session">Session:</string>
+  <string name="warning">Om du fortsätter ger du appen tillåtelse att stoppa all nätverkstrafik. &lt;b&gt;Godk&amp;#228;nn inte s&amp;#229;vida du inte litar p&amp;#229; appen.&lt;/b&gt; Annars riskerar du att skadlig programvara kommer &amp;#229;t din information.</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_nfc_enabled">NFC otettu käyttöön.</string>
+  <string name="app_name">Nfc Service</string>
+  <string name="beam_canceled">Jako peruutettu</string>
+  <string name="beam_complete">Sisältö jaettu</string>
+  <string name="beam_failed">Jakoa ei suoritettu valmiiksi</string>
+  <string name="beam_handover_not_supported">Vastaanottajan laite ei tue suurten tiedostojen siirtoa sisällön jakamisen kautta.</string>
+  <string name="beam_outgoing">Jaetaan sisältöä…</string>
+  <string name="beam_progress">Saapuva sisällönjakopyyntö...</string>
+  <string name="beam_touch_to_view">Kosketa ja näytä</string>
+  <string name="beam_try_again">Yhdistä laitteet uudelleen</string>
+  <string name="cancel">Peruuta</string>
+  <string name="complete_with">Käytettävä sovellus:</string>
+  <string name="confirm_pairing">Oletko varma, että haluat muodostaa laiteparin Bluetooth-laitteeseen %1$s?</string>
+  <string name="connect_headset_failed">Ei yhteyttä</string>
+  <string name="connected_headset">Yhdistetty</string>
+  <string name="connecting_headset">Yhdistetään</string>
+  <string name="could_not_use_app">Sovelluksen %1$s käyttö epäonnistui.</string>
+  <string name="default_pay_app_removed">Napauttamalla maksamiseen valitsemasi palvelu poistettiin. Haluatko valita toisen?</string>
+  <string name="disconnected_headset">Yhteys katkaistu</string>
+  <string name="disconnecting_headset">Katkaistaan yhteyttä</string>
+  <string name="failed_to_enable_bt">Bluetooth-yhteyttä ei voi ottaa käyttöön</string>
+  <string name="inbound_me_profile_text">Lisää tämä henkilö yhteystietoihin koskettamalla.</string>
+  <string name="inbound_me_profile_title">Kontakti saatu NFC:n välityksellä</string>
+  <string name="nfcUserLabel">NFC</string>
+  <string name="outbound_me_profile_text">Anna tälle henkilölle yhteystietosi koskettamalla.</string>
+  <string name="outbound_me_profile_title">NFC-vuorovaikutus suoritettu</string>
+  <string name="pair_no">Ei</string>
+  <string name="pair_yes">Kyllä</string>
+  <string name="pairing_headset">Laiteparia muodostetaan</string>
+  <string name="pairing_headset_failed">Laiteparia ei voi muodostaa</string>
+  <string name="pay_with">Maksusovellus:</string>
+  <string name="tap_again_to_complete">Maksa sovelluksella %1$s napauttamalla uudelleen.</string>
+  <string name="tap_again_to_pay">Maksa sovelluksella %1$s napauttamalla uudelleen.</string>
+  <string name="touch">Kosketa palkkia</string>
+  <string name="transaction_failure">Tapahtuman suorittaminen sovelluksella %1$s epäonnistui.</string>
+</resources>

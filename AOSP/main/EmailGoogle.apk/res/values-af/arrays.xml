@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Antwoord</item>
+        <item>Antwoord almal</item>
+        <item>Stuur aan</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Sukses</item>
+        <item>Geen verbinding nie.</item>
+        <item>Kon nie aanmeld nie.</item>
+        <item>Sekuriteitsfout</item>
+        <item>Kon nie sinkroniseer nie.</item>
+        <item>Interne fout</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Stelsel</item>
+        <item>Dikwels gebruik</item>
+        <item>Alle vouers</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Jonger</item>
+        <item>Ouer</item>
+        <item>Gespreklys</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Wys jonger gesprek nadat jy uitvee</item>
+        <item>Wys ouer gesprek nadat jy uitvee</item>
+        <item>Wys gespreklys nadat jy uitvee</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Wys net geargiveer</item>
+        <item>Wys net uitgevee</item>
+        <item>Wys geargiveer en uitgevee</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Wys net geargiveer</item>
+        <item>Wys net uitgevee</item>
+        <item>Wys geargiveer en uitgevee</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Piepklein teks</item>
+        <item>Klein teks</item>
+        <item>Normale grootte teks</item>
+        <item>Groot teks</item>
+        <item>Baie groot teks</item>
+    </string-array>
+</resources>

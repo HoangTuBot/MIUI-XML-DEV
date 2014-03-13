@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Atbildēt</item>
+        <item>Atbildēt visiem</item>
+        <item>Pārsūtīt</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Izpildīta veiksmīgi</item>
+        <item>Nav savienojuma.</item>
+        <item>Neizdevās pierakstīties.</item>
+        <item>Drošības kļūda.</item>
+        <item>Neizdevās sinhronizēt.</item>
+        <item>Iekšējā kļūda</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistēma</item>
+        <item>Visbiežāk izmantotās</item>
+        <item>Visas mapes</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Jaunākas</item>
+        <item>Vecākas</item>
+        <item>Sarunu saraksts</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Rādīt jaunāku sarunu pēc dzēšanas</item>
+        <item>Rādīt vecāku sarunu pēc dzēšanas</item>
+        <item>Rādīt sarunu sarakstu pēc dzēšanas</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Rādīt tikai arhivēšanas darbību</item>
+        <item>Rādīt tikai dzēšanas darbību</item>
+        <item>Rādīt arhivēšanas un dzēšanas darbību</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Rādīt tikai arhivēšanas darbību</item>
+        <item>Rādīt tikai dzēšanas darbību</item>
+        <item>Rādīt arhivēšanas un dzēšanas darbību</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Niecīga izmēra teksts</item>
+        <item>Maza izmēra teksts</item>
+        <item>Parasta izmēra teksts</item>
+        <item>Liela izmēra teksts</item>
+        <item>Milzīga izmēra teksts</item>
+    </string-array>
+</resources>

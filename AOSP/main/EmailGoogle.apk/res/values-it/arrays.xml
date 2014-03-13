@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Rispondi</item>
+        <item>Rispondi a tutti</item>
+        <item>Inoltra</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Operazione riuscita</item>
+        <item>Nessuna connessione.</item>
+        <item>Accesso non riuscito.</item>
+        <item>Errore di protezione.</item>
+        <item>Sincronizzazione non riuscita.</item>
+        <item>Errore interno</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistema</item>
+        <item>Usate spesso</item>
+        <item>Tutte le cartelle</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Più recente</item>
+        <item>Meno recente</item>
+        <item>Elenco conversazioni</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Mostra conversazione più recente dopo eliminazione</item>
+        <item>Mostra conversazione meno recente dopo eliminazione</item>
+        <item>Mostra elenco conversazioni dopo eliminazione</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Mostra solo Archivia</item>
+        <item>Mostra solo Elimina</item>
+        <item>Mostra Archivia ed Elimina</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Mostra solo Archivia</item>
+        <item>Mostra solo Elimina</item>
+        <item>Mostra Archivia ed Elimina</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Testo molto piccolo</item>
+        <item>Testo piccolo</item>
+        <item>Testo di dimensioni normali</item>
+        <item>Testo grande</item>
+        <item>Testo molto grande</item>
+    </string-array>
+</resources>

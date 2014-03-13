@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Confio nesse aplicativo.</string>
+  <string name="configure">Configurar</string>
+  <string name="data_received">Recebido:</string>
+  <string name="data_transmitted">Enviado:</string>
+  <string name="data_value_format">%1$s bytes/%2$s pacotes</string>
+  <string name="disconnect">Desconectar</string>
+  <string name="duration">Duração:</string>
+  <string name="legacy_title">O VPN está conectado</string>
+  <string name="prompt">%s tentativas para criar uma conexão VPN.</string>
+  <string name="session">Sessão:</string>
+  <string name="warning">Aceitando, você dá ao aplicativo permissão para interceptar todo o tráfego de rede.&lt;b&gt;Recuse, a menos que voc&amp;#234; confie no aplicativo.&lt;/b&gt; Caso contr&amp;#225;rio, voc&amp;#234; corre o risco de ter seus dados comprometidos por um software malicioso.</string>
+</resources>

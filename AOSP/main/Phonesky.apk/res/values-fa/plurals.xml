@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">%1$d برنامه به‌روزرسانی شد</item>
+        <item quantity="one">%1$d برنامه به‌روزرسانی شد</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">%1$d به‌روزرسانی موجود است</item>
+        <item quantity="one">%1$d به‌روزرسانی موجود است</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">%1$d به‌روزرسانی نیاز به تأیید دارد</item>
+        <item quantity="one">%1$d به‌روزرسانی نیاز به تأیید دارد</item>
+    </plurals>
+    <plurals name="search_results_estimated_in_bucket">
+        <item quantity="other">%1$d نتیجه</item>
+        <item quantity="one">%1$d نتیجه</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">%1$d به‌روزرسانی جدید</item>
+        <item quantity="one">%1$d به‌روزرسانی جدید</item>
+    </plurals>
+    <plurals name="content_description_rated">
+        <item quantity="other">رتبه‌بندی شما: %1$s ستاره</item>
+        <item quantity="one">رتبه‌بندی شما: %1$s ستاره</item>
+    </plurals>
+    <plurals name="plus_one_multiple_global">
+        <item quantity="other">%1$s نفر این را 1+ کردند.</item>
+        <item quantity="one">%1$s نفر این را 1+ کردند.</item>
+    </plurals>
+    <plurals name="plus_one_multiple_friends">
+        <item quantity="other">%1$s و %2$s نفر دیگر این را 1+ کردند.</item>
+        <item quantity="one">%1$s و %2$s نفر دیگر این را 1+ کردند.</item>
+    </plurals>
+    <plurals name="star_rating_review_bold_formatting">
+        <item quantity="other">&amp;lt;b>%1$s&amp;lt;/b> %2$d ستاره داد</item>
+        <item quantity="one">&amp;lt;b>%1$s&amp;lt;/b> %2$d ستاره داد</item>
+    </plurals>
+    <plurals name="plus_one_circles_listing_dialog_more">
+        <item quantity="other">+%1$s نفر دیگر</item>
+        <item quantity="one">+%1$d نفر دیگر</item>
+    </plurals>
+    <plurals name="my_apps_selected">
+        <item quantity="other">%1$d مورد انتخاب شد</item>
+    </plurals>
+    <plurals name="update_all_prompt_title">
+        <item quantity="other">به‌روزرسانی‌ها موجودند</item>
+        <item quantity="one">به‌روزرسانی موجود است</item>
+    </plurals>
+    <plurals name="update_all_prompt">
+        <item quantity="other">%1$d به‌روزرسانی برای شما موجود است. مایلید آنها را نصب کنید؟</item>
+        <item quantity="one">%1$d به‌روزرسانی برای شما موجود است. مایلید آن را نصب کنید؟</item>
+    </plurals>
+</resources>

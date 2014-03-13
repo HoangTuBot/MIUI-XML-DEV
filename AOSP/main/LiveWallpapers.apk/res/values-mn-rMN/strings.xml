@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="clock_settings">Туйлын цагний тохиргоо</string>
+  <string name="palette">Өнгөний самбар</string>
+  <string name="palette_black_c">Хар нүх(динамик)</string>
+  <string name="palette_gray">Төмөр</string>
+  <string name="palette_halloween">Хулуутай боов</string>
+  <string name="palette_matrix">Ногоон дэлгэц</string>
+  <string name="palette_oceanic">Цэнхэр лазер</string>
+  <string name="palette_violet">Шөнө дунд</string>
+  <string name="palette_white_c">Цагаан баавгай (динамик)</string>
+  <string name="palette_zenburn">Харь гаригийн жимсний салат</string>
+  <string name="show_seconds">Секунд харуулна</string>
+  <string name="variable_line_width">Цагирагийн өргөн янз бүр</string>
+  <string name="wallpaper_clock">Туйлын цаг</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Огноо болон цаг цагийн зүүний эсрэг нумаар үзүүлнэ: сар, өдөр, цаг, минум болон секунд.</string>
+  <string name="wallpaper_fall">Ус</string>
+  <string name="wallpaper_fall_author">Google</string>
+  <string name="wallpaper_fall_desc">Намрын навчис унана&lt;br/&gt; Доор нь урсах цөөрөм&lt;br/&gt; Ар гадаргуу шингэн Zen</string>
+  <string name="wallpaper_galaxy">Galaxy</string>
+  <string name="wallpaper_galaxy_author">Google</string>
+  <string name="wallpaper_galaxy_desc">Зөөлөн эргэлдэх оддоос бүтсэн галакси.</string>
+  <string name="wallpaper_grass">Өвс</string>
+  <string name="wallpaper_grass_author">Google</string>
+  <string name="wallpaper_grass_desc">Өдөр болон шөнийн тэнгэрийн өмнө өвсний түрий зөөлөн найгана.</string>
+  <string name="wallpaper_nexus">Nexus</string>
+  <string name="wallpaper_nexus_author">Google</string>
+  <string name="wallpaper_nexus_desc">Neural network-н доторхыг харах</string>
+  <string name="wallpaper_walkaround">Харах</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Утсаараа шалгаад осол эрсдэлгүй салхинд зугаалах.</string>
+  <string name="wallpapers">Андройд хөдөлгөөнт ханын зураг</string>
+</resources>

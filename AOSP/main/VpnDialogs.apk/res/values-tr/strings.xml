@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Bu uygulamaya güveniyorum.</string>
+  <string name="configure">Yapılandır</string>
+  <string name="data_received">Alınan:</string>
+  <string name="data_transmitted">Gönderilen:</string>
+  <string name="data_value_format">%1$s bayt / %2$s paket</string>
+  <string name="disconnect">Bağlantıyı kes</string>
+  <string name="duration">Süre:</string>
+  <string name="legacy_title">VPN bağlı</string>
+  <string name="prompt">%s, VPN bağlantısı kurmaya çalışıyor.</string>
+  <string name="session">Oturum:</string>
+  <string name="warning">Devam ederek uygulamaya tüm ağ trafiğini kesme iznini veriyorsunuz. &lt;b&gt;Uygulamaya g&amp;#252;venmiyorsan&amp;#305;z kabul ETMEY&amp;#304;N.&lt;/b&gt; Aksi halde k&amp;#246;t&amp;#252; ama&amp;#231;l&amp;#305; yaz&amp;#305;l&amp;#305;mlar verilerinizin g&amp;#252;venli&amp;#287;ini tamamen tehlikeye atabilir.</string>
+</resources>

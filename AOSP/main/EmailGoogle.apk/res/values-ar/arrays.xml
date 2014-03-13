@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>رد</item>
+        <item>رد على الكل</item>
+        <item>إعادة توجيه</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>تم بنجاح</item>
+        <item>لا يتوفر اتصال.</item>
+        <item>تعذر تسجيل الدخول.</item>
+        <item>خطأ أمنى.</item>
+        <item>تعذرت المزامنة</item>
+        <item>خطأ داخلي</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>النظام</item>
+        <item>مستخدمة بشكل متكرر</item>
+        <item>جميع المجلدات</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>أحدث</item>
+        <item>أقدم</item>
+        <item>قائمة المحادثات</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>عرض المحادثة الأحدث بعد الحذف</item>
+        <item>عرض المحادثة الأقدم بعد الحذف</item>
+        <item>عرض قائمة المحادثات بعد الحذف</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>عرض الأرشيف فقط</item>
+        <item>عرض الحذف فقط</item>
+        <item>عرض الأرشيف والحذف</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>عرض الأرشيف فقط</item>
+        <item>عرض الحذف فقط</item>
+        <item>عرض الأرشيف والحذف</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>نص صغير جدًا</item>
+        <item>نص صغير</item>
+        <item>الحجم العادي للنص</item>
+        <item>نص كبير</item>
+        <item>نص ضخم</item>
+    </string-array>
+</resources>

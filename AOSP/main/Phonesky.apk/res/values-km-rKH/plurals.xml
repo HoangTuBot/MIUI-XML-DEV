@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">បាន​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី %1$d</item>
+        <item quantity="one">បាន​ធ្វើ​បច្ចុប្បន្នភាព​​កម្មវិធី %1$d</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">មាន​បច្ចុប្បន្នភាព %1$d</item>
+        <item quantity="one">មាន​បច្ចុប្បន្នភាព %1$d</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">បច្ចុប្បន្នភាព​ %1$d តម្រូវ​ឲ្យ​យល់​ព្រម</item>
+        <item quantity="one">បច្ចុប្បន្នភាព​%1$d តម្រូវ​ឲ្យ​​យល់ព្រម</item>
+    </plurals>
+</resources>

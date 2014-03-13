@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Usaldan seda rakendust.</string>
+  <string name="configure">Seadistamine</string>
+  <string name="data_received">Vastu on võetud:</string>
+  <string name="data_transmitted">Saadetud:</string>
+  <string name="data_value_format">%1$s baiti / %2$s paketti</string>
+  <string name="disconnect">Katkesta ühendus</string>
+  <string name="duration">Kestus:</string>
+  <string name="legacy_title">VPN on ühendatud</string>
+  <string name="prompt">Rakenduse %s katsed luua VPN-ühendust.</string>
+  <string name="session">Seansid</string>
+  <string name="warning">Jätkates annate rakendusele loa jälgida kogu võrguliiklust. &lt;b&gt;&amp;#196;RGE n&amp;#245;ustuge, kui te seda rakendust ei usalda.&lt;/b&gt; Vastasel juhul on oht, et pahavara v&amp;#245;ib kahjustada teie andmeid.</string>
+</resources>

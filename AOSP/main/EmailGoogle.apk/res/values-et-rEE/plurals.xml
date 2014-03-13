@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_conversation">
+        <item quantity="other">Teisalda %1$d meilivestlust</item>
+        <item quantity="one">Meilivestluse teisaldamine</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Mustandid</item>
+        <item quantity="one">Mustand</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Kas kustutada need %1$d meilivestlust?</item>
+        <item quantity="one">Kas kustutada see meilivestlus?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Kas arhiveerida need %1$d meilivestlust?</item>
+        <item quantity="one">Kas arhiveerida see meilivestlus?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Kas kustutada mustandid %1$d vestlusest?</item>
+        <item quantity="one">Kas kustutada mustandid sellest vestlusest?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Tärnid eemaldatakse %1$d meilivestluselt.</item>
+        <item quantity="one">Tärnid eemaldatakse %1$d meilivestluselt.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> summutati.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> summutati.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> meilivestlusest teatatakse kui rämpspostist.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> meilivestlusest teatatakse kui rämpspostist.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> vestlust märgiti mitte-rämpspostiks.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> vestlus märgiti mitte-rämpspostiks.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> üksust märgiti ebaoluliseks.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> üksus märgiti ebaoluliseks.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> vestlust märgiti andmepüügiga seotuks.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> vestlus märgiti andmepüügiga seotuks.</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> arhiveeriti.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> arhiveeriti.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> kustutati.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> kustutati.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Muudetud kaustad.</item>
+        <item quantity="one">Muudetud kaust.</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d uut sõnumit. Kuva.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d vanemat sõnumit</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d on lugemata</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d sõnumit kustutatakse jäädavalt.</item>
+        <item quantity="one">%1$d sõnum kustutatakse jäädavalt.</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Teisaldatud sõnumid</item>
+        <item quantity="one">Teisaldatud sõnum</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d kB</item>
+        <item quantity="one">%d kB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+</resources>

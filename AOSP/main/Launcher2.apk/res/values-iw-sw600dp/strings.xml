@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="custom_workspace_cling_description_1">"גע כדי להציג פריטים שהשתמשת בהם לאחרונה - יחד עם כמה תוספות שהוספנו עבורך!
+
+כדי לשנות את הגודל, לחץ והחזק ולאחר מכן שחרר וגרור את הנקודות הכחולות."</string>
+  <string name="custom_workspace_cling_description_2">גע לקבלת מידע נוסף.</string>
+  <string name="custom_workspace_cling_title_1">זו הספרייה שלך ב-Google Play…</string>
+  <string name="custom_workspace_cling_title_2">אלו הן ההצעות של Google…</string>
+</resources>
