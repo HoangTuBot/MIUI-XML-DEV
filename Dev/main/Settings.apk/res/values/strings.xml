@@ -1518,6 +1518,9 @@ Try the following:
   <string name="privacy_relative">Privacy related</string>
   <string name="privacy_settings">Backup &amp; reset</string>
   <string name="privacy_settings_title">Backup &amp; reset</string>
+  <string name="private_gallery_need_to_unlock">Password required:</string>
+  <string name="private_gallery_recording_intro_header">Draw an unlock pattern:</string>
+  <string name="private_gallery_reset_by_account">To reset your password, sign in to your Xiaomi Account</string>
   <string name="private_sms_need_to_unlock">Password required:</string>
   <string name="private_sms_recording_intro_header">Draw an unlock pattern:</string>
   <string name="private_sms_reset_by_account">To reset your password, sign in to your Xiaomi Account</string>

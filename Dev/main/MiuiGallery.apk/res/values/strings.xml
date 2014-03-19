@@ -525,6 +525,7 @@ album from anywhere.
   <string name="demo_video_folder_display_name">Demo video</string>
   <string name="deny">Reject</string>
   <string name="description">Description</string>
+  <string name="deselect_all">Deselect all</string>
   <string name="details">Details</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
@@ -571,6 +572,7 @@ album from anywhere.
   <string name="facetan">Face Tan</string>
   <string name="fail_hint">Operation failed</string>
   <string name="fail_init_gallery_db_helper">Failed to load Gallery database</string>
+  <string name="fail_to_download_n_items">Fail to download %s</string>
   <string name="fail_to_pick_email">Email invalid</string>
   <string name="fail_to_sync_album">Failed to sync the album to server. Check your network connection.</string>
   <string name="file_not_exist_message">"File doesn't exist"</string>

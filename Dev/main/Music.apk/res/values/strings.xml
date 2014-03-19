@@ -15,10 +15,12 @@
   <string name="audio_picker_title">Choose a song</string>
   <string name="bill_list_fragment_title">Popular</string>
   <string name="buffering">Buffering…</string>
+  <string name="button_add">Add</string>
   <string name="cancel">Cancel</string>
   <string name="channel_list_fragment_title">FM</string>
   <string name="click_to_shuffle">Touch to shuffle all</string>
   <string name="create_new_playlist">New</string>
+  <string name="dialog_button_agree">Agree</string>
   <string name="dialog_button_create_playlist">Create Playlist</string>
   <string name="dialog_button_find_music">Discover new music</string>
   <string name="dialog_button_login">Sign in and sync your music</string>
@@ -41,12 +43,18 @@
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="fail_to_play">Fail to play</string>
   <string name="favorite_playlist">My Favorite</string>
+  <string name="favourite_music_left_half">To add songs to this playlist, tap the</string>
+  <string name="favourite_music_right_half">"Favorite icon to the right of the song's title"</string>
   <string name="file_not_found">"File doesn't exist"</string>
   <string name="find_ktv">Discover KTV</string>
+  <string name="find_music">Discover songs~</string>
+  <string name="find_music_left"/>
+  <string name="find_music_right"/>
   <string name="fragment_more">More</string>
   <string name="function_error">暂时未实现此功能</string>
-  <string name="impunity_declaration">The online music you are about to listen to is from Baidu Online Music Service. Touch Confirm to accept the &lt;a href="http://music.baidu.com/doc/agreement"&gt;terms of use&lt;/a&gt;</string>
-  <string name="impunity_declaration_title">Declaration</string>
+  <string name="go_to_add_music">Add songs~</string>
+  <string name="impunity_declaration">"By using Baidu's online music service, you agree to the "&lt;a href="http://music.baidu.com/doc/agreement"&gt;terms and conditions&lt;/a&gt;.</string>
+  <string name="impunity_declaration_title">Statement and Terms</string>
   <string name="ktv_playlist">My KTV</string>
   <string name="like">Like</string>
   <string name="lrc_search_failed">"Couldn't find lyrics"</string>

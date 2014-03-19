@@ -127,6 +127,7 @@ Over %2$s users have already checked in to MIUI %3$s"</string>
   <string name="system_backup_error_message">MIUI Backup app was not found, please back up your phone manually.</string>
   <string name="system_backup_helper">"Normally, updating MIUI won't affect your phone's internal storage, but we suggest that you back up your phone before applying an update do avoid potential data loss."</string>
   <string name="system_backup_ok_text">Backup</string>
+  <string name="toast_update_failed_hints">Update fails, brush complete package!</string>
   <string name="top_secret_build">Top-secret build</string>
   <string name="update_comment_hint">(optional)</string>
   <string name="update_comment_title">Comment</string>
