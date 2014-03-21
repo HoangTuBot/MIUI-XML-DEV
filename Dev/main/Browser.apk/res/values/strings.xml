@@ -166,6 +166,7 @@
   <string name="delete_bookmark_warning">Delete bookmark \"%s\"?</string>
   <string name="delete_folder">Delete folder</string>
   <string name="delete_multi_bookmarks_alert_title">Confirm to delete the %1$s projects?</string>
+  <string name="delete_quicklink_warning">Delete \"%s\" from quicklink ?</string>
   <string name="disable_autofill">Disable auto-fill</string>
   <string name="do_not_save">Cancel</string>
   <string name="done">Done</string>
@@ -273,6 +274,7 @@
   <string name="miui_function_menu_add_to_bookmark">Bookmark</string>
   <string name="miui_function_menu_add_to_quicklinks">Quicklink</string>
   <string name="miui_function_menu_delete_to_bookmark">Delete bookmark</string>
+  <string name="miui_function_menu_delete_to_quicklinks">Delete quicklink</string>
   <string name="miui_function_menu_find_in_page">Find in page</string>
   <string name="miui_function_menu_share_system">Share</string>
   <string name="miui_startpage">Start page</string>
@@ -438,6 +440,7 @@
   <string name="profiler_started_toast">Profiler started</string>
   <string name="profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Setting wallpaper…</string>
+  <string name="quicklink_have_deleted">This site has been deleted</string>
   <string name="quicklink_have_modified">This site has been modified</string>
   <string name="quicklink_management_title">Add to start pag</string>
   <string name="quicklink_saved_before">This site has been added</string>

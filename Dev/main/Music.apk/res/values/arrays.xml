@@ -12,6 +12,8 @@
         <item>8</item>
         <item>9</item>
     </string-array>
-    <array name="number_value_entries">
+    <array name="number_value_entries_light">
+    </array>
+    <array name="number_value_entries_dark">
     </array>
 </resources>
