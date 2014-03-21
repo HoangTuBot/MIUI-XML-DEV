@@ -26,6 +26,6 @@ PackageInstaller.apk
 Phonesky.apk
 Settings.apk
 SettingsProvider.apk
-SystemUI
+SystemUI.apk
 TelephonyProvider.apk
 VpnDialogs.apk
