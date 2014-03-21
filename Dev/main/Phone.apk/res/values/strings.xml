@@ -143,13 +143,13 @@
   <string name="call_lost">Call has been lost.</string>
   <string name="call_number">To:</string>
   <string name="call_record_button_label">Recording %s</string>
+  <string name="call_record_error_access">"Can't record while you're in Guest mode"</string>
   <string name="call_record_notification_message_low_space_miui">Recording has stopped: Not enough space.</string>
   <string name="call_record_notification_message_miui">Touch to view %s.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">Recording has stopped: SD card is unmounted.</string>
   <string name="call_record_notification_message_start_failed">Recording function is being used by another app.</string>
   <string name="call_record_notification_title_error_miui">Call recording failed</string>
   <string name="call_record_notification_title_miui">Call recorded</string>
-  <string name="call_record_path_name_of_sdcard_miui">SD card</string>
   <string name="call_record_sd_error_miui">Failed to access SD card</string>
   <string name="call_record_sd_space_low_miui">Not enough space: your SD card is too full</string>
   <string name="call_record_setting_miui">Record settings</string>

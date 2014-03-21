@@ -16,7 +16,7 @@
   <string name="autumn_equinox">秋分</string>
   <string name="callNoAnswerTimeFormat">Ring %s times</string>
   <string name="call_record_or">or</string>
-  <string name="call_record_sample_prefix_miui">Call recording</string>
+  <string name="call_record_sample_prefix_miui">Call</string>
   <string name="caller_info_name_delimiter">Or</string>
   <string name="check_phone_error_title">"Sync hasn't been activated"</string>
   <string name="check_phone_io_error">Network error</string>
@@ -577,7 +577,7 @@ Memory available: %2$s"</string>
   <string name="v5_date_picker_label_year"/>
   <string name="v5_date_time_picker_dialog_title">Set reminder time</string>
   <string name="v5_deselect_all">Deselect all</string>
-  <string name="v5_edit_mode_title_empty">Select items</string>
+  <string name="v5_edit_mode_title_empty">0 selected</string>
   <string name="v5_icon_menu_bar_more_item_label">More</string>
   <string name="v5_select_all">Select all</string>
   <string name="v5_time_picker_label_hour">H</string>

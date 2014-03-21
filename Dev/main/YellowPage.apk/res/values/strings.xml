@@ -29,6 +29,7 @@
   <string name="custom_mark_category">Custom</string>
   <string name="data_error">An error occurred</string>
   <string name="delete">Delete</string>
+  <string name="do_not_remind_me">"Don't remind me"</string>
   <string name="express_inqiury_select_logistics">Delivery company</string>
   <string name="express_inquiry">Tracking</string>
   <string name="express_inquiry_button_text">Track</string>
@@ -83,6 +84,7 @@ Please your check tracking number."</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_unavaliable">"Couldn't connect to network"</string>
   <string name="no_more_result">No more results</string>
+  <string name="notify_connect_every_time">Ask for networking permission every time</string>
   <string name="order_empty_hint">No orders</string>
   <string name="order_id">Order ID:%s</string>
   <string name="order_merchant_title">My orders</string>
@@ -125,6 +127,7 @@ Please your check tracking number."</string>
   <string name="recharge_payment_result_ok_summary">Confirm that this amount is reflected in your balance.</string>
   <string name="recharge_payment_result_ok_title">Added RMB %s</string>
   <string name="recharge_payment_result_progress_summary">Checking payment result…</string>
+  <string name="recharge_phone_number_empty">The phone number you entered should not be empty</string>
   <string name="recharge_phone_number_error">The phone number you entered is invalid</string>
   <string name="recharge_select_money_title">Select top-up value</string>
   <string name="recharge_status_description">Status:</string>

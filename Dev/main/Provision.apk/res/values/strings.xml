@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="continues">Continue</string>
-  <string name="data_usage_summary">"If your monthly plan doesn't include mobile data, your carrier may charge additional fees for mobile data use"</string>
-  <string name="default_gprs_sim_name">"Enter \"%s\"'s monthly data plan limit"</string>
   <string name="next">Next</string>
   <string name="other_service_google_location">Google location service</string>
   <string name="other_service_google_location_use">Location &amp; Google search</string>
@@ -25,9 +23,4 @@
   <string name="sim_card_detection_info"/>
   <string name="sim_card_detection_label">SIM card</string>
   <string name="sim_card_detection_status_absent">No SIM card detected</string>
-  <string name="traffic_protection_label">Data usage monitor</string>
-  <string name="traffic_protection_summary">"Set alerts for when have reached your data plan's monthly limit"</string>
-  <string name="traffic_protection_text_hint">Enter your monthly data plan limit</string>
-  <string name="traffic_protection_unknown">&lt;u&gt;Setup later&lt;/u&gt;</string>
-  <string name="use_data">Data enabled</string>
 </resources>

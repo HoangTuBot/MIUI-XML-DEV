@@ -193,6 +193,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_title_dspt" formatted="false">"Total space %s 
  used %s | remaining %s"</string>
   <string name="micloud_title_full_dspt">"You've reached your storage limit!"</string>
+  <string name="micloud_upgrade_space">Upgrade space</string>
   <string name="micloud_use_existing">Sign in</string>
   <string name="micloud_user_base_info">User info</string>
   <string name="micloud_user_email">Email</string>

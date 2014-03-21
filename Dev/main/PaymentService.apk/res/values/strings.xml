@@ -32,6 +32,7 @@
   <string name="bankcall_province">Province</string>
   <string name="bankcall_saved_card_info">%1$s - Card No. %2$s</string>
   <string name="bankcall_xiaomi_company">Xiaomi Corporation (Beijing)</string>
+  <string name="btn_agree">Agree</string>
   <string name="btn_back">Return</string>
   <string name="btn_call">Call</string>
   <string name="btn_count_down_auto">Inquire after %1$s seconds</string>
@@ -123,6 +124,8 @@ Wait five minutes and try again."</string>
   <string name="giftcard_denom_frozen">MiCredit frozen</string>
   <string name="giftcard_empty">No gift cards.</string>
   <string name="giftcard_expire">%1$s expired</string>
+  <string name="giftcard_expire_notification_prime_title">Yikes! Your promotional code is about to expire …</string>
+  <string name="giftcard_expire_notification_sub_title">Your Mi Credit Gift Card expires on %1$s</string>
   <string name="giftcard_hint">MiCredits added via gift card will be spent first automatically.</string>
   <string name="giftcard_push_notification_prime_title">"You've received a gift certificate"</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit giveaway.</string>
@@ -176,9 +179,9 @@ Wait five minutes and try again."</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Forgot pattern password&lt;/u&gt;</string>
   <string name="login">Login</string>
   <string name="memu_refresh">Refresh</string>
-  <string name="mibi_license_message">Touch OK if you agree to the terms and conditions described in the %1$s.</string>
+  <string name="mibi_license_message">"You're about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. Touch OK if you agree to the terms and conditions described in the %1$s."</string>
   <string name="mibi_license_message_span">MiCredit User Agreement</string>
-  <string name="mibi_license_title">User agreement</string>
+  <string name="mibi_license_title">Terms and conditions</string>
   <string name="mili_center">MiCredit</string>
   <string name="msg_denomination_type">MiCredit</string>
   <string name="msg_error">Top-up failed</string>
@@ -188,8 +191,6 @@ Wait five minutes and try again."</string>
   <string name="msg_picker_hint_1_2">Topping up via text maybe more expensive: &lt;font color=red&gt;￥%1$d = %2$d MiCredit&lt;/font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">Carriers charge a ￥%1$s service fee per top-up</string>
-  <string name="msg_picker_hint_3_1">3.</string>
-  <string name="msg_picker_hint_3_2">Maximum monthly top-up: ￥%1$s</string>
   <string name="msg_progress_hint_2_1">Your network provider has been contacted!</string>
   <string name="msg_progress_hint_2_2">You will receive a text confirmation shortly.</string>
   <string name="msg_send_no_net_error">"Failed to send message: couldn't connect to network provider."</string>
@@ -217,6 +218,8 @@ Wait five minutes and try again."</string>
   <string name="prepaid_error_carrier">Select carrier</string>
   <string name="prepaid_error_denomination">Select amount</string>
   <string name="prepaid_error_password">Card password invalid.</string>
+  <string name="prepaid_grid_carrier_hint">Select carrier</string>
+  <string name="prepaid_grid_denomination_hint">Select amount</string>
   <string name="prepaid_number_edit_hint">Number</string>
   <string name="prepaid_password_edit_hint">Password</string>
   <string name="prepaid_picker_hint_1_1">1.</string>
@@ -224,8 +227,6 @@ Wait five minutes and try again."</string>
   <string name="prepaid_picker_hint_2_1">2.</string>
   <string name="prepaid_picker_hint_2_2_a">"Selected nominal value must be consistent with that of the prepaid card. Choosing another value will void the card. This action can't be undone."</string>
   <string name="prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red&gt;￥%1$s&lt;/font&gt;, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
-  <string name="prepaid_picker_title_default">Select amount</string>
-  <string name="prepaid_picker_title_selected">amount</string>
   <string name="progress_bankcall_card_creating">Generating order…</string>
   <string name="progress_bankcall_card_querying">Checking account type…</string>
   <string name="progress_creating">Retrieving order info…</string>

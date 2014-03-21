@@ -7,7 +7,7 @@
   <string name="app_name">Themes</string>
   <string name="apply_font_btn_exclude">Apply theme without font</string>
   <string name="apply_font_btn_reboot">Reboot</string>
-  <string name="apply_font_tip">Reboot to apply theme font.</string>
+  <string name="apply_font_tip">"Reboot to apply this theme's font."</string>
   <string name="apply_lockscreen_paper_tips">"This screen lock doesn't support different wallpapers."</string>
   <string name="apply_theme_no_select_message">Choose components</string>
   <string name="apply_theme_with_ringtones">Apply theme ringtones</string>
@@ -51,10 +51,9 @@
   <string name="mi_wallpaper">MIUI wallpaper</string>
   <string name="online_no_network">"Couldn't connect to network"</string>
   <string name="online_search_hint">Search for online resources</string>
-  <string name="payment_info">MiCredits</string>
+  <string name="payment_info">Mi Credits</string>
   <string name="purchased_list">Purchased List</string>
   <string name="resource_account_abnormal_state">Account error. Try again later.</string>
-  <string name="resource_account_current">Account: %1$s</string>
   <string name="resource_account_fail_to_add">Failed to add account</string>
   <string name="resource_account_login">Sign in</string>
   <string name="resource_account_login_before_action">Sign in to your Xiaomi Account now</string>
@@ -201,14 +200,14 @@ the content you're looking for is not currently available in your region."</stri
   <string name="resource_update">Update</string>
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Waiting</string>
-  <string name="restore_default_theme_alert">Use the MIUI Themes app to purchase or re-download.</string>
+  <string name="restore_default_theme_alert">Use the Themes app to purchase or re-download.</string>
   <string name="sdcard_not_mounted_dialog_message">"Insert SD card now.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
   <string name="selected_resource_file_invalid">Selected resource file is invalid</string>
   <string name="settings">Settings</string>
   <string name="short_ringtone_resource">Short</string>
-  <string name="theme_batch_has_update_text">%1$d themes have new updates.</string>
+  <string name="theme_batch_has_update_text">Updates available for %1$d themes.</string>
   <string name="theme_batch_update_all">Update all</string>
   <string name="theme_batch_update_dlg_content">Update now?</string>
   <string name="theme_batch_update_dlg_content_single">Update now?</string>
@@ -239,14 +238,14 @@ the content you're looking for is not currently available in your region."</stri
   <string name="theme_component_title_ringtone">Ringtone</string>
   <string name="theme_component_title_statusbar">Status bar</string>
   <string name="theme_component_title_wallpaper">Home screen</string>
-  <string name="theme_current_using_has_update">"There's a new update for the theme you're currently using."</string>
+  <string name="theme_current_using_has_update">"There's an update for the theme you're using."</string>
   <string name="theme_description_title_customized">Custom</string>
   <string name="theme_description_title_default">Default</string>
   <string name="theme_immediately_apply_tip">Apply theme update now?</string>
   <string name="theme_import_activity_label">Theme update</string>
   <string name="theme_import_from_sdcard">Import from SD card</string>
   <string name="theme_name">%1$s</string>
-  <string name="theme_select_others">Custom</string>
+  <string name="theme_select_others">Browse</string>
   <string name="third_party_pickers_activity_title">Set %1$s</string>
   <string name="title_component">Components</string>
   <string name="title_local">Local</string>

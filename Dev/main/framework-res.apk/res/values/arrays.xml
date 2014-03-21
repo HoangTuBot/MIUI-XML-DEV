@@ -72,6 +72,7 @@
         <item>sync_failing</item>
         <item>sync_active</item>
         <item>gps</item>
+        <item>location</item>
         <item>bluetooth</item>
         <item>bluetooth_handsfree_battery</item>
         <item>nfc</item>

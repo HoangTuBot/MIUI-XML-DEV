@@ -144,14 +144,14 @@
         <item>"Today's forecast for @: $."</item>
         <item>Low~high: %.</item>
         <item>Remember to bring an umbrella!</item>
-        <item></item>
-        <item>"If you're drying clothes outside, remember to take them in later! :)"</item>
-        <item>"If possible, don't drive."</item>
+        <item>Try to stay dry! :)</item>
+        <item>"If you're drying clothes outside, remember to take them in later!"</item>
+        <item>Avoid driving if possible.</item>
         <item>Drive safely!</item>
         <item>"Be careful out there, it's slippery."</item>
-        <item></item>
+        <item>Take your time. Be careful out there.</item>
         <item>Be careful outside.</item>
-        <item>"Don't go out unless you need to."</item>
+        <item>"Don't go outside unless you need to."</item>
         <item>Wear sunscreen and bring sunglasses.</item>
         <item>Wear sunscreen and bring sunglasses.</item>
         <item>"It's windy out. Remember to wear a jacket."</item>
@@ -174,11 +174,11 @@
         <item>0</item>
         <item>Unavailable</item>
         <item>6</item>
-        <item>Use sunscreen and wear hat and sunglasses when outdoors.</item>
+        <item>Use sunscreen. Wear a hat and sunglasses when outdoors.</item>
         <item>7</item>
-        <item>Use sunscreen and wear hat and sunglasses when outdoors.</item>
+        <item>Use sunscreen. Wear a hat and sunglasses when outdoors.</item>
         <item>8</item>
-        <item>Use sunscreen and wear hat and sunglasses when outdoors.</item>
+        <item>Use sunscreen. Wear a hat and sunglasses when outdoors.</item>
         <item>9</item>
         <item>Avoid sun if possible. Use sunscreen if you need to go out!</item>
         <item>10</item>
@@ -214,7 +214,7 @@
         <item>2</item>
         <item>Bring additional layers!</item>
         <item>3</item>
-        <item>Weather is not ideal; bring additional layers!</item>
+        <item>It may get colder. Bring additional layers!</item>
         <item>4</item>
         <item>Exercise indoors!</item>
     </string-array>
@@ -262,7 +262,7 @@
         <item>1</item>
         <item>"It's a great day to dry clothes."</item>
         <item>3</item>
-        <item>It will rain intermittently throughout the day.</item>
+        <item>Intermittent rain throughout the day.</item>
         <item>5</item>
         <item>Good drying conditions.</item>
         <item>4</item>
@@ -284,7 +284,7 @@
         <item>33</item>
         <item>"Today's weather will be volatile."</item>
         <item>34</item>
-        <item>Clear skies, mild wind.</item>
+        <item>Clear skies and mild winds.</item>
     </string-array>
     <string-array name="weather_info_fl">
         <item></item>

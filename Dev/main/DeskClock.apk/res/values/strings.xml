@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_0063">false</string>
   <string name="add_alarm">Add alarm</string>
   <string name="alarm_alert">Default ringtone</string>
   <string name="alarm_alert_alert_silenced">Alarm silenced after %d minutes.</string>
@@ -15,7 +14,7 @@
   <string name="alarm_notify_snooze_label">%s snooze</string>
   <string name="alarm_notify_text">Snooze or dismiss alarm.</string>
   <string name="alarm_repeat">Repeat</string>
-  <string name="alarm_screen">Alarm Screen and ringtone</string>
+  <string name="alarm_screen">Alarm screen and ringtone</string>
   <string name="alarm_settings">Alarm settings</string>
   <string name="alarm_vibrate">Vibrate</string>
   <string name="alarm_volume_summary">Set alarm volume</string>
@@ -40,7 +39,7 @@
   <string name="default_alarm_alert">Set default alarm sound</string>
   <string name="default_alarm_title">Default ringtone</string>
   <string name="default_label">Alarm</string>
-  <string name="delelte_selected_timezone">Are you sure you want to delete the selected timezone(s)?</string>
+  <string name="delelte_selected_timezone">Delete the selected timezones?</string>
   <string name="delete">Delete</string>
   <string name="delete_alarm">Delete alarm</string>
   <string name="delete_alarm_confirm">Delete this alarm?</string>
@@ -89,7 +88,7 @@
   <string name="time">Time</string>
   <string name="timer_alert_alert_silenced">Timer silenced after %d minutes.</string>
   <string name="timer_continue">Continue</string>
-  <string name="timer_got_it">Got it</string>
+  <string name="timer_got_it">OK</string>
   <string name="timer_message">%1$d minutes</string>
   <string name="timer_message_with_hour">%1$d hours and %2$d minutes</string>
   <string name="timer_start_alarm">"Time's up!"</string>
@@ -98,6 +97,6 @@
   <string name="volume_button_setting_summary">"Set volume buttons' function during alarm"</string>
   <string name="volume_button_setting_title">Volume buttons</string>
   <string name="workday_alarm_clock">Workday alarm</string>
-  <string name="worldclock_empty_text">No world clocks</string>
+  <string name="worldclock_empty_text">No clocks</string>
   <string name="worldclock_title">Clock</string>
 </resources>
