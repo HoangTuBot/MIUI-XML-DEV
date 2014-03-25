@@ -203,6 +203,20 @@ if [ $# -gt 0 ]; then
                		    		exit
           			fi
                			ISO=$4
+			elif [ "$2" == "--url" ] || [ $2 == "-u" ]; then
+				BASENAME=$(basename $3)
+				if [ -e $BASENAME ]; then
+					ZIP=$BASENAME
+				else
+					axel -n120 $3
+					if [ -e $BASENAME ]; then
+						ZIP=$BASENAME
+					else
+						echo "${txtred}WARNING:${txtrst} url not specified or invalid: aborting"; sleep 1
+               		    			exit
+          				fi
+               			ISO=$4
+				fi
 			fi
                 else 
                		echo -e "zip not specified or not found, using default: update.zip"; sleep 1
@@ -219,6 +233,20 @@ if [ $# -gt 0 ]; then
                		    		exit
           			fi
                			ISO=$4
+			elif [ "$2" == "--url" ] || [ $2 == "-u" ]; then
+				BASENAME=$(basename $3)
+				if [ -e $BASENAME ]; then
+					ZIP=$BASENAME
+				else
+					axel -n120 $3
+					if [ -e $BASENAME ]; then
+						ZIP=$BASENAME
+					else
+						echo "${txtred}WARNING:${txtrst} url not specified or invalid: aborting"; sleep 1
+               		    			exit
+          				fi
+               			ISO=$4
+				fi
 			fi
                 else 
                		echo -e "zip not specified or not found, using default: update.zip"; sleep 1
