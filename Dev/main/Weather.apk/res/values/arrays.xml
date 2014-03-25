@@ -93,56 +93,56 @@
         <item></item>
         <item></item>
         <item></item>
-        <item>"It's raining heavily. Remember to bring an umbrella!"</item>
-        <item>"It's raining heavily. Remember to bring an umbrella!"</item>
-        <item>"It's raining heavily. Remember to bring an umbrella!"</item>
-        <item>"If you're going out, remember to bring an umbrella!"</item>
-        <item>"If you're going out, remember to bring an umbrella!"</item>
-        <item>"If you're going out, remember to bring an umbrella!"</item>
-        <item>"It's going to rain today. Remember to bring an umbrella!"</item>
-        <item>"It's drizzling outside. Remember to bring an umbrella!"</item>
-        <item>"There's a mix of rain and snow outside. Remember to bring an umbrella!"</item>
-        <item>"It's snowing heavily. Remember to bundle up!"</item>
-        <item>"It's going to snow today. Remember to bundle up!"</item>
-        <item>"It's snowing a lot. Remember to bundle up!"</item>
-        <item>"It's snowing a lot. Remember to bundle up!"</item>
-        <item>"There's a light snowfall. Remember to wear a hat and scarf."</item>
-        <item>"There's a very strong sand storm. Remember to wear a face mask."</item>
-        <item>"It's raining quite a bit. Remember to bring an umbrella."</item>
-        <item>"There's a very strong sand storm going on out there. Remember to wear a face mask."</item>
-        <item>"There's a very strong sand storm going on out there. Remember to wear a face mask."</item>
-        <item>"It's not everyday you see hail! Walk carefully!"</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bundle up!</item>
+        <item>Remember to bundle up!</item>
+        <item>Remember to bundle up!</item>
+        <item>Remember to bundle up!</item>
+        <item>Remember to bundle up!</item>
+        <item>Be careful out there!</item>
+        <item>Be careful out there!</item>
+        <item>Be careful out there!</item>
+        <item>Be careful out there!</item>
+        <item>Be careful! The roads are slippery.</item>
     </string-array>
     <string-array name="weather_sms_content">
-        <item>Remember to wear sunscreen.</item>
+        <item>Remember to put on sunscreen.</item>
         <item>It will be cloudy today.</item>
-        <item>The weather will take a turn for the worse. Try to stay indoors.</item>
-        <item>Drive safely :)</item>
-        <item>"It's raining heavily. Remember to bring an umbrella!"</item>
-        <item>"It's raining heavily. Remember to bring an umbrella!"</item>
-        <item>"It's raining heavily. Remember to bring an umbrella!"</item>
-        <item>Bring an umbrella!</item>
-        <item>Bring an umbrella!</item>
-        <item>Bring an umbrella! :)</item>
-        <item>Bring an umbrella!</item>
-        <item>"It's drizzling outside, bring an umbrella!"</item>
-        <item>"There's a mix of rain and snow outside. Remember to bring an umbrella!"</item>
-        <item>"It's snowing heavily!"</item>
-        <item>It will snow today. Remember to bring a hat and scarf.</item>
-        <item>"It's snowing heavily. Remember to bundle up!"</item>
-        <item>"It's snowing quite a bit. Remember to wear a hat and scarf!"</item>
-        <item>"It's snowing! Remember to wear a hat and scarf!"</item>
-        <item>"There's a very strong sand storm going on out there. Remember to wear a face mask."</item>
-        <item>"There's a very strong sand storm going on out there. Remember to wear a face mask."</item>
-        <item>"There's a very strong sand storm going on out there. Remember to wear a face mask."</item>
-        <item>"There's a very strong sand storm going on out there. Remember to wear a face mask."</item>
-        <item>"It's not everyday you see hail! Walk carefully!"</item>
-        <item>Air quality is poor. Remember to wear a mask.</item>
-        <item>Air quality is poor. Try to stay indoors.</item>
+        <item>Try to stay indoors.</item>
+        <item>Drive safely</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>Remember to bring an umbrella!</item>
+        <item>"It's really coming down out there!"</item>
+        <item>Remember to bring a hat and scarf.</item>
+        <item>Bundle up!</item>
+        <item>Remember to wear a hat and scarf!</item>
+        <item>Remember to wear a hat and scarf!</item>
+        <item>Remember to wear a mask.</item>
+        <item>Remember to wear a mask.</item>
+        <item>Remember to wear a mask.</item>
+        <item>Remember to wear a mask.</item>
+        <item>"It's really coming down out there!"</item>
+        <item>Remember to wear a mask.</item>
+        <item>Try to stay indoors.</item>
     </string-array>
     <string-array name="weather_sms_addons">
-        <item>"Today's forecast for @: $."</item>
-        <item>Low~high: %.</item>
+        <item>"It's $ in @."</item>
+        <item>Temperature: % degrees.</item>
         <item>Remember to bring an umbrella!</item>
         <item>Try to stay dry! :)</item>
         <item>"If you're drying clothes outside, remember to take them in later!"</item>
@@ -151,38 +151,38 @@
         <item>"Be careful out there, it's slippery."</item>
         <item>Take your time. Be careful out there.</item>
         <item>Be careful outside.</item>
-        <item>"Don't go outside unless you need to."</item>
-        <item>Wear sunscreen and bring sunglasses.</item>
+        <item>Try not to be outdoors.</item>
+        <item>Bring your sunglasses.</item>
         <item>Wear sunscreen and bring sunglasses.</item>
         <item>"It's windy out. Remember to wear a jacket."</item>
-        <item>Air quality is poor. Remember to wear a mask.</item>
+        <item>Remember to wear a mask.</item>
         <item>Remember to bring a jacket.</item>
-        <item>Remember to wear a mask :)</item>
+        <item>Remember to wear a mask.</item>
         <item>Remember to bring gloves and a hat.</item>
         <item>"It's hot out!"</item>
-        <item>"It's hot out!"</item>
+        <item>Try to stay cool!</item>
         <item>Bundle up!</item>
-        <item>A cold spell is coming…</item>
-        <item>Bundle up!</item>
-        <item>Wear ear muffs if you have them! :)</item>
-        <item>Go for a run!</item>
-        <item>Go for a run and get some sun! :)</item>
+        <item>The temperature may drop…</item>
+        <item>Try to stay warm!</item>
+        <item>Wear ear muffs if you have them!</item>
+        <item>Go outside and enjoy the weather.</item>
+        <item>Go for a run and get some sun!</item>
         <item>"It's a good day to dry clothes!"</item>
-        <item>"It's getting cool. Remember to wear a jacket!"</item>
+        <item>Remember to wear a jacket!</item>
     </string-array>
     <string-array name="weather_info_uv">
         <item>0</item>
         <item>Unavailable</item>
         <item>6</item>
-        <item>Use sunscreen. Wear a hat and sunglasses when outdoors.</item>
+        <item>"Don't forget to use sunscreen."</item>
         <item>7</item>
-        <item>Use sunscreen. Wear a hat and sunglasses when outdoors.</item>
+        <item>"Don't forget to use sunscreen."</item>
         <item>8</item>
-        <item>Use sunscreen. Wear a hat and sunglasses when outdoors.</item>
+        <item>"Don't forget to use sunscreen."</item>
         <item>9</item>
-        <item>Avoid sun if possible. Use sunscreen if you need to go out!</item>
+        <item>Put on sunscreen if you need to go out!</item>
         <item>10</item>
-        <item>Avoid sun if possible. Use sunscreen if you need to go out!</item>
+        <item>Put on sunscreen if you need to go out!</item>
     </string-array>
     <string-array name="weather_info_dress">
         <item>0</item>
@@ -210,11 +210,11 @@
         <item>0</item>
         <item>Unavailable</item>
         <item>1</item>
-        <item>"It's a good day for morning exercises!"</item>
+        <item>"It's a good day for morning exercises"</item>
         <item>2</item>
-        <item>Bring additional layers!</item>
+        <item>Bring layers!</item>
         <item>3</item>
-        <item>It may get colder. Bring additional layers!</item>
+        <item>Bring layers!</item>
         <item>4</item>
         <item>Exercise indoors!</item>
     </string-array>
@@ -230,7 +230,7 @@
         <item>23</item>
         <item>Clear skies and uncomfortable temperatures</item>
         <item>24</item>
-        <item>Hot and humid! :(</item>
+        <item>Hot and humid!</item>
     </string-array>
     <string-array name="weather_info_wcar">
         <item>0</item>
@@ -276,9 +276,9 @@
         <item>32</item>
         <item>Clear and sunny with good temperatures.</item>
         <item>2</item>
-        <item>Mild and stable temperatures.</item>
+        <item>Comfortable and stable temperatures.</item>
         <item>1</item>
-        <item>Mild and stable temperatures.</item>
+        <item>Comfortable and stable temperatures.</item>
         <item>3</item>
         <item>"Today's weather will be volatile."</item>
         <item>33</item>
@@ -288,7 +288,7 @@
     </string-array>
     <string-array name="weather_info_fl">
         <item></item>
-        <item>Wear layers!</item>
+        <item>Bundle up!</item>
         <item>微风</item>
         <item>Comfortable</item>
         <item>暂缺</item>

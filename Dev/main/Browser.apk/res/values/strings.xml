@@ -84,7 +84,7 @@
   <string name="bookmark_url_not_valid">"This URL isn't valid."</string>
   <string name="bookmarks">Bookmarks</string>
   <string name="bookmarks_content_is_null">No bookmarks</string>
-  <string name="bookmarks_management">Bookmarks</string>
+  <string name="bookmarks_management">Manage bookmarks</string>
   <string name="bookmarks_root_folder">Root folder</string>
   <string name="bookmarks_search">Browser</string>
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Swipe down to close</string>

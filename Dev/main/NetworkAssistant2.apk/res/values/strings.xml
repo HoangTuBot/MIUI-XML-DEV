@@ -82,6 +82,8 @@ Remaining"</string>
 Used"</string>
   <string name="manual_input_free_traffic">Set off-peak data usage</string>
   <string name="manual_input_traffic">Set data usage</string>
+  <string name="network_assistant_upgraded_body">Tap to restrict data usage.</string>
+  <string name="network_assistant_upgraded_title">Update finished</string>
   <string name="network_control">View app settings</string>
   <string name="notification_content_title">Used %1$s while locked</string>
   <string name="notification_title">%1$s-%2$s: about %3$s used</string>

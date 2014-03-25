@@ -6,7 +6,7 @@
         <item quantity="two">Uninstall %s and 1 other app?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%1$ apps uninstalled</item>
+        <item quantity="other">%1$d apps uninstalled</item>
         <item quantity="one">App uninstalled</item>
     </plurals>
     <plurals name="uninstall_result_failed">
