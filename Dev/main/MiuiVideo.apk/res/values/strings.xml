@@ -73,6 +73,7 @@
   <string name="download_is_in_tasklist">Has been in caching list</string>
   <string name="download_is_success">Has been cached</string>
   <string name="download_percent_hint">Downloading %d%%</string>
+  <string name="download_select_more">Cahce more</string>
   <string name="edit">Edit</string>
   <string name="edit_comment">Add comment</string>
   <string name="episode">Episode</string>
@@ -140,6 +141,7 @@
   <string name="offline">Offline</string>
   <string name="offline_alert_title">Caching Notification</string>
   <string name="offline_alert_wifi">You are using cellular network, to save your data usage, the caching tasks are paused and will be continue after you switch to wifi network.</string>
+  <string name="offline_max_promote">Waiting for cache, there are at most 2 caching tasks can be running at the same time.</string>
   <string name="offline_no_source">No available caching source</string>
   <string name="offline_no_wifi">You are not using wifi, please check the cellular option in the setting page if you want to cache now.</string>
   <string name="offline_setting">Offline media</string>

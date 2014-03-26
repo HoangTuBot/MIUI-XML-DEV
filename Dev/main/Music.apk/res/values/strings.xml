@@ -14,6 +14,7 @@
   <string name="artist_view">Artist</string>
   <string name="audio_picker_title">Choose a song</string>
   <string name="bill_list_fragment_title">Popular</string>
+  <string name="blank_reminder">Cannot be empty</string>
   <string name="buffering">Buffering…</string>
   <string name="button_add">Add</string>
   <string name="cancel">Cancel</string>
@@ -75,6 +76,7 @@
   <string name="playback_failed_no_title_by_bad_file">"Song can't be played. Format isn't supported or the file doesn't exist."</string>
   <string name="recommend_fragment_title">Recommend</string>
   <string name="retry">Retry</string>
+  <string name="same_name_reminder">Cannot duplicate names</string>
   <string name="search_hint">Artist.Song.Album</string>
   <string name="search_title">Search</string>
   <string name="send_to">Send to</string>

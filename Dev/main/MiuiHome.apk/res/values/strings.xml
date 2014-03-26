@@ -18,6 +18,7 @@
   <string name="cant_remove_system_app">"Can't remove system app"</string>
   <string name="chooser_wallpaper">Choose wallpaper from</string>
   <string name="confirm_btn_label">OK</string>
+  <string name="current_wallpaper">Current</string>
   <string name="custom_wallpaper_picker">Browse</string>
   <string name="default_folder_title_game">Games</string>
   <string name="default_folder_title_recommend">More Apps</string>
