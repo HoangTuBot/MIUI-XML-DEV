@@ -1185,4 +1185,9 @@ phone will open automatically when connected to a computer."</item>
         <item>android.permission.WRITE_SOCIAL_STREAM</item>
         <item>com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</item>
     </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>Network is slow due to too much traffic</item>
+        <item>Network is slow due to weak signal strength</item>
+        <item>Moving…</item>
+    </string-array>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_account_desc">Notes can be synced to your Xiaomi Account. Sign in and sync now?</string>
+  <string name="add_account_desc">Sync your notes with your Mi Account?</string>
   <string name="alert_action_edit_anyway">Continue editing</string>
   <string name="alert_edit_action_delete">Remove</string>
   <string name="alert_edit_action_update">Modify</string>
@@ -8,7 +8,6 @@
   <string name="alert_message_delete_folders_notes">Delete %1$s folders and %2$s notes?</string>
   <string name="alert_message_delete_note">Delete this note?</string>
   <string name="alert_message_delete_notes">Delete %1$s notes?</string>
-  <string name="alert_message_discard_changes">Discard changes?</string>
   <string name="alert_message_edit_anyway">If you edit this note some of its contents may be lost.</string>
   <string name="alert_title_edit_anyway">This note contains unsupported contents</string>
   <string name="app_name">Notes</string>
@@ -22,7 +21,7 @@
   <string name="dlg_desc_confirm_alarm_silent">Active alarms will not sound when ringer is silenced.</string>
   <string name="dlg_title_confirm_alarm_silent">Silence alarms</string>
   <string name="enable_sync">Sync</string>
-  <string name="enable_sync_desc">Notes can be synced with your Xiaomi Account %1$s, sync now?</string>
+  <string name="enable_sync_desc">Sync your notes with your Mi Account (%1$s)?</string>
   <string name="error_contact_not_exist">"Contact doesn't exist"</string>
   <string name="error_note_empty_for_clock">"Can't set reminder time for an empty note"</string>
   <string name="error_note_empty_for_send_to_desktop">"Empty notes can't be placed on Home screen"</string>
@@ -37,7 +36,6 @@
   <string name="login_sync">Sign in &amp; sync</string>
   <string name="menu_create_folder">New folder</string>
   <string name="menu_delete">Delete</string>
-  <string name="menu_discard">Discard all changes</string>
   <string name="menu_folder_change_name">Change folder name</string>
   <string name="menu_move">Move</string>
   <string name="menu_move_parent_folder">Parent folder</string>
@@ -55,11 +53,9 @@
   <string name="note_link_tel">Call</string>
   <string name="note_link_web">Browse web</string>
   <string name="notealert_enter">Take a look</string>
-  <string name="notealert_ok">OK</string>
+  <string name="notealert_ok">Ignore</string>
   <string name="notelist_menu_new">Add note</string>
   <string name="notelist_string_info">...</string>
-  <string name="notify_alarm_action_mute">Mute</string>
-  <string name="notify_alarm_action_view">View</string>
   <string name="notify_alarm_title">Note reminder</string>
   <string name="permdesc_accessNote">Malicious apps can use this to access your personal info.</string>
   <string name="permlab_accessNote">Access your notes</string>
@@ -69,6 +65,7 @@
   <string name="pref_title_font_size">Font size</string>
   <string name="pref_title_note_style">Note style</string>
   <string name="preferences_title">Settings</string>
+  <string name="redo">Redo</string>
   <string name="search">Notes</string>
   <string name="search_hint">Search Notes</string>
   <string name="search_label">Searching notes</string>
@@ -80,6 +77,7 @@
   <string name="toast_message_add_image_fail">Failed to add image</string>
   <string name="toast_reach_text_limit_attachment">"Can't add new attachments because the note is too long"</string>
   <string name="toast_reach_text_limit_truncate">This note is too long. Some text has been cut off of the end to make it fit.</string>
+  <string name="undo">Undo</string>
   <string name="widget_havenot_content">No associated note found. Touch to create an associated note. To resize it, hold &amp; drag an edge.</string>
   <string name="widget_under_visit_mode">"Can't view notes in Guest mode"</string>
 </resources>

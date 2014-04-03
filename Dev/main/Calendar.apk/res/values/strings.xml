@@ -33,7 +33,7 @@
   <string name="ampm_circle_radius_multiplier">0.19</string>
   <string name="app_label">Calendar</string>
   <string name="attendees_label">Guests</string>
-  <string name="blank_space">"    "</string>
+  <string name="blank_space">"  "</string>
   <string name="calendar_color_picker_dialog_title">Calendar Color</string>
   <string name="calendar_refresh">Refresh</string>
   <string name="calendar_square_color_picker_description">Color picker</string>

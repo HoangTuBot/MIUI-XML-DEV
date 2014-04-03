@@ -552,12 +552,16 @@ album from anywhere.
   <string name="enter_email_hint">Enter email address</string>
   <string name="error_album_not_exist">"Album doesn't exist"</string>
   <string name="error_cloud_not_active">Cloud album not in use</string>
+  <string name="error_forbidden">There are some problems with your account: Sync disabled.</string>
   <string name="error_invalid_link">Invalid link</string>
+  <string name="error_not_acceptable">Server error: Sync disabled.</string>
   <string name="error_repeat_apply">This album has already been shared</string>
   <string name="error_share_with_creator">You are a member of this album already</string>
   <string name="error_should_not_select_image">"File type isn't supported"</string>
   <string name="error_should_not_select_video">"File type isn't supported"</string>
   <string name="error_socket_timeout">Network connection timed out</string>
+  <string name="error_title">Sync error</string>
+  <string name="error_unauthorized">Too many sign-in attempts: Sync disabled.</string>
   <string name="error_unknown_host">No network detected</string>
   <string name="exit">Exit</string>
   <string name="exit_share">Exit album</string>
@@ -667,8 +671,6 @@ album from anywhere.
   <string name="menu_item_sort_name_desc">Name (ascending)</string>
   <string name="menu_item_sort_size_asc">Size (ascending)</string>
   <string name="menu_item_sort_size_desc">Size (descending)</string>
-  <string name="menu_item_sort_visit_asc">Frequency (ascending)</string>
-  <string name="menu_item_sort_visit_desc">Frequency (descending)</string>
   <string name="menu_view_contact">View contact</string>
   <string name="message_no_delete_access">"You don't have permission to delete %s"</string>
   <string name="message_no_delete_access_with_count">"You don't have permission these %d files."</string>
@@ -875,7 +877,7 @@ album from anywhere.
   <string name="time_line_view">TimeLine_View</string>
   <string name="times">Times</string>
   <string name="tint">Tint</string>
-  <string name="title">Title</string>
+  <string name="title">File name</string>
   <string name="to_count">%d total</string>
   <string name="too_many_recipients">Too many recipients (%1$s). (Max: %2$s recipients)</string>
   <string name="try_to_send">Send</string>
@@ -901,5 +903,6 @@ album from anywhere.
   <string name="widget_type_photo">Choose an image</string>
   <string name="widget_type_shuffle">Shuffle all images</string>
   <string name="width">Width</string>
+  <string name="yellow_page">Directory</string>
   <string name="yes">Yes</string>
 </resources>

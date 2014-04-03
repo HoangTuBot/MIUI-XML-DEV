@@ -52,6 +52,8 @@
   <string name="advertise_suspend_window">Prevent floating window</string>
   <string name="allow">Allow</string>
   <string name="already_in_top_level">The bookmark is already in top level</string>
+  <string name="app_new_version">Download complete and latest version of application installed already</string>
+  <string name="app_update_install">Download complete and ready to install upgraded version</string>
   <string name="application_name">Browser</string>
   <string name="autofill_profile_editor_address_line_1">Address line 1:</string>
   <string name="autofill_profile_editor_address_line_1_hint">Street address, P.O. box, c/o</string>
@@ -170,6 +172,8 @@
   <string name="disable_autofill">Disable auto-fill</string>
   <string name="do_not_save">Cancel</string>
   <string name="done">Done</string>
+  <string name="download_complete">File download complete</string>
+  <string name="download_failed">Download failed</string>
   <string name="download_no_sdcard_dlg_msg">USB storage is required to download %s.</string>
   <string name="download_no_sdcard_dlg_title">USB storage unavailable</string>
   <string name="download_pending">Starting download…</string>
@@ -187,6 +191,10 @@
   <string name="error_console_eval_text_hint">Evaluate JavaScript</string>
   <string name="error_console_header_text_maximized">JavaScript console</string>
   <string name="error_console_header_text_minimized">Show JavaScript console</string>
+  <string name="error_forbidden">There are some problems with your account: Sync disabled.</string>
+  <string name="error_not_acceptable">Server error: Sync disabled.</string>
+  <string name="error_title">Sync error</string>
+  <string name="error_unauthorized">Too many sign-in attempts: Sync disabled.</string>
   <string name="find_in_page_close_accessibility_text">close find in page</string>
   <string name="find_in_page_down_accessibility_text">find next</string>
   <string name="find_in_page_edit_text_hint">Enter find text</string>

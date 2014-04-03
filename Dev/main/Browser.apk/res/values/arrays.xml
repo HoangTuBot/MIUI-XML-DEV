@@ -827,30 +827,6 @@
         <item>shipin</item>
         <item>tupian</item>
     </string-array>
-    <integer-array name="readmode_content_font_size">
-        <item>18</item>
-        <item>20</item>
-        <item>24</item>
-    </integer-array>
-    <integer-array name="readmode_title_font_size">
-        <item>26</item>
-        <item>28</item>
-        <item>32</item>
-    </integer-array>
-    <integer-array name="readmode_theme_bgcolors">
-        <item>0xfff8f8f8</item>
-        <item>0xffd7cabc</item>
-        <item>0xff272831</item>
-    </integer-array>
-    <integer-array name="readmode_theme_fontcolors">
-        <item>0xe6000000</item>
-        <item>0xff543a20</item>
-        <item>0x33ffffff</item>
-    </integer-array>
-    <integer-array name="readmode_fontsize_fontcolors">
-        <item>0x99000000</item>
-        <item>0xffffffff</item>
-    </integer-array>
     <string-array name="google_in_list">
         <item>search_google</item>
         <item>ic_search_engine_google</item>
